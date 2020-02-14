@@ -1,4 +1,4 @@
-Поддержка русского языка в Silent Hill 2 Enchanced Editon (пока только текст и меню)
+Поддержка русского языка в Silent Hill 2 Enchanced Editon
 
 Руссификация будет работать только на Enchanced Edition игры https://github.com/elishacloud/Silent-Hill-2-Enhancements
 

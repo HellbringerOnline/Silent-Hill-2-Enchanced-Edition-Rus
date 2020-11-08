@@ -1,6 +1,10 @@
-Поддержка русского языка в Silent Hill 2 Enchanced Editon
+Адаптация всех доступных в сети русификаторов Silent Hill 2 под проект Silent Hill 2 Enchanced Editon.
+Отличия от других адаптаций:
+• Более каноничный шрифт в т.ч. знаки пунктуации тоже заменены на новые.
+• Подогнанное вручную расстояние между символами.
+• Более правильные спрайты подсветки пунктов меню.
 
-Руссификация будет работать только на Enchanced Edition игры https://github.com/elishacloud/Silent-Hill-2-Enhancements
+Русификация будет работать только на Enchanced Edition игры https://github.com/elishacloud/Silent-Hill-2-Enhancements
 
 Установка:
 1. Установить Silent Hill 2

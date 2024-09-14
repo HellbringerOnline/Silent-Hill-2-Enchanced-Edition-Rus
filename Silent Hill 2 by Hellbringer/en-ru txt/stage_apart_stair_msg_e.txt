@@ -1,0 +1,12 @@
+﻿--------------- strings=5 language=english
+---------------
+Лестница сломана(разрушена металл).
+	Выше не подняться.<SEPARATORB>
+---------------
+Я взял <COLOR-GREEN>сок в банках<COLOR-WHITE>.<SEPARATORB>
+---------------
+Я взял <COLOR-GREEN>карту апартаментов<COLOR-WHITE>.<SEPARATORB>
+---------------
+Я взял <COLOR-GREEN>карту западного корпуса апартаментов<COLOR-WHITE>.<SEPARATORB>
+---------------
+Я использовал <COLOR-GREEN>ключ от внутреннего двора<COLOR-WHITE>.<SEPARATORB>

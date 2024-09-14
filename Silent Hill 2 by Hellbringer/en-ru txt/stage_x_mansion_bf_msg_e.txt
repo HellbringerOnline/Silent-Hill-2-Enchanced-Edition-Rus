@@ -1,0 +1,10 @@
+﻿--------------- strings=2 language=english
+---------------
+На полу лежит какая-то plate плита.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Эми Болдуин
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Бог любил ее очень сильно.
+	Семь лет - слишком мало.<SEPARATORB>
+---------------
+<COLOR-BLUE>Не подходить к особняку с привидениями<SEPARATORB>

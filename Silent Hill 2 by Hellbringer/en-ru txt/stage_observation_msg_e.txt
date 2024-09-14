@@ -1,77 +1,107 @@
-﻿--------------- strings=30 language=english
----------------
-По этой дороге я приехал.
-	Незачем возвращаться.<SEPARATORB>
----------------
-Дальше не проехать.
-	Похоже, придется идти пешком...<SEPARATORB>
----------------
-Карта.
-	Было бы неплохо взять ее.<SEPARATORB>
----------------
-Больше ничего, что стоило бы взять.<SEPARATORB>
----------------
-На пассажирском сиденье ничего нет.<SEPARATORB>
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 30
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+This is the road I came in on. There's no point in going back.
+Отсюда я приехал. Незачем возвращаться.
+
+
+I can't go any further by car. Guess I'll have to walk...
+Дальше не проехать. Похоже, придется идти пешком...
+
+
+There's a map in the car. It might be a good idea to take it.
+Карта. Было бы неплохо взять ее.
+
+
+There's nothing else worth taking.
+Больше ничего, что стоило бы взять.
+
+
+There's nothing on the passenger's seat. 
 На пассажирском сиденье ничего нет.
 
-На водительском сиденье лежит карта.<SEPARATORB>
----------------
-Мэри...
-	Ты правда в этом городе?
----------------
-В моих беспокойных снах
-	я вижу этот город.
----------------
-Сайлент Хилл.
----------------
-Ты обещал когда-нибудь снова
-	свозить меня сюда.
----------------
-Но ты так и не свозил.
----------------
-Что ж, теперь я здесь одна...
----------------
-В нашем "особом месте"...
----------------
-Жду тебя...
----------------
+
+There's nothing on the passenger's seat. The map is on the driver's seat.
+На пассажирском сиденье ничего нет.
+На водительском сиденье лежит карта.
+
+
+Mary... Could you really be in this town?
+Мэри... Ты правда в этом городе?
+
+
+In my restless dreams, I see that town. Silent Hill. You promised you'd take me there again someday. But you never did. Well I'm alone there now... In our "special place"... Waiting for you...
+letter_msg_e 14
+
+
+I got a letter.
 Мне пришло письмо.
----------------
-Конверт подписан именем
-	"Мэри".
----------------
+
+
+The name on the envelope said "Mary."
+Конверт подписан именем "Мэри".
+
+
+My wife's name...
 Именем моей жены...
----------------
-Глупости, 
-	это невозможно в принципе...
----------------
+
+
+It's ridiculous, couldn't possibly be true...
+Глупости, это невозможно в принципе...
+
+
+That's what I keep telling myself...
 Вот что я постоянно твержу себе...
----------------
+
+
+A dead person can't write a letter.
 Мертвые не пишут писем.
----------------
-Мэри умерла от своей поганой(дурацкой/распроклятой)
-	болезни три года назад.
----------------
+
+
+Mary died of that damn disease three years ago.
+Мэри умерла от своей проклятой болезни три года назад.
+
+
+So then why am I looking for her?
 Так зачем я ищу ее?
----------------
-Наше "особое место"...
-	Что она имела в виду?
----------------
-Весь город был нашим особым
-	местом.
----------------
-Может, она имела в виду парк у
-	озера?
----------------
-Мы проводили там дни напролет.
-	Только вдвоем, наблюдая за водой.
----------------
+
+
+Our "special place"... What could she mean?
+Наше "особое место"... Что она имела в виду?
+
+
+This whole town was our special place.
+Весь город был нашим особым местом.
+
+
+Does she mean the park on the lake?
+Может, она имела в виду парк у озера?
+
+
+We spent the whole day there. Just the two of us, staring at the water.
+Мы проводили там дни напролет. Только наедине, наблюдая за водой.
+
+
+Could Mary really be there?
 Неужели Мэри и правда там?
----------------
+
+
+Is she really alive... waiting for me?
 Она на самом деле жива... ждет меня?
----------------
-Я взял <COLOR-GREEN>карту Сайлент Хилла<COLOR-WHITE>.<SEPARATORB>
----------------
-Тебе лучше разобраться с этим
-	кашлем...
+
+
+I got a map of Silent Hill.
+Я взял карту Сайлент Хилла.
+
+
+You'd better do something about that cough...
+Тебе лучше разобраться с этим кашлем...

@@ -1,214 +1,168 @@
-﻿--------------- strings=75 language=english
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 75
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+There are lots of different things stuffed into the shelf. But there's nothing that looks useful.
 На полке много всего.
+Но нет ничего, что выглядит полезным.
 
-Но нет ничего, что выглядит
-	полезным.<SEPARATORB>
----------------
+
+There's a shelf here. It doesn't look like there's anything on it.
 Это полка.
+Не похоже, что на ней что-то есть. (Не похоже, что внутри что-нибудь есть. металл)
 
-Не похоже, что на ней что-то есть. (Не похоже, что внутри что-нибудь есть. металл)<SEPARATORB>
----------------
-Это полка.
 
-На ней красные отпечатки.
+There's a shelf here. There are red handprints on the shelf. Move the shelf?
+Это полка. На ней красные отпечатки. Сдвинуть?
 
-Сдвинуть?<SELECT-YES-OR-NO>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Я взял ключ директара - он от
-	музея. Я спрятал ево за
-	малящейся женщиной, когда ходил
-	на дневную прогулку. Я забрал
-	ево, но я не крал ево. Я не
-	приступник.<SEPARATORB>
----------------
-На земле (полу металл) лежит записка
-	с неразборчивым текстом.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Я взял ключ директара - он от
-	музея. Я спрятал ево за
-	малящейся женщиной, когда ходил
-	на дневную прогулку. Я забрал
-	ево, но я не крал ево. Я не
-	приступник.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>медное кольцо<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ от кладовой в подвале<COLOR-WHITE>.<SEPARATORB>
----------------
+I took the direckters's key – the one to the mooseum. I hid it behind the preying woman when I went out for the day trip. I picked it up but I did not steal it. I'm not a krimminal.
+memo_msg_e 646
+
+
+There's a note on the ground. Inside is some kind of hard to read writing.
+I took the direckters's key – the one to the mooseum. I hid it behind the preying woman when I went out for the day trip. I picked it up but I did not steal it. I'm not a krimminal.
+На земле(полу металл) лежит записка с неразборчивым текстом.
+memo_msg_e 646
+
+
+I got the copper ring.
+Я взял медное кольцо.
+
+
+I used the basement storeroom key.
+Я использовал ключ от кладовой в подвале.
+
+///
+James!
 Джеймс!
----------------
+
+
+Mary! Oh Maria it's you... I thought you were.... Sorry... Anyway, I'm glad you're alive...
 Мэри!
----------------
 О, Мария, это ты...
-	Я думал, ты....
----------------
+Я думал, ты....
 Прости...
----------------
 Короче, я рад, что ты жива...
----------------
-"Все равно"!?
----------------
+
+
+"Anyway"!? What do you mean "Anyway"!? You don't sound very happy to see me. I was almost killed back there! Why didn't you try to save me? All you care about is that dead wife of yours! I've never been so scared in my whole life! You couldn't care less about me, could you?
+"Короче"!?
 Что значит "короче"!?
----------------
-По-моему, ты не очень-то рад
-	меня видеть.
----------------
+По-моему, ты не очень-то рад меня видеть.
 Меня там чуть не убили!
----------------
 Почему ты не стал меня спасать?
----------------
-Все, что тебя волнует, - это
-	твоя мертвая жена!
----------------
-Мне никогда в жизни не было так
-	страшно!
----------------
+Все, что тебя волнует, - это твоя мертвая жена!
+Мне никогда в жизни не было так страшно!
 Неужели тебе наплевать на меня?
----------------
+
+
+No, I just...
 Нет, я просто...
----------------
+
+
+Then stay with me! Don't ever leave me alone! You're supposed to take care of me! So what about Laura? Did you find her?
 Тогда будь со мной!
----------------
 Никогда не оставляй меня одну!
----------------
 Ты должен заботиться обо мне!
----------------
 Кстати, а что с Лорой?
-	Ты нашел ее?
----------------
+Ты нашел ее?
+
+
+Yeah, but she ran away.
 Да, но она удрала.
----------------
+
+
+We've got to find her!
 Нужно найти ее!
----------------
-Похоже, ты переживаешь за нее. 
-	Ты ее знаешь?
----------------
-Мы с ней незнакомы.
----------------
-Просто мне жалко ее. 
-	Она совсем одна...
----------------
-И почему-то...
----------------
+
+
+You really seem to care about her. Do you know her?
+Похоже, ты переживаешь за нее. Ты ее знаешь?
+
+
+I never met her before. I just feel sorry for her. She's all alone... And for some reason... I feel like it's up to me to protect her.
+I never met her before. I just feel sorry for her. She's all alone... And for some reason... I feel like it's up to me to protect her.
+Мы с ней незнакомы. Просто мне жалко ее. Она совсем одна... И почему-то...
 я чувствую, что обязана защищать ее.
----------------
-Всем привет, спасибо, что
-	настроились.
----------------
-Приветствуем вас в очередном
-	увлекательном выпуске "Сладости
-	или гадости"!
----------------
-Здесь вы либо правильно
-	отвечаете на вопросы и
-	выигрываете большой приз,
----------------
-либо отвечаете неправильно и
-	получаете наказание..
----------------
+//
+
+//
+Hi there everybody, thanks for tuning in. Welcome to another exciting edition of "Trick or Treat"! Here you either answer the questions correctly and win a great prize, or fail to answer correctly and receive the punishment. It all depends on you. And our lucky, or should I say unlucky, challenger today is James! James Sunderland! Are you ready to play "Trick or Treat"?
+
+Okay, here's your first question.
+Merry-Go-Round, haunted house, roller coaster, ferris wheel and tea cups. Silent Hill is home to a thrilling amusement park that both children and adults love.The question is: What is the name of this amusement park?
+One, Fantasy Land.
+Two, Silent Hill Amusement Park.
+Three, Lakeside Amusement Park.
+
+Okay, quickly on to question number two.
+Silent Hill witnessed a gruesome murder a few years back. A brother and sister were playing in the road when they were attacked and chopped into pieces with an axe. Torn flesh, smashed bones, splattered blood, and finally.... What a terrible tragedy. What a gruesome end to such innocent lives. What was the name of the murderer who committed this vile act?
+One, Walter Sullivan.
+Two, Scott Fairbanks.
+Three, Eric Gein.
+
+Now for our third and final question. South of the lake is a deserted old neighborhood called South Vale. From there to Paleville, the central resort area northwest of the lake, there's only one road you can take. Just one road, no more. The third and final question is: What is the name of that road?
+One, Bachman Road.
+Two, Rendell Street.
+Three, Nathan Avenue.
+
+Well, that's the last of our questions. Have you got it all figured out? When you know the answers, head to the storeroom on the 3rd floor to collect your prizes! But be careful. If you're wrong.... Well then everybody, thanks for tuning in. See you again sometime. Bye bye!
+
+What was that?
+
+Всем привет, спасибо, что настроились.
+Приветствуем вас в очередном увлекательном выпуске "Сладости или гадости"!
+Здесь вы либо правильно отвечаете на вопросы и выигрываете большой приз,
+либо отвечаете неправильно и получаете наказание.
 Все зависит только от вас.
----------------
-И наш счастливый, или, лучше
-	сказать, несчастный, участник
-	сегодня - Джеймс!
----------------
+И наш счастливый, или, лучше сказать, несчастный, участник сегодня - Джеймс!
 Джеймс Сандерленд!
----------------
-Вы готовы сыграть в "Сладость
-	или гадость"?
----------------
+Вы готовы сыграть в "Сладость или гадость"?
+
 Итак, вот ваш первый вопрос.
----------------
-Карусель, 
-	дом с привидениями,
----------------
-американские горки, чертово колесо 
-	и чайные чашки.
----------------
-В Сайлент Хилле находится
-	восхитительный парк развлечений,
----------------
-который обожают и дети,
-	и взрослые.
----------------
+Карусель, дом с привидениями, американские горки, чертово колесо и чайные чашки.
+В Сайлент Хилле находится восхитительный парк развлечений,
+который обожают и дети, и взрослые.
 Вопрос:
-	Как называется этот
-	парк развлечений? 
----------------
+Как называется этот парк развлечений?
 Один, "Фентези Лэнд".
----------------
 Два, Парк развлечений Сайлент Хилл.
----------------
 Три, Парк развлечений "Лейксайд".
----------------
-Итак, скорее перейдем к вопросу
-	номер два.
----------------
-Несколько лет назад Сайлент Хилл
-	потрясло чудовищное убийство.
----------------
-Брат с сестрой играли на улице,
-	как вдруг на них напали и
-	порубили на куски топором.
----------------
-Порубленная плоть, раздробленные 
-	кости, брызги крови и, 
-	наконец.... 
----------------
+
+Итак, скорее перейдем к вопросу номер два.
+Несколько лет назад Сайлент Хилл потрясло чудовищное убийство.
+Брат с сестрой играли на улице, как вдруг на них напали и порубили на куски топором.
+Порубленная плоть, раздробленные кости, брызги крови и, наконец....
 Какая страшная трагедия.
----------------
-Какой ужасный конец для столь
-	невинных жизней.
----------------
-Как звали убийцу, совершившего
-	это чудовищное деяние?
----------------
+Какой ужасный конец для столь невинных жизней.
+Как звали убийцу, совершившего это чудовищное деяние?
 Один, Уолтер Салливан.
----------------
 Два, Скотт Фэрбенкс.
----------------
 Три, Эрик Гейн.
----------------
-А сейчас третий и заключительный
-	вопрос.
----------------
-К югу от озера находится старый
-	заброшенный район под названием
-	Саут-Вейл.
----------------
-От него до Палевиля,
-	центрального курортного района к
-	северо-западу от озера, 
----------------
+
+А сейчас третий и заключительный вопрос.
+К югу от озера находится старый заброшенный район под названием Саут-Вейл.
+От него до Палевиля, центрального курортного района к северо-западу от озера,
 ведет только одна дорога.
----------------
-Только одна дорога, не больше.
----------------
-Третий и заключительный вопрос:
-	Как называется эта дорога?
----------------
+Только одна дорога, не больше. Третий и заключительный вопрос: Как называется эта дорога?
 Один, Бакман-роуд.
----------------
 Два, Ренделл-стрит.
----------------
 Третий, Натан-авеню.
----------------
-Что ж, это последний из наших
-	вопросов.
----------------
+
+Что ж, это последний из наших вопросов.
 Вы уже на все ответили?
----------------
-Когда ответите, отправляйтесь в
-	кладовую на 3-м этаже, и
-	заберите свои призы!
----------------
-Но будьте осторожны.
-	Если вы ошиблись....
----------------
-Ну что ж, всем спасибо за
-	внимание. До новых встреч. 
----------------
+Когда ответите, отправляйтесь в кладовую на 3-м этаже, и заберите свои призы!
+Но будьте осторожны. Если вы ошиблись....
+Ну что ж, всем спасибо за внимание. До новых встреч.
 Пока-пока!
----------------
+
 Что это было?

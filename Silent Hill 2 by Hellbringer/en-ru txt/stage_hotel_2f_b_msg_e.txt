@@ -1,70 +1,67 @@
-﻿--------------- strings=16 language=english
----------------
-Больше ничего не слышно.<SEPARATORB>
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 16
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+I can't hear anything anymore.
+Больше ничего не слышно.
+
+
+The title is "Crimson Ceremony"
+Speak. I am the Crimson One. The lies and the mist are not they but I. You all know that I am One. Yes, and the One is I.
+Believers hearken to me! Twenty score men and seven thousand beasts. Heed my words and speaketh them to all, that they shall ever be obeyed even under the light of the proud and merciless sun.
+I shall bring down bitter vengeance upon thee and thou shalt suffer my eternal wrath.
+The beauty of the withering flower and the last struggles of the dying man, they are my blessings.
+Thou shalt ever call upon me and all that is me in the place that is silent.
+Oh, proud fragrance of life which flies towards the heart. Oh Cup which brims with the whitest of wine, it is in thee that all begins.
 Название: «Багровая церемония».
+item_msg_e 782
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Молвите.
-	Я есть Багр.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Ложь и мгла не они, но я.
-	Вы все знаете, что я - Един.
-	Да, и Единый есть я.
+I got a book: "Crimson Ceremony".
+Я взял книгу: "Багровая церемония".
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Верующие, слушайте меня!
-	Сорок десятков людей и семь тысяч
-	тварей. Внемлите словам моим и
-	возвестите их всем, дабы повиновались
-	им даже под светом гордого и
-	беспощадного солнца.
+////
+Mary's going to die...? You... you must be joking...
+Мэри скоро умрет...? Вы... вы, наверное, шутите...
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Я обрушу страшную месть на тебя, и
-	будешь страдать от вечного гнева моего.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Красота увядающего цветка и последняя
-	борьба умирающего - вот мои
-	благословения.
+I'm very sorry.
+Мне очень жаль.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Ты будешь вечно взывать ко мне и ко
-	всему, что есть я, в месте, где царит
-	безмолвие.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>О, гордый жизни аромат, что к сердцу
-	поднимается. О, Кубок, наполненный
-	белейшим вином, с тебя все начинается.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>книгу: "Багровая церемония"<COLOR-WHITE>.<SEPARATORB>
----------------
-Мэри скоро умрет...?
-	Вы... вы, наверное, шутите...
----------------
-Мне очень жаль
----------------
-Но вы же доктор.
-	Это ваша работа - лечить людей!
----------------
-Как вы можете просто дать ей умереть!
----------------
+But you're a doctor. It's your job to heal people! How can you just let her die!
+Но вы же доктор. Это ваша работа - лечить людей! Как вы можете просто дать ей умереть!
+
+
+Please calm down. As her doctor, I promise I'll do what I can. But... there's still no effective treatment for her condition.
 Пожалуйста, успокойтесь.
----------------
-Как ее доктор, я обещаю, что
-	сделаю все что в моих силах.
----------------
-Но... эффективного метода лечения
-	ее болезни до сих пор нет.
----------------
+Как ее доктор, я обещаю, что сделаю все что в моих силах. Но... эффективного метода лечения ее болезни до сих пор нет.
+
+
+How long does she have?
 Сколько ей осталось?
----------------
+
+
+I'm afraid I'm not sure. 3 years at most.... Perhaps 6 months... It's impossible to say with certainty.
 Боюсь, я не знаю точно.
----------------
-3 года в лучшем случае....
-	Может быть, 6 месяцев...
----------------
+3 года в лучшем случае.... Может быть, 6 месяцев...
 Нельзя сказать наверняка.
----------------
+////
+
+
+There's a book here. It doesn't look like it will be of any particular use.
 Книга.
-	Не похоже, что она будет чем-то
-	полезна.<SEPARATORB>
----------------
+Не похоже, что она будет чем-то полезна.
+
+
+Tourist brochures are lined up here. I'm not interested in them right now.
 Туристические брошюры.
-	Сейчас они меня не интересуют.<SEPARATORB>
+Сейчас они меня не интересуют.

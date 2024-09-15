@@ -1,60 +1,81 @@
-﻿--------------- strings=16 language=english
----------------
-К двери приклеена записка.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Дорогой Тим,
-	 мне нужно срочно уехать по делам.
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 16
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Я оставил ключ от дома у дяди
-	 Дэвида. (Ты не забыл, где он живет?
-	 Ключ лежит в номере возле лестницы
-	 на первом этаже.).
-	  Пожалуйста, присмотри за домом
-	 пока меня не будет, я вернусь, как
-	 только смогу.<SEPARATORB>
----------------
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+There's a note stuck on the door.
+К двери приклеена записка.
+
+
+Dear Tim, I have to run an errand so I'm going out.
+ I left the house key with Uncle David (You know where he lives, don't you? The key is in the room near the first floor staircase.). I'll be back as soon as I can, so please watch the place while I'm gone.
+memo_msg_e 314
+
+
+It looks like there's something stuck inside the toilet. Will you take it out?
 Похоже, в унитазе что-то застряло.
+Вытащить?
 
-Вытащить?<SELECT-YES-OR-NO>
----------------
+
+It looks like a wallet. There's some kind of memo in it.  >> << >>
 Похоже на бумажник.
-	Внутри какая-то записка(памятка металл).
+Внутри какая-то записка(памятка металл).
 
-<CENTER-PARAGRAPH><VARIABLE-01> >><VARIABLE-02> <<<VARIABLE-03> >><VARIABLE-04><SEPARATORB>
----------------
+
+There's some kind of memo inside the wallet.  >> << >>
 В бумажнике какая-то записка(памятка металл).
 
-<CENTER-PARAGRAPH><VARIABLE-01> >><VARIABLE-02> <<<VARIABLE-03> >><VARIABLE-04><SEPARATORB>
----------------
-Больше ничего интересного.
 
-Незачем продолжать поиски.<SEPARATORB>
----------------
+There's nothing else interesting. There's no point in looking anymore.
+Больше ничего интересного. Незачем продолжать поиски.
+
+
+It's a small safe. It's closed tightly.
 Небольшой сейф.
-	Дверца надежно заперта.<SEPARATORB>
----------------
-В сейфе пусто.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ от лестничной клетки апартаментов<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ от дома Лайнов.<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ от лестничной
-	клетки апартаментов<COLOR-WHITE>.<SEPARATORB>
----------------
-На полу лежит газетный лист.
-	На вид давнишний.
+Двеца надежно заперта.
 
-Ничего особо интересного на нем
-	не написано.<SEPARATORB>
----------------
-Старая сломанная кровать.<SEPARATORB>
----------------
-Ничего, что могло бы
-	пригодиться.<SEPARATORB>
----------------
-Ничего, что могло бы хоть как-то
-	пригодиться.<SEPARATORB>
----------------
-Картина.
-	Ничего особо интересного.<SEPARATORB>
+
+There's nothing inside the vault.
+В сейфе пусто.
+
+
+I got the apartment stairway key.
+Я взял ключ от лестничной клетки апартаментов.
+
+
+I used the Lyne house key.
+Я использовал ключ от дома Лайнов.
+
+
+I used the apartment stairway key.
+Я использовал ключ от лестничной клетки апартаментов.
+
+
+There's a newspaper page on the ground. It looks like it's from long ago.
+There's nothing particularly interesting written in it.
+На полу лежит газетный лист.
+На вид давнишний.
+Ничего особо интересного на нем не написано.
+
+
+There's an old, broken-down bed here.
+Старая сломанная кровать.
+
+
+There's nothing that looks to be of use.
+Ничего, что могло бы пригодиться.
+
+
+There's nothing that looks to be of any use.
+Ничего, что могло бы хоть как-то пригодиться.
+
+
+A painting is displayed here. There's nothing of particular interest.
+stage_apart_e1f_msg_e 183

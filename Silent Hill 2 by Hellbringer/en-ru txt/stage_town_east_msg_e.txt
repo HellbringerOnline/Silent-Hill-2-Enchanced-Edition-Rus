@@ -1,188 +1,173 @@
-﻿--------------- strings=34 language=english
----------------
-Нет смысла возвращаться.
-	Я собираюсь искать Мэри....<SEPARATORB>
----------------
-Дорога заблокирована.
-	Дальше по ней не проехать(пройти?).
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 34
 
-Я не смогу добраться до парка
-	этим путем. Придется искать
-	другой.<SEPARATORB>
----------------
-Дорога заблокирована.
-	Дальше по ней не проехать(пройти?).
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-Я не смогу добраться до парка
-	этим путем. Придется искать
-	другой.<SEPARATORB>
----------------
-Мертв.... Это и есть то
-	существо...?
+BEGIN_SOURCE:
 
-Что творится в этом городе...?<SEPARATORB>
----------------
+
+There's no reason to go back. I'm going to look for Mary....
+Нет смысла возвращаться. Я собираюсь искать Мэри....
+
+
+The road is blocked. I can't go any further this way. I can't make it to the park this way. I'll have to find another way.
+Дорога заблокирована. Дальше по ней не проехать(пройти?).
+Я не смогу добраться до парка этим путем. Придется искать другой.
+
+
+There's been a cave-in on the road. I can't go any further this way. I can't make it to the park this way. I'll have to find another way.
+Дорога обвалилась. Дальше по ней не проехать(пройти?).
+Я не смогу добраться до парка этим путем. Придется искать другой.
+
+
+Dead.... Could it have been that creature...? What's going on in this town...?
+Мертв.... Это и есть то существо...?
+Что творится в этом городе...?
+
+
+Something is written on it.
+Too bad I can't read it because the surface has been rubbed away.
+Remains of XXXX Swamp
+The x meters of land surrounding this monument was originally swamp, but was later filled in.
+From long ago, the swamp was nicknamed Blood Swamp because the executioners poured the water used to wash the execution tools in here.
+Perhaps it's for that reason that many people claim to have seen ghosts in the area.
 На нем что-то написано.
+Жаль, не могу прочитать, поверхность стерлась.
+meme_msg_e 213
 
-Жаль, не могу прочитать,
-	поверхность стерлась.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Остатки <HIDDEN-TEXT>XXXX<HIDDEN-TEXT> болота
+Remains of XXXX Swamp
+The x meters of land surrounding this monument was originally swamp, but was later filled in.
+From long ago, the swamp was nicknamed Blood Swamp because the executioners poured the water used to wash the execution tools in here.
+Perhaps it's for that reason that many people claim to have seen ghosts in the area.
+meme_msg_e 213
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Раньше <HIDDEN-TEXT>x-мет<HIDDEN-TEXT>ровая территория во<HIDDEN-TEXT>круг<HIDDEN-TEXT>
-	памятника представляла собой болото,
-	которое со временем было зас<HIDDEN-TEXT>ыпано.<HIDDEN-TEXT>
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Из<HIDDEN-TEXT>дав<HIDDEN-TEXT>на б<HIDDEN-TEXT>олото<HIDDEN-TEXT> прозвали Кровавым,
-	потому что <HIDDEN-TEXT>пал<HIDDEN-TEXT>ачи сливали сюда
-	<HIDDEN-TEXT>воду, ко<HIDDEN-TEXT>торой очищали ору<HIDDEN-TEXT>дия
-	ка<HIDDEN-TEXT>зни.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Возможно, именно по это<HIDDEN-TEXT>й причин<HIDDEN-TEXT>е
-	многие лю<HIDDEN-TEXT>ди утверж<HIDDEN-TEXT>дают, что
-	ви<HIDDEN-TEXT>дели призраков<HIDDEN-TEXT> в этих местах.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Остатки <HIDDEN-TEXT>XXXX<HIDDEN-TEXT> болота
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Раньше <HIDDEN-TEXT>x-мет<HIDDEN-TEXT>ровая территория во<HIDDEN-TEXT>круг<HIDDEN-TEXT>
-	памятника представляла собой болото,
-	которое со временем было зас<HIDDEN-TEXT>ыпано.<HIDDEN-TEXT>
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Из<HIDDEN-TEXT>дав<HIDDEN-TEXT>на б<HIDDEN-TEXT>олото<HIDDEN-TEXT> прозвали Кровавым,
-	потому что <HIDDEN-TEXT>пал<HIDDEN-TEXT>ачи сливали сюда
-	<HIDDEN-TEXT>воду, ко<HIDDEN-TEXT>торой очищали ору<HIDDEN-TEXT>дия
-	ка<HIDDEN-TEXT>зни.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Возможно, именно по это<HIDDEN-TEXT>й причин<HIDDEN-TEXT>е
-	многие лю<HIDDEN-TEXT>ди утверж<HIDDEN-TEXT>дают, что
-	ви<HIDDEN-TEXT>дели призраков<HIDDEN-TEXT> в этих местах.<SEPARATORB>
----------------
+I can't escape right now.
+It's dangerous to turn my back on this monster.
 Я не могу сбежать прямо сейчас.
+Опасно поворачиваться спиной к этому монстру.
 
-Опасно поворачиваться спиной к этому монстру.<SEPARATORB>
----------------
+
+
+Oh...
 Ох...
----------------
-Оно мертво? 
-	Что это, черт возьми, такое?
----------------
+
+
+Is it dead? What the hell is it?
+Оно мертво? Что это, черт возьми, такое?
+
+
+It's not human...
 Это не человек...
----------------
+
+
+Oh yeah.
 Ах да.
----------------
+
+
+...This thing broken?
 ...Оно сломано?
----------------
+
+
+Ja.......... I'm........e...
+Come to .....................s...
+..............ting f................
+.............id you k.............
+Jam.......
 Дже.......... Я........т...
-	Приходи .....................с...
----------------
+Приходи .....................с...
+
 ..............ду теб................
----------------
+
 .............му ты у.............
----------------
+
 Джейм.......
----------------
+
+
+
+What the ...?
 Что за ...?
----------------
-Лучше его взять. 
-	Вдруг пригодится.
----------------
-Я взял <COLOR-GREEN>ключ от ворот апартаментов<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ от ворот апартаментов<COLOR-WHITE>.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Я напишу все, что мне удалось
-	 узнать. Возможно, это как-то
-	 поможет.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Если вы читаете это, то скорее
-	 всего меня уже нет в живых.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Я видел тех демонов. Они там
-	 были, я уверен. Но мой друг
-	 говорит, что ничего не видел.
-	 Если это так, то значит все
-	 это было иллюзией?
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Был ли тот демон, пожиравший
-	 людей, реальным, или это была
-	 всего лишь галлюцинация,
-	 нарисованная моим
-	 воображением... Одно я знаю
-	 точно: надежды у меня больше
-	 нет.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Похоже, их привлекает свет.
-	 Поэтому люди, нуждающиеся в
-	 освещении - их естественная
-	 добыча.
-	  Кроме того, у них очень острый
-	 слух.
+I'd better take it anyway. I might need it.
+Лучше его взять. Оно мне может понадобиться.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Если вы хотите жить, то лучше
-	 просто сидеть в темноте и
-	 молчать.
-	  Но даже это, скорее всего, вас
-	 не спасет.<SEPARATORB>>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Если вы собираетесь сражаться с
-	 ними, самое главное -
-	 расслабиться. Опасно в приступе
-	 паники стрелять из пистолета.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Хорошенько прицельтесь, а затем
-	 спустите курок. И не забывайте
-	 добивать их. Думаю, большинство
-	 этих существ можно убить, даже
-	 тех, что крепче людей.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Беги.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Беги! Беги! Беги!
-	Беги! Беги! Беги!
-	Беги! Беги! Беги!<SEPARATORB>
----------------
-На земле лежит блокнот.<SEPARATORB>
----------------
-На земле лежит вырванная (из блокнота) страница.<SEPARATORB>
----------------
+I got the apartment gate key.
+Я взял ключ от ворот апартаментов.
+
+
+I used the apartment gate key.
+Я использовал ключ от ворот апартаментов.
+
+
+I'm going to write everything that I've learned so far. Maybe that will help you out somehow. If you're reading this, it probably means I'm already dead.
+memo_msg_e 1094
+
+
+I saw those demons. They were there, I'm certain. But my friend says he didn't see anything. If that's true, does that mean that what I saw was an illusion?
+But whether that demon that ate human beings was real, or whether it was just some kind of hallucination that my mind dreamed up... one thing I know for sure is that I'm beyond all hope.
+memo_msg_e 1100
+
+
+ It seems that they're attracted to light. That's why people who need light to see are their natural prey. They also react strongly to sound.
+ If you want to go on living, you'd be better off just sitting in the dark and staying quiet. But even that probably won't save you.
+memo_msg_e 1106
+
+
+If you're going to try to fight them, the most important thing is to relax. It's dangerous to fire a gun while you're all crazy with fear.
+Take good aim, and then squeeze the trigger. And don't forget to finish them off. I think most of those creatures can be killed, even if they are tougher than people.
+memo_msg_e 1112
+
+
+Run away.
+memo_msg_e 796
+
+
+Run away! Run away! Run away!
+Run away! Run away! Run away!
+Run away! Run away! Run away!
+memo_msg_e 809
+
+
+There's a memo pad on the ground.
+Блокнот.
+
+
+A torn memo page is on the ground.
+Вырванная из блокнота страница.
+
+
+Are these marks... blood!?
 Это пятна... крови!?
----------------
-Эта тень...
----------------
-Эта тень беспокоит меня.
-	Что это было...?<SEPARATORB>
----------------
-Дверь, что просыпается во тьме
-	и отворяется в кошмары.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Или, возможно, ты глупец.
-	Правда обычно предает людей.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Часть этой бездны находится в
-	историческом сообществе.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Ключ к этому сообществу находится
-	в парке.
-	У подножия молящейся женщины, под
-	землей, в ящичке.
-	Чтобы открыть его, мне нужен ключ.
+That shadow just now...
+Силуэт...
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Мой пациент закопал его там.
-	Я знал, но ничего не сделал.
-	Мне было не по себе от того, что
-	такая вещь находится рядом.
-	Я не искал правды, я искал
-	спокойствия.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Я тоже видел его.
-	Я сбежал, но музей тоже был
-	запечатан.
-	Теперь никто не осмеливается
-	приближаться к этому месту.
+That shadow just now bothers me. What was that...?
+Та фигура беспокоит меня. Что это было...?
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Если вы и сейчас не намерены останавливаться,
-	Джеймс,
-	я молю Господа смилостивиться над
-	твоей вечной душой.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>гаечный ключ<COLOR-WHITE>.<SEPARATORB>
+
+The door that wakes in darkness, opening into nightmares.
+Дверь, что просыпается во тьме и отворяется в кошмары.
+
+
+
+Or perhaps you are a fool. The truth usually betrays people.
+A part of that abyss is in the old society.
+The key to the society is in the park. At the foot of the praying woman, inside of the ground, inside of a box. To open it, I need a wrench.
+My patient buried it there. I knew, but did nothing. It made me uneasy to have such a thing near. I wasn't looking for the truth, I was looking for tranquility.
+I also saw that thing. I fled, but the museum was sealed as well. Now no one dares to approach that place.
+If you still do not wish to stop, James, I pray to the Lord to have mercy on your eternal soul.
+memo_msg_e 1162
+
+
+I got a wrench.
+Я взял гаечный ключ.

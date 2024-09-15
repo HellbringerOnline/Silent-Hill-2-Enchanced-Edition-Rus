@@ -1,13 +1,30 @@
-﻿--------------- strings=5 language=english
----------------
-Стена.
-	Здесь не пройти.<SEPARATORB>
----------------
-Музыкальный автомат.
-	Сейчас он мне ни к чему.<SEPARATORB>
----------------
-Холодильник не открывается.<SEPARATORB>
----------------
-Шкафчик не открывается.<SEPARATORB>
----------------
-Здесь ничего полезного.<SEPARATORB>
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 5
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+It's a wall. I can't get through here.
+Стена. Здесь не пройти.
+
+
+A jukebox. I've got no use for that right now.
+Музыкальный автомат. Сейчас он мне ни к чему.
+
+
+The refrigerator won't open.
+Холодильник не открывается.
+
+
+The locker won't open.
+stage_hospital_2f_f_msg_e 14
+
+
+There's nothing useful here.
+Здесь ничего полезного.

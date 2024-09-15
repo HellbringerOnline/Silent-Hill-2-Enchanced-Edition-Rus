@@ -1,37 +1,48 @@
-﻿--------------- strings=9 language=english
----------------
-<COLOR-BLUE>Райская ночь<SEPARATORB>
----------------
-Просто стол.
-	Ничего необычного.<SEPARATORB>
----------------
-...Обычная сцена.
-	Ничего подозрительного.<SEPARATORB>
----------------
-Пустая банка, раковина, картонная коробка...
-	Ничего из этого не пригодится.<SEPARATORB>
----------------
-В коробке пусто.<SEPARATORB>
----------------
-Сложенные друг на друга
-	картонные коробки. Не похоже,
-	что здесь есть что-то полезное.<SEPARATORB>
----------------
-Бутылки с ликером.
-	Мне они не нужны.
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 9
 
-Не то чтобы я не пил.
-	Вообще, я пью довольно много.
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-Чтобы уйти от боли,
-	одиночества.... Но алкоголь
-	никогда ничего не изменит
+BEGIN_SOURCE:
 
-...В общем, пока он не нужен.
-	Мне есть чем заняться.<SEPARATORB>
----------------
-Бутылки с ликером.
-	Больше ничего интересного.<SEPARATORB>
----------------
-Цветочная ваза.
-	Больше ничего интересного.<SEPARATORB>
+
+
+Heaven's Night
+Райская ночь
+
+
+Just a normal table. There's nothing unusual about it.
+Просто стол. Ничего необычного.
+
+
+...Just a regular stage. There's nothing strange about it.
+...Обычная сцена. Ничего подозрительного.
+
+
+Empty can, sink, cardboard box... None of them will be of any use.
+Пустая банка, раковина, картонная коробка... Ничего из этого не пригодится.
+
+
+There's nothing inside the box.
+В коробке пусто.
+
+
+Stacked up cardboard boxes. It doesn't look like there's anything useful here.
+Сложенные друг на друга картонные коробки. Не похоже, что здесь есть что-то полезное.
+
+
+Liquor bottles. I don't need that right now. It's not that I don't drink. In fact, I drink a fair bit. To get away from the pain, the loneliness.... But the drinking never changes anything ...Anyway, I don't need it now. There's something that I have to do.
+Бутылки с ликером. Мне они не нужны. Не то чтобы я не пил. Вообще, я пью довольно много. Чтобы уйти от боли, одиночества.... Но алкоголь никогда ничего не изменит
+...В общем, пока он не нужен. Мне есть чем заняться.
+
+
+Liquor bottles. There's nothing else of interest.
+Бутылки с ликером. Больше ничего интересного.
+
+
+A flower vase. There's nothing else of interest.
+Цветочная ваза. Больше ничего интересного.

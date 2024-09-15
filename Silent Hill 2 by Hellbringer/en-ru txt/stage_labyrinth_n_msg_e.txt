@@ -1,276 +1,231 @@
-﻿--------------- strings=38 language=english
----------------
-<COLOR-BLUE>Этот человек был повешен за
-	убийство. Правосудие и
-	справедливость восторжествовали.<SEPARATORB>
----------------
-<COLOR-BLUE>Этот человек был повешен за
-	воровство. Правосудие и
-	справедливость восторжествовали.<SEPARATORB>
----------------
-<COLOR-BLUE>Этот человек был повешен за
-	похищение. Правосудие и
-	справедливость восторжествовали.<SEPARATORB>
----------------
-<COLOR-BLUE>Этот человек был повешен за
-	мошенничество. Правосудие и
-	справедливость восторжествовали.<SEPARATORB>
----------------
-<COLOR-BLUE>Этот человек был повешен за
-	хищения. Правосудие и
-	справедливость восторжествовали.<SEPARATORB>
----------------
-<COLOR-BLUE>Этот человек был повешен за
-	насилие. Правосудие и
-	справедливость восторжествовали.<SEPARATORB>
----------------
-<COLOR-BLUE>Этот человек был повешен за
-	подделку. Правосудие и
-	справедливость восторжествовали.<SEPARATORB>
----------------
-<COLOR-BLUE>Этот человек был повешен за
-	поджог. Правосудие и
-	справедливость восторжествовали.<SEPARATORB>
----------------
-Лицо закрыто листом бумаги.
-	На нем что-то написано.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Он совершил ужасное преступление.
-	Он превратил дом счастливой семьи
-	в кучу пепла.
-	За это он должен умереть. 
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 38
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Они тоже совершали преступления.
-	Они старались обмануть и
-	обхитрить других.
-	Поэтому их награда тоже
-	закономерна.
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Даже он не сможет получить
-	прощение,
-	Мой друг без левой руки.
-	Поэтому его смерть меня не
-	волнует.
+BEGIN_SOURCE:
 
-<CENTER-PARAGRAPH><COLOR-BLUE>А что же он?
-	Он тоже не безгрешен.
-	Здесь есть только один
-	невиновный.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Пропавшего ребенка не нашли,
-	Поэтому не было доказательств его
-	вины.
-	Его смерть стала трагедией.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Это все, что я хочу сказать.
-	Это не было ни правосудием, ни
-	возмездием.<SEPARATORB>
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Мертвецы, мертвецы
-	на дереве висят
-	Сколько мертвецов
-	твой замечает взгляд?
-	Посинели языки
-	и лица посерели
-	Смотри же, как они
-	качаются на древе
+This man was hung for the crime of murder. Justice and revenge have been served.
+Этот человек был повешен за убийство. Правосудие и справедливость восторжествовали.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Первый из них убил мясника
-	И на сковородке зажарил слегка
-	Его подал в блюде голодным гостям
-	Добавки подложил по просьбе им сам
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Второй с улыбкой и мешочком сластей
-	С улицы крал очень бедных детей
-	И людям, что были одеты ужасно,
-	Он их продавал в ужасное рабство
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Вломившись как-то ночью в дом
-	Был жутким страхом скован вор
-	Хлебнувши для храбрости эля стакан
-	Утро в тюрьме повстречал тот болван
+This man was hung for the crime of thievery. Justice and revenge have been served.
+Этот человек был повешен за воровство. Правосудие и справедливость восторжествовали.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Художник умелой своею рукой
-	Рисовать стал банкноты одну за другой
-	Преступник был найден во время дождя
-	Когда все чернила размыла вода
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Огромные прибыли всем обещая
-	И деньги чужие легко получая
-	Он тут же куда-то с глаз пропадал
-	И больше никто его не видал
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Три дома однажды сгорели дотла
-	Шериф долго думал, чья это вина
-	За странником в городе он проследил
-	Во всем обвинил и в тюрьму посадил
+This man was hung for the crime of kidnapping. Justice and revenge have been served.
+Этот человек был повешен за похищение. Правосудие и справедливость восторжествовали.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Мертвецы, мертвецы
-	На дереве висят
-	Сколько мертвецов
-	твой замечает взгляд?
-	Шесть футов в длину,
-	шесть людей в ширину
-	Шесть петель
-	вокруг их шей<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Я не хочу умирать, но завтра
-	мне предстоит преодолеть
-	тринадцать ступеней.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Пожалуйста, объясните, почему я
-	должен умереть утром?
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Человек, заключенный вместе со
-	мной, согласился: "Потому что
-	они все психи, вот почему", -
-	сказал он. Я знаю, что его
-	мнение ничего не изменит.
-	"Теперь ты знаешь, почему я на
-	них напал", - пробормотал он.
+This man was hung for the crime of swindling. Justice and revenge have been served.
+Этот человек был повешен за мошенничество. Правосудие и справедливость восторжествовали.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Человек, которого казнили
-	вчера, утверждавший, что продает
-	мечты, говорил, что это неправда.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Но человек, которого казнят
-	послезавтра за кражу детей,
-	прокричал, что это правда.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Человек, которого повесили
-	сегодня, не отвечал. "Меня все
-	равно убьют, - сказал он. Его
-	поймали на хищении
-	государственных средств, поэтому
-	шансов на помилование не было. 
+This man was hung for the crime of embezzlement. Justice and revenge have been served.
+Этот человек был повешен за хищения. Правосудие и справедливость восторжествовали.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Человек, который всегда тихо
-	улыбался, сказал: "Я счастлив,
-	ведь скоро буду с ней".
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Я не хочу умирать, я просто
-	хочу вернуться домой. Но знаю,
-	что этому не бывать. Я не сделал
-	ничего плохого, но это
-	преступление повесили на меня.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Пожалуйста, помогите мне. Это
-	не правосудие, они жаждут крови,
-	а я - их жертвенный агнец!<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Мы можем обрушить смерть на
-	голову грешника, но в чем
-	польза?
+This man was hung for the crime of bodily injury. Justice and revenge have been served.
+Этот человек был повешен за насилие. Правосудие и справедливость восторжествовали.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Во имя возмездия мы участвовали
-	сегодня в трагикомедии.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Ты, подвешенный за шею,
-	Непрощенный и проклятый всеми.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Пятеро из них совершили
-	преступления, шестой пошел
-	выпить и был пойман.
+This man was hung for the crime of counterfeiting. Justice and revenge have been served.
+Этот человек был повешен за подделку. Правосудие и справедливость восторжествовали.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Лишь один из них был невиновен,
-	но они этого не знали.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Пятна крови - доказательство их
-	вины.
-	Тропинки, проторенные таким
-	образом - пути в Ад или Пустоту.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Белые повязки, окрашенные в
-	багровый,
-	Пепелище на выжженной черной
-	земле,
-	Глухие вопли девушки.
-	Они - всего лишь бессмысленный
-	контракт.
+This man was hung for the crime of arson. Justice and revenge have been served.
+Этот человек был повешен за поджог. Правосудие и справедливость восторжествовали.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Они - тоже признаки вины.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Но одного казнили без причины.
-	Он погиб только по вине страха и
-	разыгравшегося воображения.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Одиноко покачиваясь на конце
-	веревки, он не что иное, как
-	позор для всех нас.<SEPARATORB>
----------------
-С потолка свисает петля.
+His face is covered with a piece of paper. There's something written on it.
+Лицо закрыто листом бумаги. На нем что-то написано.
 
-Потянуть?<SELECT-YES-OR-NO>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Только безгрешный может помочь
-	здесь.
-	Ошибочно потяни петлю
-	преступника, и награда вернется
-	к тебе(вам?) в самом диковинном виде.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Остерегайтесь наказания<SEPARATORB>
----------------
-Думаю, больше нет смысла тянуть
-	за петлю.<SEPARATORB>
----------------
-Ручку не отвернуть,
-	мешают наручники.<SEPARATORB>
----------------
-На надгробии высечено имя.
 
-<COLOR-BLUE>Эдди Домбровски<SEPARATORB>
----------------
-На надгробии высечено имя.
+He committed an evil crime.
+He turned a happy home into a pile of ash.
+For that, he should die.
+They also committed crimes.
+They tried to fraud and trick others.
+So their reward too is natural.
+Even he cannot be forgiven,
+My friend without his left hand.
+And so his death bothers me not.
+And what of him?
+He also is not sinless.
+There is only one here who is innocent.
+The missing child was nowhere to be found,
+And so there was no proof of his guilt.
+His death was a tragedy.
+That is all I wish to say.
+It was neither justice nor retribution.
 
-<COLOR-BLUE>Анжела Ороско<SEPARATORB>
----------------
-На надгробии высечено имя.
+memo_msg_e 928
 
-<COLOR-BLUE>Джеймс Сандерленд<SEPARATORB>
----------------
-Мария?
----------------
-Мария...?
----------------
-Мария, нет....
----------------
-Что случилось с тобой?
----------------
-За что... за что....
----------------
-Мэри....
----------------
-Здесь (В этой комнате in this room) больше ничего нужного....<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ Гонимого<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ Гонимого<COLOR-WHITE>.<SEPARATORB>
----------------
-На надгробии высечено имя.
 
-<COLOR-BLUE>Уолтер Салливан<SEPARATORB>
----------------
-Имя на надгробии слишком
-	затерто, чтобы разобрать.<SEPARATORB>
----------------
-Эпитафия.
+Dead men, dead men swinging in a tree
+How many dead men do you see?
+Tongue turned blue and face gone grey
+Watch them as they twist and sway
 
-<COLOR-BLUE>Этот преступник выпил последнюю 
-	бутылку эля перед казнью и был 
-	навеки здесь упокоен.<SEPARATORB>
----------------
-На надгробии высечено имя.
+The first one killed the butcher man
+Then cooked him in the frying pan
+Served him to his hungry guests
+And gave them seconds on request
 
-<COLOR-BLUE>Мириам К. - "Предательница"<SEPARATORB>
----------------
-Глубокая могила(яма?).
-	Но пустая.<SEPARATORB>
----------------
+The next one with his smile and sweets
+Stole poor children off the streets
+To men who dressed unsavory
+He sold them into slavery
+
+Breaking into a home at night
+The thief he had a nasty fright
+Filled his foolish head with ale
+Woke in the morn in the county jail
+
+The artist with his daunting skill
+Tried his hand at painting bills
+But caught in rain he was undone
+When the ink he'd use did start to run
+
+With promises of great return
+Taking gold he did not earn
+Bundled it up out of sight
+Quietly slipped off into night
+
+Three houses into ashes burned
+The sheriff with no place to turn
+Did spy a stranger to his town
+Locked him up and beat him down
+
+Dead men, dead men swinging in a tree
+How many dead men do you see?
+Six feet long and six men wide
+Round their necks the noose be tied
+
+memo_msg_e 992
+
+
+ I do not wish to die.
+ But tomorrow I will climb the thirteen steps.
+ Please someone - answer me, Why must I die come the morning?
+ The man imprisoned beside me believed me. "Because they're all insane, that's why," he said.
+ Of course I know his opinion will change nothing. "Now you know why I struck out at them," he muttered.
+ The man who was executed yesterday, the one who had said his job was to sell dreams, said that was not true.
+ But the man who is to be executed the day after tomorrow for stealing children shouted back that it was true.
+ The man who was hung today did not answer. "They'll kill me either way," he said. He was caught embezzling public money, so he hasn't any hope for mercy. 
+ The man who is always quietly smiling to himself said "I am happy for I will soon be with her."
+ I do not wish to die.
+ I long only to return home.
+ But I know it is not to be.
+ Though I have done nothing, this crime has been thrust upon me.
+ Someone save me. This is not judgement. They are bloodthirsty and I am their sacrificial lamb!
+memo_msg_e 1043
+
+
+We may visit death upon the head of the sinner but to what avail? In the name of retribution, we took part in a bitter comedy this day. You, hanging as you do, by your neck, Unforgiven and cursed by all. Five of them committed crimes, six went out for a drink and were captured there. Only one of them was innocent, but they knew not that. The bloodstains remaining are proof of their guilt. Trodden upon and thus created, they are the paths to Hell or the Void.
+The white bandages stained with crimson,
+The remains upon the scorched black earth,
+The whispered cries of the maiden.
+They are but a meaningless contract.
+They are also signs of guilt.
+But one of them was done without reason. It was done out of fear and a ripe imagination. Spinning alone at the end of a rope, it is nothing less than a disgrace to us all.
+memo_msg_e 1068
+
+
+There is a rope hanging from the ceiling. Will you pull it?
+С потолка свисает петля. Потянуть?
+
+
+Only the sinless one can help you here. Mistakenly pull on a criminal's rope and your reward will be returned to you in a shape most wondrously strange.
+Только безгрешный может помочь здесь.
+Ошибочно потяни петлю преступника, и награда вернется к тебе в самом диковинном виде.
+
+
+
+Beware ye though the punishment sended
+Остерегайтесь наказания.
+
+
+There's no reason to pull this anymore I guess.
+Думаю, больше нет смысла тянуть за петлю.
+
+
+You can't turn the handle unless you first remove the handcuffs.
+Ручку(?) не отвернуть (провернуть?), мешают наручники.
+
+
+There's a name inscribed on the tombstone. Eddie Dombrowski
+На надгробии высечено имя. Эдди Домбровски
+
+
+There's a name inscribed on the tombstone. Angela Orosco
+На надгробии высечено имя. Анжела Ороско
+
+
+There's a name inscribed on the tombstone. James Sunderland
+На надгробии высечено имя. Джеймс Сандерленд
+
+//
+Maria? Maria...? Maria, no.... What happened to you? Why... why.... Mary....
+Мария? Мария...? Мария, нет.... Что случилось с тобой? За что... за что.... Мэри....
+//
+
+
+There's nothing else for me in this room....
+Здесь (В этой комнате in this room) больше ничего нужного....
+
+
+I got the key of the Persecuted.
+Я взял ключ Гонимого.
+
+
+I used the key of the Persecuted.
+Я использовал ключ Гонимого.
+
+
+There's a name inscribed on the tombstone. Walter Sullivan
+На надгробии высечено имя. Уолтер Салливан
+
+
+The name on the tombstone is too scratched up to read.
+Имя на надгробии слишком затерто, чтобы разобрать.
+
+
+An epitaph is incribed here. This felon drank one last bottle of ale before he was executed and laid here to his eternal rest.
+эпитафия.
+Этот преступник выпил последнюю бутылку эля перед казнью и был навеки здесь упокоен.
+
+
+There's a name inscribed on the tombstone. Miriam K. -"Traitor"
+На надгробии высечено имя. Мириам К. - "Предательница".
+
+
+There's a deep hole here. But there's nothing inside.
+Глубокая могила(яма?). Но пустая.
+
+
+There's nothing more that I can do here. I don't want to, but I'll have to just leave her here like this...
 Больше я ничего не смогу сделать.
+Не хочется, но придется просто оставить ее здесь...
 
-Не хочется, но придется просто 
-	оставить ее здесь...<SEPARATORB>
----------------
-Бумага, закрывавшая лицо трупа.<SEPARATORB>
----------------
-Спуститься?<SELECT-YES-OR-NO>
+
+The paper that was covering the corpse's face is lying here.
+Бумага, закрывавшая лицо трупа.
+
+
+Will you go down?
+Спуститься?

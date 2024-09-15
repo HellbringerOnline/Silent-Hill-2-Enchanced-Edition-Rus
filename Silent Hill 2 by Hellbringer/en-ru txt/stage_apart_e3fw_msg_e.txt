@@ -1,32 +1,54 @@
-﻿--------------- strings=10 language=english
----------------
-Я взял <COLOR-GREEN>пистолет<COLOR-WHITE>.<SEPARATORB>
----------------
-Стена изрешечена пулевыми
-	отверстиями.<SEPARATORB>
----------------
-На полу лежат пустые гильзы.<SEPARATORB>
----------------
-На полу по ту сторону решетки
-	лежит ключ.
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 10
 
-Если я просуну руку, то смогу
-	его достать.
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-Поднять ключ?<SELECT-YES-OR-NO>
----------------
-Теперь до ключа не никак
-	дотянуться.
+BEGIN_SOURCE:
 
-...Но что это была за девочка...?<SEPARATORB>
----------------
-Ай!!
----------------
+
+I got a handgun.
+Я взял пистолет.
+
+
+The wall is pockmarked with gun shots.
+Стена изрешечена пулевыми отверстиями.
+
+
+There are empty cartridges on the ground.
+На полу лежат пустые гильзы.
+
+
+There's a key on the ground on the other side of the bars. If I stretch my arm out, I just might be able to reach it. Will you pick it up?
+На полу по ту сторону решетки лежит ключ.
+Если я просуну руку, то смогу его достать.
+Поднять ключ?
+
+
+I can't reach it no matter how far I stretch. ...But who's that kid...?
+Теперь до ключа не никак дотянуться.
+...Но что это была за девочка...?
+
+
+Ow!!
+Ай!!!
+
+
+Ha-ha!
 Ха-ха!
----------------
+
+
+Hey wait!
+Damn it!
 Эй, стой!
----------------
 Проклятье!
----------------
+
+
+
+It's a shopping cart.
+What is that doing here?
 Покупательская тележка.
-	Что она здесь делает?<SEPARATORB>
+Что она здесь делает?

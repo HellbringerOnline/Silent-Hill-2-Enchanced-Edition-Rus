@@ -1,65 +1,104 @@
-﻿--------------- strings=22 language=english
----------------
-Я нажимаю на кнопку, но ничего
-	не происходит.<SEPARATORB>
----------------
-Различные консервы.<SEPARATORB>
----------------
-На этой банке нет этикетки.<SEPARATORB>
----------------
-Внутри оказались лампочки.<SEPARATORB>
----------------
-Консервная банка с лампочками.
-	Она мне больше не нужна.<SEPARATORB>
----------------
-На стойке стоит лампа без лампочки.<SEPARATORB>
----------------
-Я попытался открыть дверь <COLOR-GREEN>ключом от бара<COLOR-WHITE>,
-	но в темноте не видно замочной скважины.<SEPARATORB>
----------------
-Я взял банку?(бутылочку металлист) с <COLOR-GREEN>растворителем<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ от бара<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>лампочку<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>растворитель<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ от бара<COLOR-WHITE>.<SEPARATORB>
----------------
-Я вкрутил <COLOR-GREEN>лампочку<COLOR-WHITE>.<SEPARATORB>
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 22
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+I push the button but nothing happens.
+stage_hospital_3f_b_msg_e 41
+
+
+There are a variety of canned foods here.
+Различные консервы.
+
+
+There's a can with no label on it.
+На этой банке нет этикетки.
+
+
+There was a light bulb in the can.
+Внутри оказались лампочки.
+
+
+A light bulb can. I don't need it anymore.
+Консервная банка с лампочками. Она мне больше не нужна.
+
+
+There's a lamp on the counter. But there's no light bulb, so I can't turn it on.
+На стойке стоит лампа без лампочки.
+
+
+I tried to use the bar key, but it's too dark to find the keyhole.
+Я попытался открыть дверь ключом от бара, но в темноте не видно замочной скважины.
+
+
+I got a can of thinner.
+Я взял банку?(бутылочку металлист) с растворителем.
+
+
+I got the bar key.
+Я взял ключ от бара.
+
+
+I got a light bulb.
+Я взял лампочку.
+
+
+I used the thinner.
+Я использовал растворитель.
+
+
+I used the bar key.
+Я использовал ключ от бара.
+
+
+I put in the light bulb.
+Я вкрутил лампочку.
+
+
+The refrigerator door seems broken. I can't get it open.
 Дверца холодильника (выглядит) сломанной.
-	Не получается ее открыть.<SEPARATORB>
----------------
-Замок сломан, и я не могу его открыть.<SEPARATORB>
----------------
+Не получается ее открыть.
+
+
+The lock is broken and I can't open it.
+Замок сломан, и я не могу его открыть.
+
+
+A display of lures. It looks like fishing in the lake is a popular activity among the tourists. I'm no good at it, so I never tried it when I was here...
 Витрина с приманками.
+Похоже, среди туристов популярна озерная рыбалка.
+Я в ней не разбираюсь, поэтому ни разу здесь не рыбачил...
 
-Похоже, среди туристов популярна
-	озерная рыбалка.
 
-Я в ней не разбираюсь, поэтому
-	ни разу здесь не рыбачил...<SEPARATORB>
----------------
+There's a jukebox here. It doesn't play, so it must be broken.
 Музыкальный автомат.
-	Не воспроизводит, наверное,
-	сломан.<SEPARATORB>
----------------
+Не воспроизводит, наверное, сломан.
+
+
+The counter. Mary and I shared some nice drinks together at this bar. Sometimes it seems like so long ago, and sometimes it's just as if it were yesterday.
 Стойка.
+В этом баре мы с Мэри выпили несколько хороших напитков.
+Иногда кажется, что это было так давно, а иногда - как будто вчера.
 
-В этом баре мы с Мэри выпили
-	несколько хороших напитков.
 
-Иногда кажется, что это было так
-	давно, а иногда - как будто 
-	вчера.<SEPARATORB>
----------------
-Пустые бутылки из-под вина.<SEPARATORB>
----------------
-Ваза.
-	Сейчас она мне не пригодится.<SEPARATORB>
----------------
-Картина. Ничего необычного.<SEPARATORB>
----------------
-<COLOR-BLUE>Слезы Венеры<SEPARATORB>
+There are empty wine bottles here.
+Пустые бутылки из-под вина.
+
+
+There's a vase here. It's not something that I can use right now.
+Ваза. Сейчас она мне не пригодится.
+
+
+A painting is hanging here. There's nothing unusual about it.
+Картина. Ничего необычного.
+
+
+Venus tears
+Слезы Венеры

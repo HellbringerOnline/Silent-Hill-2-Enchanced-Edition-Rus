@@ -1,65 +1,69 @@
-﻿--------------- strings=7 language=english
----------------
-Здесь что-то лежит.
-	...Это дневник?<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>9 мая
-	  Дождь.
-	  Весь день смотрел в окно.
-	  Здесь спокойно - нечего делать.
-	  Все еще не разрешают выходить наружу.
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 7
 
-<CENTER-PARAGRAPH><COLOR-BLUE>10 мая
-	 Все еще идет дождь.
-	 Немного поговорил с доктором.
-	 Стали бы они меня спасать, если бы
-	мне не нужно было кормить семью?
-	 Я знаю, что я жалок, слаб.
-	 Не все могут быть сильными.
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-<CENTER-PARAGRAPH><COLOR-BLUE>11 мая
-	 Опять дождь.
-	 Сегодня тошнило от лекарств.
-	 Если мне лучше только когда я на
-	лекарствах, то кто я вообще такой?
+BEGIN_SOURCE:
 
-<CENTER-PARAGRAPH><COLOR-BLUE>12 мая
-	 Как обычно дождь.
-	 Не хочу никому доставлять лишние
-	хлопоты, но так или иначе я обуза.
-	 Разве так грешно - бежать, а не
-	сражаться?
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Кто-то может сказать, что грешно, но
-	им не нужно жить в моей шкуре.
-	 Возможно, это эгоистично, но это то,
-	чего я хочу.
-	 Очень тяжело.
-	 Просто очень тяжело....
+There's something on the floor. ...Is this a diary?
+Здесь что-то лежит. ...Это дневник?
 
-<CENTER-PARAGRAPH><COLOR-BLUE>13 мая
-	 На улице ясно.
-	 Доктора сообщили о моей выписке - я
-	могу идти домой.
-	 Я<LONG-LINE-PATIENTS-DIARY><SEPARATORB>
----------------
+
+
+May 9
+ Rain.
+ Stared out the window all day.
+ Peaceful here - nothing to do.
+ Still not allowed to go outside.
+May 10
+ Still raining.
+ Talked with the doctor a little.
+ Would they have saved me if I didn't have a family to feed?
+ I know I'm pathetic, weak.
+ Not everyone can be strong.
+May 11
+ Rain again.
+ The meds made me feel sick today.
+ If I'm only better when I'm drugged, then who am I anyway?
+May 12
+ Rain as usual.
+ I don't want to cause any more trouble for anyone, but I'm a bother either way.
+ Can it really be a such a sin to run instead of fight?
+ Some people may say so, but they don't have to live in my shoes.
+ It may be selfish, but it's what I want.
+ It's too hard like this.
+ It's just too hard....
+May 13
+ It's clear outside.
+ The doctors told me I've been released - that I've got to go home.
+ I
+memo_msg_e 596
+
+
+The diary ends here. There are no more entries. What was a diary doing up here?
 На этом дневник заканчивается.
-	Больше записей нет.
+Больше записей нет.
+Откуда здесь дневник?
 
-Откуда здесь дневник?<SEPARATORB>
----------------
+
+The door won't open. Something is holding it closed from the other side. It won't open no matter how hard I try.
 Дверь не открывается.
-	Что-то удерживает ее с другой
-	стороны.
+Что-то удерживает ее с другой стороны.
+Она не открывается, как бы я ни старался.
 
-Она не открывается, как бы я ни
-	старался.<SEPARATORB>
----------------
-Металлическая сетка проржавела и
-	разваливается (рассыпается?). Похоже, если
-	сильно толкнуть, она сдвинется.<SEPARATORB>
----------------
-Не похоже, что я могу пройти
-	дальше.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ от крыши<COLOR-WHITE>.<SEPARATORB>
+
+The metal net is rusty and falling apart. It looks like if I push hard I could move it away.
+Металлическая сетка проржавела и разваливается(рассыпается?). Похоже, если сильно толкнуть, она сдвинется.
+
+
+It doesn't look like I can go past here.
+Не похоже, что я могу пройти дальше.
+
+
+I used the roof key.
+Я использовал ключ от крыши.

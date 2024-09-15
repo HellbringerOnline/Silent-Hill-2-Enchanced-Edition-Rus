@@ -1,81 +1,126 @@
-﻿--------------- strings=28 language=english
----------------
-На нем что-то написано.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Джозеф дал мне ключ.
-	Наверное, он от того сундучка.<SEPARATORB>
----------------
-Белый медицинский халат.
-	Ничего особо интересного.<SEPARATORB>
----------------
-На стене что-то написано.<SEPARATORB>
----------------
-<CENTER-PER-LINE><COLOR-BLUE><GLOBALYOFFSET-TERNNUMBERS>Крути крути крути цыфры
-	 лучше их не забыть
-	Значет я напишу их прямо тут
-	Другой, мое секретное имя<SEPARATORB>
----------------
-Сундучок со множеством замков.
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 28
 
-Всего <VARIABLE-01> замков.<SEPARATORB>
----------------
-Всего <VARIABLE-01> замков.<SEPARATORB>
----------------
-В сундучке пусто.
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-Хотя нет, я ошибаюсь...
-	Здесь несколько волосков.<SEPARATORB>
----------------
-В сундучке больше ничего нет..<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Луиза
-	Я буду заботиться о тебе вечьна.
-	Это моя судьба!<SEPARATORB>
----------------
-Запертый сундучок.<SEPARATORB>
----------------
-В сточной трубе что-то застряло.
+BEGIN_SOURCE:
 
-Слив слишком узкий. Руку
-	просунуть не получается.
 
-Если бы у меня было что-то
-	длинное и узкое...<SEPARATORB>
----------------
-В сливе ничего нет.<SEPARATORB>
----------------
-Я кручу кран(вентиль),
-	но вода не идет(течет)..<SEPARATORB>
----------------
-Так мне его не зацепить (поймать, достать - металлист, выловить).<SEPARATORB>
----------------
-Нужно что-то подлиннее.<SEPARATORB>
----------------
-Кнопка вызова лифта закрыта крышкой.
+Something is written on it.
+На нем что-то написано.
 
-Она заблокирована(заперта металлист), и я не могу ее открыть.<SEPARATORB>
----------------
-Я нажимаю на кнопки,
-	но лифт не едет.<SEPARATORB>
----------------
-Шкафчик не открывается.<SEPARATORB>
----------------
-Не похоже, что я могу пройти
-	дальше.<SEPARATORB>
----------------
-Ничего интересного.<SEPARATORB>
----------------
-Не похоже, что здесь есть
-	что-то полезное.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ "Фиолетовый бык"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ "Фиолетовый бык"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>прядь волос<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>согнутую иглу<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ от лифта<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ от лифта<COLOR-WHITE>.<SEPARATORB>
+
+I got the key from Joseph. It's probably the key to that box.
+memo_msg_e 548
+
+
+There's a white lab jacket. There's nothing particularly interesting.
+stage_hospital_2f_f_meg_e 34
+
+
+There's something written on the wall.
+stage_hospital_3f_f_msg_e 14
+
+
+Tern tern tern the numbers better not forget them
+So I'll right them down here
+The other one, my secret name
+memo_msg_e 626
+
+
+There's a box with lots of locks on it. There are a total of  locks.
+stage_hospital_3f_f_msg_e 30
+
+
+There are a total of  locks.
+stage_hospital_3f_f_msg_e 34
+
+
+There's nothing inside the box. No, I'm wrong... There are a few hairs inside.
+stage_hospital_3f_f_msg_e 36
+
+
+There's nothing in the box anymore.
+stage_hospital_3f_f_msg_e 40
+
+
+Louise
+I'll take care of you four ever.
+It's my destiny!
+memo_msg_e 634
+
+
+A locked box.
+Запертый сундучок.
+
+
+There's something stuck in the drainage pipe. The hole is too small. I can't get my hand inside to reach it. Maybe if I had a long, narrow tool of some kind...
+stage_hospital_3f_f_msg_e 52
+
+
+There's nothing in the hole.
+stage_hospital_3f_f_msg_e 56
+
+
+I turn the handle, but no water comes out.
+stage_hospital_3f_f_msg_e 62
+
+
+I'll never be able to snare it like this.
+stage_hospital_3f_f_msg_e 66
+
+
+It isn't long enough.
+stage_hospital_3f_f_msg_e 70
+
+
+There's a cover over the elevator's call button. It's locked and I can't get it open.
+stage_hospital_3f_f_msg_e 74
+
+
+I'm pressing the buttons but the elevator doesn't move.
+stage_hospital_1f_f_msg_e 57
+
+
+The locker won't open.
+stage_hospital_2f_f_msg_e 14
+
+
+It doesn't look like I can go past here.
+stage_hospital_rf_f_msg_e 61
+
+
+Nothing interesting here.
+stage_hospital_2f_f_msg_e 113
+
+
+Doesn't look like there's anything useful here.
+stage_apart_w1f_msg_e 337
+
+
+I got the "Purple Bull" key.
+stage_hospital_1f_f_msg_e 61
+
+
+I used the "Purple Bull" key.
+stage_hospital_3f_f_msg_e 94
+
+
+I got a piece of hair.
+stage_hospital_3f_f_msg_e 78
+
+
+I got the bent needle.
+stage_hospital_2f_f_msg_e 73
+
+
+I got an elevator key.
+stage_hospital_3f_f_msg_e 82
+
+
+I used an elevator key.
+stage_hospital_2f_f_msg_e 85

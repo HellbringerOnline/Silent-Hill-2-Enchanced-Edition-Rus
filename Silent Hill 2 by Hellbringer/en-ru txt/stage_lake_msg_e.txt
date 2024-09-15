@@ -1,32 +1,42 @@
-﻿--------------- strings=13 language=english
----------------
-Это место совсем не изменилось
-	за три года...
----------------
-Я взял <COLOR-GREEN>музыкальную шкатулку "Русалочка"<COLOR-WHITE>.<SEPARATORB>
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 13
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+This place hasn't changed at all in three years...
+Это место совсем не изменилось за три года...
+
+
+I got a "Little Mermaid" music box.
+Я взял музыкальную шкатулку "Русалочка".
+
+////
+Mary. You look so peaceful. Forgive me for waking you. But without you, I just can't go on. I can't live without you, Mary. This town, Silent Hill.... The Old Gods haven't left this place.... And they still grant power to those who venerate them.... Power to defy even death.... Ah... Mary.
 Мэри.
----------------
-Ты такая умиротворенная. 
-	Прости, что пробуждаю тебя.
----------------
+Ты такая умиротворенная.
+Прости, что пробуждаю тебя.
 Но без тебя я просто не выдержу.
----------------
 Я не могу жить без тебя, Мэри.
----------------
-Этот город, Сайлент Хилл....
----------------
-Древние боги не покинули это
-	место....
----------------
-И они по-прежнему даруют силу
-	тем, кто их почитает....
----------------
+Этот город, Сайлент Хилл.... Древние боги не покинули это место....
+И они по-прежнему даруют силу тем, кто их почитает....
 Силу, способную победить даже смерть....
----------------
 Ах... Мэри.
----------------
-<COLOR-BLUE>ВНИМАНИЕ
-	ВХОД ВОСПРЕЩЕН<SEPARATORB>
----------------
-Фонтан в виде птицы. Воды нет.<SEPARATORB>
+////
+
+
+WARNING
+KEEP OFF
+ВНИМАНИЕ
+ВХОД ВОСПРЕЩЕН
+
+
+
+There's a fountain in the shape of a bird. No water is coming out of it right now.
+Фонтан в виде птицы. Воды нет.

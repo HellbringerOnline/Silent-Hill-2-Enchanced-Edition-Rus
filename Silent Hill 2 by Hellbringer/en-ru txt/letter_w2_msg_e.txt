@@ -1,5 +1,14 @@
-﻿--------------- strings=2 language=english
----------------
-Джеймс...
----------------
-<TEXT-POS-120>Ты сделал меня счастливой.
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 2
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+James... You made me happy.
+Джеймс... Ты сделал меня счастливой.

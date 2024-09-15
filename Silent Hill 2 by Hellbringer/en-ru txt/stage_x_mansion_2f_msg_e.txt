@@ -1,205 +1,220 @@
-﻿--------------- strings=59 language=english
----------------
-Ой...
----------------
-Здесь кто-то... есть?
----------------
-Откройте.
----------------
-Здравствуйте?
----------------
-Хватит.
-	Ты мне мешаешь.
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 59
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+////
+Ah... Is somebody...there? Open up. Hello?
+Ой... Здесь кто-то... есть? Откройте. Здравствуйте?
+
+
+Stop it. You're disturbing me.
+Хватит. Ты мне мешаешь.
+
+
+Whew, thank god. I finally found somebody. Can you open the door?
 Фух, слава богу.
-	Наконец-то я хоть кого-то
-	встретила.
----------------
+Наконец-то я хоть кого-то встретила.
 Вы можете открыть дверь?
----------------
+
+
+No.
 Нет.
----------------
+
+
+But why?
 Но почему?
----------------
-Неужели я должен отвечать на все
-	твои дурацкие вопросы?
----------------
+
+
+Is it really necessary for me to answer all your tedious questions?
+Неужели я должен отвечать на все твои дурацкие вопросы?
+
+
+Yes.
 Да.
----------------
-Ох, я и не знал.
----------------
-Я хочу побыть один.
-	Другие люди меня только раздражают.
----------------
+
+
+Oh, I didn't know that. I want to be alone. Other people just irritate me.
+Ох, я и не знал. Я хочу побыть один. Другие люди меня только раздражают.
+
+
+I just want to see another human face. Do you know what's happening in this town? There's no one here...just monsters.
 Я просто хочу увидеть другое лицо.
----------------
 Вы знаете, что происходит в этом городе?
----------------
 Здесь никого нет... одни монстры.
----------------
-Да, я знаю.
----------------
-Но что с того?
----------------
+
+
+Yes, I know. But so what? It has nothing to do with me. No one here means there's no one to disturb me.
+Да, я знаю. Но что с того?
 Меня это не касается.
-	Никого нет, значит, некому меня 
-	беспокоить.
----------------
-Вы хотите остаться один в этом 
-	безумном городе?
----------------
+Никого нет, значит, некому меня беспокоить.
+
+
+You want to be alone in this insane asylum?
+Вы хотите остаться один в этом безумном городе?
+
+
+Yes, exactly. But how can you say that it is this town that is insane? Perhaps it is we who are insane. Both of us...hopelessly insane. Are you satisfied? Would you leave me alone?
 Да, безусловно.
----------------
-Но как ты можешь утверждать, что
-	именно город безумный?
----------------
+Но как ты можешь утверждать, что именно город безумный?
 Пожалуй, это мы безумны.
----------------
 Мы оба... безнадежно безумны.
----------------
-Ты довольна?
-	Может, оставишь меня в покое?
----------------
-Меня зовут... Мария.
-	А тебя как?
----------------
+Ты довольна? Может, оставишь меня в покое?
+
+
+My name is...Maria. What's your name?
+Меня зовут... Мария. А тебя как?
+
+
+Ernest.
 Эрнест.
----------------
+
+
+Hemingway?
 Хемингуэй?
----------------
+
+
+Baldwin.
 Болдуин.
----------------
-Эрнест...
-	Я вернусь.
----------------
-Эрнест, ты там?
----------------
-Нет, наверное, нет...
----------------
-Я взяла <COLOR-GREEN>белую пластину<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовала <COLOR-GREEN>ключ акации<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взяла <COLOR-GREEN>спички<COLOR-WHITE>.<SEPARATORB>
----------------
-Календарь десятилетней давности.
-	Десять лет назад......ноябрь.<SEPARATORB>
----------------
-Под стулом(креслом) что-то лежит.
 
-Это...поздравительная открытка?
 
-<CENTER-PARAGRAPH><COLOR-BLUE>МОЕМУ ЛЮБИМОМУ ПАПОЧКЕ
-	С ДНЕМ РОЖДЕНИЯ!
-	ОТ ЭМИ БОЛДУИН<SEPARATORB>
----------------
-Я взяла <COLOR-GREEN>поздравительную открытку<COLOR-WHITE>.<SEPARATORB>
----------------
+Ernest... I'll be back. Ernest, are you there? No I guess not...
+Эрнест... Я вернусь. Эрнест, ты там? Нет, наверное, нет...
+
+
+I got a white board.
+Я взяла белую пластину.
+
+
+I used the Acacia key.
+Я использовала ключ акации.
+
+
+I got matches.
+Я взяла спички.
+
+
+This calendar is from ten years ago. Ten years ago......November.
+Календарь десятилетней давности. Десять лет назад......ноябрь.
+
+
+There's something below the chair. Is this a...birthday card?
+TO MY DEAREST DADDY
+HAPPY BIRTHDAY!
+FROM AMY BALDWIN
+Под стулом(креслом) что-то лежит. Это...поздравительная открытка?
+МОЕМУ ЛЮБИМОМУ ПАПОЧКЕ
+С ДНЕМ РОЖДЕНИЯ!
+ОТ ЭМИ БОЛДУИН
+
+
+
+I got the Birthday Card.
+Я взяла поздравительную открытку.
+
+
+There's a book here.
+It looks like a plant encyclopedia.
+Acacia
+ A genus of evergreen trees of the mimosa tribe of the pea family.
+ Its tiny flowers are yellow or white and grow in clusters. Common varieties include the "gum tree."
+ The Acacia Tree is a potent symbol in many religions across the world.
+In Christianity it represents eternal life and morality. 
+ In ancient Egypt it represented purity and rebirth, while in ancient Babylonia it was thought of as the tree of the Goddess Ishtar and was a symbol of Life.
+ It was also a holy tree to the ancient Jews, who built the sacred Ark of the Covenant from it and for whom it signified a peaceful death and a release from grief.
 Книга.
-	Похоже, это энциклопедия растений.
+Похоже, это энциклопедия растений.
+memo_x_msg_e 
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Род вечнозеленых деревьев трибы
-	мимозовых семейства бобовых.
-	 Маленькие желтые или белые
-	цветы образуют соцветия. Среди
-	распространенных разновидностей
-	- "эвкалиптовое дерево".
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Дерево акации является важным
-	символом во многих религиях мира.
-	В христианстве оно олицетворяет
-	вечную жизнь и нравственность. 
+There's a clock here. I guess it's broken. The needles aren't moving.
+Часы. Наверное, сломаны.
+Стрелки стоят на месте.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> В Древнем Египте оно олицетворяло
-	непорочность и перерождение, а в
-	Древней Вавилонии считалось
-	деревом богини Иштар и
-	символизировало Жизнь.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Это дерево было священным для
-	древних иудеев, построивших из
-	него священный Ковчег Завета, и
-	для которых оно означало мирную
-	смерть и избавление от скорби.<SEPARATORB>
----------------
-Часы.
+There are no particularly interesting books on the shelf.
+На полке нет хоть немного интересных книг.
 
-Наверное, сломаны.
-	Стрелки стоят на месте.<SEPARATORB>
----------------
-На полке нет хоть немного
-	интересных книг.<SEPARATORB>
----------------
-Над камином и в камине ничего
-	интересного.<SEPARATORB>
----------------
-Полка заставлена сказками и
-	прочей детской литературой.
 
-Уверена, что никогда их не
-	читала, но почему-то они кажутся
-	знакомыми.<SEPARATORB>
----------------
-Маленькая детская кровать.<SEPARATORB>
----------------
+There's nothing interesting inside or above the fireplace.
+Над камином и в камине ничего интересного.
+
+
+The shelf is filled with fairy tales and other children's literature. I'm sure I've never read this, but somehow it seems familiar.
+Полка заставлена сказками и прочей детской литературой. Уверена, что никогда их не читала, но почему-то они кажутся знакомыми.
+
+
+Small bed for a child.
+Маленькая детская кровать.
+
+
+
+A doll is sitting on the chair. Now that I look closer, it's filthy. Whoever lived here must have really loved this thing.
 На стуле сидит кукла.
+Если рассмотреть внимательно, то видно, что она старая и грязная.
+Тот, кто здесь жил, должно быть, очень любил ее.
 
-Если рассмотреть внимательно, то
-	видно, что она старая и грязная.
 
-Тот, кто здесь жил, должно быть,
-	очень любил ее.<SEPARATORB>
----------------
-На верхней полке расставлены мягкие
-	игрушки. Ничего особо интересного.
-
+Stuffed animals line the top of the shelf. Nothing very interesting. Oh is this a teddy bear? It's not very well-made, but it's sort of cute anyway. I bet Laura would love it. She loves bears. ..."Laura"?? Who am I talking about...?
+На верхней полке расставлены мягкие игрушки. Ничего особо интересного.
 О, это плюшевый мишка?
+Он не очень качественно сделан, но все равно милый.
+Уверена, Лоре он понравится. Она любит мишек. ... "Лора"?? О ком это я...?
 
-Он не очень качественно сделан, но
-	все равно милый.
 
-Уверена, Лоре он понравится.
-	Она любит мишек.
+Stuffed animals are lined up.
+Мягкие игрушки.
 
-..."Лора"??
 
-О ком это я...?<SEPARATORB>
----------------
-Мягкие игрушки.<SEPARATORB>
----------------
-Свеча.<SEPARATORB>
----------------
+There's a candle here.
+Свеча.
+
+
+I can't see anything. If only I had some light...
 Ничего не видно.
-	Если бы у меня было чем посветить...<SEPARATORB>
----------------
-Зажженная свеча немного освещает
-	это место.<SEPARATORB>
----------------
-Деревянный ящик.
-	Ничего необычного.<SEPARATORB>
----------------
-На полу стопки книг.
-	Ничего особо интересного.
+Если бы у меня было чем посветить...
 
-Все равно я никогда не сильно
-	интересовалась литературой и
-	философией<SEPARATORB>
----------------
-Груда хлама заросла паутиной. Не
-	похоже, что здесь есть что-то
-	полезное.<SEPARATORB>
----------------
-Ваза и статуэтка льва.
-	Сейчас они мне ни к чему.<SEPARATORB>
----------------
-На стене висят картины.
-	Ничего необычного.<SEPARATORB>
----------------
-Здесь не пройти.
-	Все загораживает стена. (Решетка преграждает путь.)<SEPARATORB>
----------------
-Отдай ее...
----------------
-моему папочке...
----------------
-Я использовала <COLOR-GREEN>спички<COLOR-WHITE>, чтобы зажечь свечу.<SEPARATORB>
+
+A lit candle provides some light in the area.
+Зажженная свеча немного освещает это место.
+
+
+There's a wooden box here. There's nothing particularly unusual about it.
+Деревянный ящик. Ничего необычного.
+
+
+Books are stacked on the floor. There's nothing very interesting. I was never too interested in literature and philosophy anyway.
+На полу стопки книг. Ничего особо интересного.
+Все равно я никогда не сильно интересовалась литературой и философией.
+
+
+It's a pile of junk from the spider web. It doesn't look like there's anything useful.
+Груда хлама заросла паутиной. Не похоже, что здесь есть что-то полезное.
+
+
+It's a vase and a lion statue. I've got no use for those right now.
+Ваза и статуэтка льва. Сейчас они мне ни к чему.
+
+
+There are paintings on the wall. There's nothing unusual here.
+На стене висят картины. Ничего необычного.
+
+
+I can't pass through here. It's blocked by a wall.
+Здесь не пройти. Все загораживает стена. (Решетка преграждает путь.)
+
+
+Give it... to my daddy...
+Отдай ее... моему папочке...
+
+
+I used a match to light the candle.
+Я использовала спички, чтобы зажечь свечу.
+
+

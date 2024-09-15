@@ -1,94 +1,148 @@
-﻿--------------- strings=32 language=english
----------------
-На полке нет ничего нужного.<SEPARATORB>
----------------
-Я нажимаю на кнопку, но ничего
-	не происходит.<SEPARATORB>
----------------
-Чемодан заперт.<SEPARATORB>
----------------
-В чемодане пусто.<SEPARATORB>
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 32
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+I don't need anything from this shelf.
+На полке нет ничего нужного.
+
+
+I push the button but nothing happens.
+stage_hospital_3f_b_msg_e 41
+
+
+The bag is locked.
+Чемодан заперт.
+
+
+There's nothing in the bag.
+В чемодане пусто.
+
+
+Photos are scattered all over the bed. ...What's this?
 По кровати разбросаны фотографии.
+...Что это?
 
-...Что это?<SEPARATORB>
----------------
-Часть фотографии закрашена маркером.<SEPARATORB>
----------------
-Над кнопками что-то написано.
-	...Что это?
 
-<COLOR-BLUE>Допустимый вес: один человек<SEPARATORB>
----------------
-Полка пуста.<SEPARATORB>
----------------
+Part of the photo has been colored over with a marker.
+Часть фотографии закрашена маркером.
+
+
+There's something written over the button. ...What's this? Weight allowance: one person
+Над кнопками что-то написано. ...Что это? Допустимый вес: один человек
+
+
+The shelf is empty.
 Полка пуста.
 
-Похоже, я могу сложить сюда
-	свои вещи.
 
-Сложить вещи на полку?<SELECT-YES-OR-NO>
----------------
-Я положил <VARIABLE-01> на полку.<SEPARATORB>
----------------
-Забрать все с полки?<SELECT-YES-OR-NO>
----------------
-Я взял <COLOR-GREEN>музыкальную шкатулку "Золушка"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ от номера 204<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ от служебного лифта<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ от номера 204<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ от служебного лифта<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ "Рыбка"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>растворитель<COLOR-WHITE>.<SEPARATORB>
----------------
-В записной книжке не написано
-	ничего интересного.<SEPARATORB>
----------------
-В трубке тишина. Наверное, обрыв
-	телефонной линии?<SEPARATORB>
----------------
-В комоде пусто.<SEPARATORB>
----------------
+The shelf is empty. It looks like I could store my stuff here. Put an item on the shelf?
+Полка пуста.
+Похоже, я могу сложить сюда свои вещи.
+Сложить вещи на полку?
+
+
+I put  in the shelf.
+Я положил на полку.
+
+
+Retrieve everything from the shelf?
+Забрать все с полки?
+
+
+I got a "Cinderella" music box.
+Я взял музыкальную шкатулку "Золушка".
+
+
+I got the key to hotel room 204.
+Я взял ключ от номера 204.
+
+
+I got the employee elevator key.
+Я взял ключ от служебного лифта.
+
+
+I used the key to room 204.
+Я использовал ключ от номера 204.
+
+
+I used the employee elevator key.
+Я использовал ключ от служебного лифта.
+
+
+
+I used the "Fish" key.
+Я использовал ключ "Рыбка".
+
+
+I used the thinner.
+Я использовал растворитель.
+
+
+There's nothing interesting written in the memo book.
+В записной книжке не написано ничего интересного.
+
+
+I can't hear anything from the receiver. Could the phone line possibly be cut?
+В трубке тишина. Наверное, обрыв телефонной линии?
+
+
+There's nothing inside the drawer.
+В комоде пусто.
+
+
+Tourist brochures are lined up here. I'm not interested in them right now.
 Туристические брошюры.
-	Сейчас они меня не интересуют.<SEPARATORB>
----------------
+Сейчас они меня не интересуют.
+
+
+
+There's a book here. It doesn't look like it will be of any particular use.
 Книга.
-	Не похоже, что она может
-	пригодиться.<SEPARATORB>
----------------
-На столе лежит открытая книга.
-	Похоже, это медицинская книга.
+Не похоже, что она может пригодиться.
 
-Я прочитал уже достаточно
-	медицинских книг. Ни одна из них
-	не принесла пользы.<SEPARATORB>
----------------
-Ничего хоть немного полезного.<SEPARATORB>
----------------
-Ничего интересного.<SEPARATORB>
----------------
-Фотография этого отеля.<SEPARATORB>
----------------
-Звонок.
-	Даже если я позвоню,
-	вряд ли кто-то придет.<SEPARATORB>
----------------
-Правила внутреннего распорядка.
-	Мне нет до них никакого дела.<SEPARATORB>
----------------
+
+There's a book open on top of the desk. It looks like a medical book. I've already read enough medical books. None of them ever did any good.
+На столе лежит открытая книга. Похоже, это медицинская книга.
+Я прочитал уже достаточно медицинских книг. Ни одна из них не принесла пользы.
+
+
+There's nothing here that looks particularly useful.
+Ничего хоть немного полезного.
+
+
+There's nothing interesting.
+stage_hospital_1f_f_msg_e 155
+
+
+A picture of this hotel.
+Фотография этого отеля.
+
+
+There's a bell here. Even if I ring it, I don't think anyone will come.
+Звонок. Даже если я позвоню, вряд ли кто-то придет.
+
+
+Employee regulations are posted here. They've got nothing to do with me.
+Правила внутреннего распорядка. Мне нет до них никакого дела.
+
+
+There are memos hanging here. But nothing interesting is written.
 Памятки.
-	Ничего интересного в них не
-	написано.<SEPARATORB>
----------------
-Ящик(коробка металлист) пуст.<SEPARATORB>
----------------
-Похоже, я могу сложить сюда свои
-	вещи.
+Ничего интересного в них не написано.
 
-Сложить вещи на полку?<SELECT-YES-OR-NO>
+
+The box is empty.
+Ящик(коробка металлист) пуст.
+
+
+It looks like I could store my stuff here. Put an item on the shelf?
+Похоже, я могу сложить сюда свои вещи.
+Сложить вещи на полку?

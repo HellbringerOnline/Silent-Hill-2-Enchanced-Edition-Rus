@@ -1,81 +1,135 @@
-﻿--------------- strings=36 language=english
----------------
-Обычный шар для боулинга.
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 36
 
-Сейчас некогда тратить время на такое.<SEPARATORB>
----------------
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+It's just a bowling ball.
+I can't waste time on something like this right now.
+Обычный шар для боулинга.
+Сейчас некогда тратить время на такое.
+
+////
+So what'd you do?
+Robbery, murder?
 Так что ты натворил?
----------------
 Кража, убийство?
----------------
+
+
+Nah, nothing like that.
 Неа, ничего такого.
----------------
+
+
+Hah! You're just a gutless fatso!
 Ха! Да ты просто жирный тюфяк!
----------------
+
+
+Whadda you have to say that for?
 Зачем ты так говоришь?
----------------
-Ты же говорил, что за тобой
-	охотятся копы.
----------------
+
+
+I thought you said the cops were after you.
+Ты же говорил, что за тобой охотятся копы.
+
+
+No, I just ran 'cause I was scared. I don't know what the cops are doing.
 Нет, просто я убежал потому что испугался.
----------------
 Я не знаю, что делают копы.
----------------
-Но если ты сделал что-то плохое,
-	почему ты просто не извинился?
----------------
+
+
+But if you did something bad, why don't you just say you were sorry?
+Well... I guess I run away a lots too.
+Но если ты сделал что-то плохое, почему ты просто не извинился?
 Хотя... Наверное, я тоже часто убегаю.
----------------
+
+
+It's no good. They wouldn't listen.
+Nobody will ever forgive me.
+Did ya find the lady you're looking for...
+What's her name... Mary?
 Бесполезно. Они не будут слушать.
----------------
 Никто никогда не простит меня.
----------------
-Ты нашла девушку, которую
-	искала...
----------------
+Ты нашла девушку, которую искала...
 Как ее... Мэри?
----------------
+
+
+Eddie?
 Эдди?
----------------
+
+
+Oh... umm, yer...
 Ох... эмм, ты...
----------------
+
+
+James.
 Джеймс.
----------------
+
+
+We met in the apartment building.
 Мы виделись в здании апартаментов.
----------------
+
+
+Yeah, I remember, but...
 Да, я помню, но...
----------------
+
+
+Are you alone here, Eddie?
 Ты здесь один, Эдди?
----------------
+
+
+Uh no...
 Э-э, нет...
----------------
+
+
+Bye-bye!
 Пока-пока!
----------------
+
+
+Wait! Come back!
+Eddie! Let's go after her!
 Стой! Вернись!
----------------
 Эдди! Давай за ней!
----------------
+
+
+Huh? Laura? But why...?
 А? Лора? А зачем...?
----------------
+
+
+Laura? Is that her name?
 Лора? Ее так зовут?
----------------
+
+
+That's what she said.
 Она так сказала.
----------------
+
+
+This town is full of monsters!
+How can you sit there and eat pizza!?
 Этот город кишит монстрами!
----------------
-Как ты можешь сидеть здесь и
-	есть пиццу!?
----------------
+Как ты можешь сидеть здесь и есть пиццу!?
+
+
+She said she was fine by herself...
+She said a fatso like me would just slow her down.
 Она сказала, что справится сама...
----------------
-Сказала, что такой жирдяй, как я,
-	будет только тормозить ее.
----------------
+Сказала, что такой жирдяй, как я, будет только тормозить ее.
+
+
+Forget you...
+Who is that girl anyhow?
 Черт с тобой...
----------------
 Что это за девочка?
----------------
+
+
+I don't know.
+All I know is her name.
+I swear.
 Я не знаю.
-	Я знаю только ее имя.
----------------
+Я знаю только ее имя.
 Клянусь.

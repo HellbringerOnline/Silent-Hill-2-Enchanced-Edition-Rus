@@ -1,239 +1,397 @@
-﻿--------------- strings=72 language=english
----------------
-Фотография...<SEPARATORB>
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Три ярких монеты и прорезей пять
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 72
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Там с краю сидит Искуситель
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>За Узником волен ветер играть
+BEGIN_SOURCE:
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Бесформенный, ноль, вдалеке самобытен
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Со Змеем не хочет Старец сидеть,
+A photo...
+Фотография...
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Узника хочет он лицезреть.<SEPARATORB>
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Первое место того, Кто Бесстрашен
-	Пуст, бесподобен, бездушен и тих
-	Рядом сидит тот, кто знает, что место
-	Слуг возле трона хозяев своих
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Дюжины ног, но нет пальцев на них
-	А рядом с ним идет тот, кто Сокрыт
-	Искуситель из снов, порожденье Аида,
-	Он далек от Мужчины, но к Даме он близок
+Three bright coins in five holes be
+At one end sits the Seducer of she
+The wind from behind the woman doth play
+The Formless One, Null, lies furthest from they
+The Old One beside the Serpent sits not.
+Tis to the Prisoner's left that he doth rot
+memo_msg_e 327
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Мужчина и Женщина все примечают
-	На Ворона зов внимания не обращают
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Тихому с Сокрытым вдвоем повезло,
-	Тебе их увидеть никак не дано
+First lies the seat of
+He who is Peerless
+Silent and empty, heartless and fearless
+Beside him sits one who knows
+The place of the servant is next to the throne
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Верни их туда, где даны им места,
-	И благословение тогда снизойдет на тебя
+Dozens of feet, yet not a single toe
+The One that is Hidden beside him doth go
+Seducer of dreams, creature of Hades
+Lying further from
+Man and closer to Lady
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Я молвлю с Полярной Звездой за спиною,
-	Рождение солнца есть начало истории<SEPARATORB>
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Наши души монетам подобно,
-	Подброшенным в туманный воздух,
-	Рухнут под весом своих деяний греховных
-	На землю, потеряв легкость
+Man and Woman seeing all
+Heedless to the Raven's call
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>"По праву" искупают грехи,
-	что свершили они
-	Когда пропоют они трижды в падении
-	Счастье тогда в твоем будет владении
+Silent and Hidden the two may be
+They be not there for you to see
+Return them to whence they would be
+And blessing shall descend on thee
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Первую ноту
-	поет не Рогатый
-	Хотя от него
-	грехи все были зачаты
+I speak thus with the North Star behind me
+The birth of the sun is the start of the story
+ 
+Первое место того, Кто Бесстрашен
+Пуст, бесподобен, бездушен и тих
+Рядом сидит тот, кто знает, что место
+Слуг возле трона хозяев своих
+ 
+ 
+Дюжины ног, но нет пальцев на них
+А рядом с ним идет тот, кто Сокрыт
+Искуситель из снов, порожденье Аида,
+Он далек от Мужчины, но к Даме он близок
+ 
+ 
+Мужчина и Женщина все примечают
+На Ворона зов внимания не обращают
+ 
+ 
+Тихому с Сокрытым вдвоем повезло,
+Тебе их увидеть никак не дано
+ 
+ 
+Верни их туда, где даны им места,
+И благословение тогда снизойдет на тебя
+ 
+ 
+Я молвлю с Полярной Звездой за спиною,
+Рождение солнца есть начало истории
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Несущий Жизнь и
-	Носитель Стыда
-	Последнего грехи
-	будут меньше всегда
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Вот приходит время
-	Старейшему просыпаться
-	Дух Бесформенного начинает
-	в страхе содрогаться
+Like coins in the hazy aether tossed
+Our souls must by their sinful weight
+Descend to earth with lightness lost
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Отвергнутый, тихий,
-	что утолил голод
-	Его грех наименьший
-	он страсти свои успокоил
+To "right" the sins that they hath laid
+When thrice in falling they intone
+Then Happiness shall be thy own
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Среди грешников тяжких
-	место его,
-	И если ему удача верна,
-	Будет душа его прощена<SEPARATORB>
----------------
-На столе что-то написано.<SEPARATORB>
----------------
-В столе ряд из пяти круглых
-	углублений диаметром чуть более
-	2 сантиметров.<SEPARATORB>
----------------
-В какое углубление вставить
-	монету?<SEPARATORB>
----------------
-Какую монету вытащишь?<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>монету [Заключенный]<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ от дома Лайнов<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>белое миро<COLOR-WHITE>.<SEPARATORB>
----------------
-На столе ничего интересного.<SEPARATORB>
----------------
+The first note be not by the Horned One rung
+Though it be there that all sins be sprung
+The Bringer of Life and the Bringer of Shame 
+The sins of the latter be ever more tame
+
+Though coming in the Aged One's wake
+The Formless One's soul in fear doth quake
+The Needless One, silent, with hungers all sated 
+Is least then in sin with his lusts all abated
+
+For the gravest of sinners
+His place be appointed
+And if he be lucky
+May his soul be anointed
+ 
+Наши души монетам подобно,
+Подброшенным в туманный воздух,
+Рухнут под весом своих деяний греховных
+На землю, потеряв легкость
+ 
+"По праву" искупают грехи,
+что свершили они
+Когда пропоют они трижды в падении
+Счастье тогда в твоем будет владении
+ 
+Первую ноту
+поет не Рогатый
+Хотя от него
+грехи все были зачаты
+ 
+Несущий Жизнь и
+Носитель Стыда
+Последнего грехи
+будут меньше всегда
+ 
+Вот приходит время
+Старейшему просыпаться
+Дух Бесформенного начинает
+в страхе содрогаться
+ 
+Отвергнутый, тихий,
+что утолил голод
+Его грех наименьший
+он страсти свои успокоил
+ 
+Среди грешников тяжких
+место его,
+И если ему удача верна,
+Будет душа его прощена
+
+
+There's something written on the desk.
+На столе что-то написано.
+
+
+There is a line of five 1-inch round depressions set into the table.
+В столе ряд из пяти круглых углублений диаметром чуть более 2 сантиметров.
+
+
+Which hole will you put the coin into?
+В какое углубление вставить монету?
+
+
+Which coin will you take out?
+Какую монету вытащишь?
+
+
+I got a coin [Prisoner].
+Я взял монету [Заключенный].
+
+
+I got the Lyne house key.
+Я взял ключ от дома Лайнов.
+
+
+I got white chrism.
+Я взял белое миро.
+
+
+There's nothing interesting on the desk.
+На столе ничего интересного.
+
+////
+Oh... it's you.
 О... это ты.
----------------
+
+
+Yeah...
+I'm James.
 Да...
----------------
 Я Джеймс.
----------------
+
+
+Angela...
 Анжела...
----------------
+
+
+Angela... okay.
+I don't know what you're planning...
+But there's always another way.
 Анжела... хорошо.
----------------
 Я не знаю, что ты задумала...
----------------
 Но всегда есть другой путь.
----------------
+
+
+Really?
+But...
+You're the same as me.
+It's easier just to run.
+Besides, it's what we deserve.
 Неужели?
----------------
 Но...
----------------
 Ты такой же, как я.
----------------
 Легче просто сбежать.
----------------
 Тем более, мы этого заслуживаем.
----------------
+
+
+No... I'm not like you.
 Нет... Я не как ты.
----------------
+
+
+Are you afraid?
+I, I'm sorry.
 Ты что, боишься?
----------------
 П-прости.
----------------
+
+
+It's okay...
+Did you find your mother?
 Все нормально...
----------------
 Ты нашла свою маму?
----------------
+
+
+Not yet... She's not anywhere.
 Еще нет... Ее нигде нет.
----------------
+
+
+Did she live in this apartment building?
 Она жила здесь?
----------------
+
+
+I don't know...
 Я не знаю...
----------------
-Значит, все, что ты знаешь, это
-	то, что она жила в этом городе?
----------------
+
+
+So all you know is she lived in this town?
+Значит, все, что ты знаешь, это то, что она жила в этом городе?
+
+
+What did you say?
+How do you know that?
 Что ты сказал?
----------------
 Откуда ты знаешь?
----------------
+
+
+Well...
+I just figured, cause this is where you're looking for her.
+How else would I know?
 Ну...
----------------
-Я просто подумал, потому что ты
-	ищешь ее именно здесь.
----------------
+Я просто подумал, потому что ты ищешь ее именно здесь.
 Откуда мне еще знать?
----------------
+
+
+Yeah...
 Да...
----------------
+
+
+Am I right?
 Я прав?
----------------
+
+
+I'm so tired...
 Я так устала...
----------------
+
+
+So why did you come to this town anyway?
 Так зачем ты приехала сюда?
----------------
+
+
+...I, I'm sorry.
+Did you find...
+the person you're looking for?
 ...Мне, мне жаль.
----------------
 Ты нашел...
-	человека, которого искал?
----------------
+человека, которого искал?
+
+
+Not yet.
 Пока нет.
----------------
+
+
+Her name's Mary. She's my wife...
 Ее зовут Мэри. Она моя жена...
----------------
+
+
+I'm sorry.
 Мне жаль.
----------------
+
+
+It's okay.
+Anyway, she's dead.
+I don't know why I think she's here.
 Ничего страшного.
----------------
 В любом случае, она умерла.
-	Я не знаю почему, но думаю, что она здесь.
----------------
+Я не знаю почему, но думаю, что она здесь.
+
+
+...She's dead?
 ...Она умерла?
----------------
-Не волнуйся, я не сумасшедший. 
-	По крайней мере, я так не считаю...
----------------
-Мне нужно найти свою маму...
----------------
+
+
+Don't worry, I'm not crazy.
+Least, I don't think so...
+Не волнуйся, я не сумасшедший.
+По крайней мере, я так не считаю...
+
+
+I've gotta find my mama...
+Мне нужно найти свою маму... 
+
+
+Should I go with you?
+This town's dangerous.
+Now I know what you meant back there in the cemetery.
 Может мне пойти с тобой?
----------------
 Этот город опасен.
----------------
-Теперь я понял, что ты имела в
-	виду там, на кладбище.
----------------
-Я справлюсь сама. 
-	И вообще, я буду только тормозить тебя.
----------------
+Теперь я понял, что ты имела в виду там, на кладбище.
+
+
+I'll be okay by myself.
+Besides, I'd just slow you down.
+Я справлюсь сама.
+И вообще, я буду только тормозить тебя.
+
+
+What about that?
 А что насчет этого?
----------------
+
+
+Will you hold it for me?
 Можешь сохранить его для меня?
----------------
+
+
+Sure. No problem.
 Конечно. Без проблем.
----------------
+
+
+If I kept it....
+I'm not sure what I might do.
 Если я оставлю его....
----------------
 Не знаю, что я могу сделать.
----------------
+
+
+No!! I'm sorry...I've been bad... Please don't...
 Нет!!
----------------
 Прости... Я была плохой...
-	Пожалуйста, не надо...
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Направо - дама.
-	Налево - старик.
+Пожалуйста, не надо...
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>К земле же другой между ними приник.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Осталось теперь лишь две пустоты,
-	Ты не бойся уже,
-	Загадку решил ты.
-	Загадку решил ты.<SEPARATORB>
----------------
+To the right is the lady.
+To the left is the old one.
+In the center crawls the other.
+Now just two spaces remain,
+But fear not for now,
+The puzzle is done.
+The puzzle is done.
+Направо - дама.
+Налево - старик.
+
+К земле же другой между ними приник.
+
+Осталось теперь лишь две пустоты,
+Ты не бойся уже,
+Загадку решил ты.
+Загадку решил ты.
+
+
+The door won't open. Some power is holding the door closed from the other side.
 Дверь не открывается.
 
-Какая-то сила удерживает дверь
-	с другой стороны.<SEPARATORB>
----------------
-На книжной полке(в книжном шкафу? металл)
-	ничего, что могло бы хоть как-то
-	пригодиться.<SEPARATORB>
----------------
+Какая-то сила удерживает дверь с другой стороны.
+
+
+There's nothing in the bookshelf that looks like it would be of any use.
+На книжной полке(в книжном шкафу? металл) ничего, что могло бы хоть как-то пригодиться.
+
+
+A stuffed animal.
+It probably belonged to the kid that used to live here.
 Мягкая игрушка.
-	Наверное, она принадлежало
-	ребенку, жившему здесь раньше.<SEPARATORB>
----------------
+Наверное, она принадлежало ребенку, жившему здесь раньше.
+
+
+A painting is displayed here. There's nothing of particular interest.
 Картина.
-	Ничего особо интересного.<SEPARATORB>
----------------
+Ничего особо интересного.
+
+
+There are magazines on the floor. There's nothing unusual here.
 На полу лежат журналы.
-	Ничего необычного.<SEPARATORB>
----------------
-Не похоже, что здесь есть
-	что-то полезное.<SEPARATORB>
----------------
-Ничего, что могло бы
-	пригодиться.<SEPARATORB>
----------------
-Ничего, что могло бы хоть как-то
-	пригодиться.<SEPARATORB>
+Ничего необычного.
+
+
+Doesn't look like there's anything useful here.
+Не похоже, что здесь есть что-то полезное.
+
+
+There's nothing that looks to be of use.
+Ничего, что могло бы пригодиться.
+
+
+There's nothing that looks to be of any use.
+Ничего, что могло бы хоть как-то пригодиться.

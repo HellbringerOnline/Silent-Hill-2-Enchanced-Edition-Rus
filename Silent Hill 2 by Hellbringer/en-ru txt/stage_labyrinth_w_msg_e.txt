@@ -1,90 +1,124 @@
-﻿--------------- strings=39 language=english
----------------
-Я нажимаю на кнопки,
-	но лифт не едет.<SEPARATORB>
----------------
-Для каких целей это может
-	использоваться...
-	Не хочу даже думать об этом...<SEPARATORB>
----------------
-Натянутая проволока мешает проходу.<SEPARATORB>
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 39
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+I'm pressing the buttons but the elevator doesn't move.
+stage_hospital_1f_f_msg_e 57
+
+
+What could this be used for... I don't want to even think about it...
+Для каких целей это может использоваться...
+Не хочу даже думать об этом...
+
+
+I can't get through here because of the wire stretched across the path.
+Натянутая проволока мешает проходу.
+
+////
+You're alive! Maria...! I thought that thing killed you...! Are you hurt bad?
 Ты жива!
----------------
 Мария...!
-	Я думал, существо убило тебя...!
----------------
-Ты сильно ранена?
----------------
+Я думал, существо убило тебя...! Ты сильно ранена?
+
+
+Not at all, silly.
 Вовсе нет, глупыш.
----------------
+
+
+...Maria? That thing... it stabbed you. There was blood everywhere.
 ...Мария?
----------------
-Существо... пропороло тебя. 
-	Повсюду была кровь.
----------------
-Пропороло меня? 
-	О чем ты?
----------------
-Оно гналось за нами до лифта. 
-	А потом...
----------------
+Существо... пропороло тебя. Повсюду была кровь.
+
+
+Stabbed me? What do you mean?
+Пропороло меня? О чем ты?
+
+
+It chased us to the elevator. And then...
+Оно гналось за нами до лифта. А потом...
+
+
+James, what are you talking about?
 Джеймс, о чем ты говоришь?
----------------
-Совсем недавно! 
-	Ты что, не помнишь?
----------------
+
+
+Just before! Don't you remember?
+Совсем недавно!
+Ты что, не помнишь?
+
+
+James honey.... Did something happen to you? After we got separated in that long hallway? Are you confusing me with someone else? You were always so forgetful.... Remember that time in the hotel...
 Джеймс, милый....
-	Что-то случилось с тобой? 
----------------
-После того, как мы разошлись в
-	длинном коридоре?
----------------
+Что-то случилось с тобой?
+После того, как мы разошлись в длинном коридоре?
 Ты меня с кем-то путаешь?
----------------
 Ты всегда был таким рассеянным....
----------------
 Помнишь тогда в отеле...
----------------
+
+
+Maria...?
 Мария...?
----------------
-Ты сказал, что все забрал....
----------------
+
+
+You said you took everything.... But you forgot that videotape we made. I wonder if it's still there...
+Ты сказал, что всё забрал....
 Но ты забыл нашу видеокассету.
----------------
 Интересно, она еще там...
----------------
+
+
+How do you know about that! Aren't you Maria?
 Откуда ты знаешь об этом!
----------------
 Ты не Мария?
----------------
+
+
+I'm not your Mary.
 Я не твоя Мэри.
----------------
+
+
+So you're Maria?
 Так ты Мария?
----------------
+
+
+I am... if you want me to be.
 Да... если ты так хочешь.
----------------
+
+
+All I want from you is an answer!
 Все, что мне нужно от тебя, это ответ!
----------------
+
+
+It doesn't matter who I am... I'm here for you, James. See? I'm real. Don't you want to touch me?
 Неважно, кто я...
----------------
 Я здесь для тебя, Джеймс.
----------------
-Видишь? Я настоящая. 
----------------
+Видишь? Я настоящая.
 Не хочешь прикоснуться ко мне?
----------------
-Я не знаю....
----------------
+
+
+I don't know....
+Я не знаю.
+
+
+Come and get me. I can't do anything through these bars.
 Приди и забери меня.
----------------
-Я ничего не могу сделать через
-	эту решетку.
----------------
-Хорошо... будь здесь.
----------------
-Я скоро приду.
----------------
-Я взял <COLOR-GREEN>кусачки<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>великий нож<COLOR-WHITE>.<SEPARATORB>
+Я ничего не могу сделать через эту решетку.
+
+
+Okay... stay right there. I'll be there soon.
+Хорошо... будь здесь. Я скоро приду.
+////
+
+
+I got a wire cutter.
+Я взял кусачки.
+
+
+I got a great knife.
+Я взял великий нож.

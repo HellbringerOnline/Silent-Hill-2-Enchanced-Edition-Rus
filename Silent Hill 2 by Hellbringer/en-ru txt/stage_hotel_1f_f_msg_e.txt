@@ -1,321 +1,382 @@
-﻿--------------- strings=95 language=english
----------------
-Я нажимаю на кнопку, но ничего
-	не происходит.<SEPARATORB>
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 95
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+I push the button but nothing happens.
+stage_hospital_3f_b_msg_e 41
+
+
+Just a normal piano. Nothing to worry about.
 Просто пианино.
-	Не о чем беспокоиться.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Г-н Сандерленд,
-	 Видеокассета, которую вы
-	оставили здесь, хранится в офисе
-	на 1-м этаже.<SEPARATORB>
----------------
-Большая дисковая музыкальная шкатулка.<SEPARATORB>
----------------
-Включить?<SELECT-YES-OR-NO>
----------------
-Звучит как-то не так.
+Не о чем беспокоиться.
 
-Она сломана?
-	Или может......<SEPARATORB>
----------------
-Прямоугольное углубление.
 
-Рядом пластина с выгравированным
-	текстом.<SEPARATORB>
----------------
-<COLOR-BLUE>Когда пропавший вернется,
-	кислая нота сладкой обернется.<SEPARATORB>
----------------
-<COLOR-BLUE>Но все же хочется верить,
-	что она была счастлива.<SEPARATORB>
----------------
-<COLOR-BLUE>Место(трон металлист) принцессы,
-	не молвившей ни слова.<SEPARATORB>
----------------
-<COLOR-BLUE>Позорная жадность запятнала
-	кровью ее туфельку.<SEPARATORB>
----------------
-<COLOR-BLUE>Место(трон металлист) принцессы,
-	сбежавшей в полночь.<SEPARATORB>
----------------
-<COLOR-BLUE>Красота - и благословение,
-	и проклятие.<SEPARATORB>
----------------
-<COLOR-BLUE>Место(трон металлист) принцессы,
-	пробужденной от смерти.<SEPARATORB>
----------------
-Я пока не могу покинуть отель.<SEPARATORB>
----------------
-Внутри больше ничего нет.<SEPARATORB>
----------------
-<COLOR-BLUE>Жду тебя...
+Mr. James Sunderland,
+ The videotape you forgot here is being kept in the office on the 1st floor.
+memo_msg_e 1080
 
-Что это...?
 
-Номер 312... Это номер,
-	в котором мы с Мэри
-	останавливались...
-
-Мэри, ты здесь?
-	Или может...
-
-Я взял <COLOR-GREEN>карту отеля (для постояльцев)<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ от номера 312<COLOR-WHITE>.
-
-Ключ от номера, в котором мы с
-	Мэри останавливались...<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>карту отеля
-	(для персонала)<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ от лестничной клетки отеля<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>видеокассету<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>консервный нож<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>музыкальную шкатулку "Белоснежка"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ "Рыбка"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я поставил <COLOR-GREEN>музыкальную шкатулку "Белоснежка"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я поставил <COLOR-GREEN>музыкальную шкатулку "Русалочка"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я поставил <COLOR-GREEN>музыкальную шкатулку "Золушка"<COLOR-WHITE>.<SEPARATORB>
----------------
-<COLOR-GREEN>Музыкальная шкатулка "Белоснежка"<COLOR-WHITE>.
-
-Взять?<SELECT-YES-OR-NO>
----------------
-<COLOR-GREEN>Музыкальная шкатулка "Русалочка"<COLOR-WHITE>.
-
-Взять?<SELECT-YES-OR-NO>
----------------
-<COLOR-GREEN>Музыкальная шкатулка "Золушка"<COLOR-WHITE>.
-
-Взять?<SELECT-YES-OR-NO>
----------------
-Я тебя напугала?
----------------
-Да, напугала.
----------------
-Ты здесь, чтобы найти Мэри,
-	так ведь, Джеймс?
----------------
-Ну как... нашел?
----------------
-Нет... ты тоже здесь поэтому?
----------------
-Она здесь, так ведь?
----------------
-Если ты знаешь, где она, скажи мне!
----------------
-Я устала ходить.
----------------
-Хотел бы я знать...
----------------
-Но она сказала об этом в письме...
----------------
-Каком письме!?
----------------
-...Хочешь прочитать?
----------------
-Только не говори Рейчел, ладно?
----------------
-Что за Рейчел?
----------------
-Наша медсестра. 
----------------
-Я взяла его из ее шкафчика.
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Моя дорогая Лора, я оставляю это
-	письмо Рэйчел, чтобы она передала
-	его тебе после моего ухода.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Сейчас я далеко. 
-	В тихом, красивом месте.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Пожалуйста, прости, что не
-	попрощалась перед уходом.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Береги себя, Лора.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Не будь слишком строга с сестрами.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>И еще, Лора, насчет Джеймса...
-	Знаю, ты его ненавидишь, потому что
-	думаешь, что он плохо ко мне относится,
-	но, пожалуйста, дай ему шанс.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Он и правда иногда немного мрачноват и
-	редко смеется. Но в глубине души он
-	очень хороший человек.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Лора...
-	Я люблю тебя, как свою родную
-	дочь.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Если бы все сложилось иначе,
-	я бы тебя удочерила.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Поздравляю тебя с восьмилетием, Лора.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Твоя подруга навеки,
-	Мэри<SEPARATORB>
----------------
-Лора... Сколько тебе лет?
----------------
-Эм, мне исполнилось восемь на
-	прошлой неделе.
----------------
-Значит, Мэри не могла умереть...
-	три года назад....
----------------
-Неужели она и правда здесь?
----------------
-Это то самое "тихое, красивое
-	место", о котором она говорила?
----------------
-Мы с Мэри много говорили о
-	Сайлент Хилле.
----------------
-Она даже показала мне все свои
-	фотографии. Она очень хотела
-	вернуться.
----------------
-Вот почему я здесь.
----------------
-Наверное, ты лучше поймешь, если
-	прочитаешь другое письмо...
----------------
-Которое Мэри... а?
----------------
-Я, наверное, выронила его!
----------------
-Лора...
----------------
-Мне надо найти его!
----------------
-Лора!
----------------
-Прямоугольное углубление.
-
-Рядом пластина с выгравированным
-	текстом.<SEPARATORB>
----------------
-<COLOR-BLUE>Место(трон металлист) принцессы,
-	не молвившей ни слова.<SEPARATORB>
----------------
-Прямоугольное углубление.
-
-Рядом пластина с выгравированным
-	текстом.<SEPARATORB>
----------------
-<COLOR-BLUE>Место(трон металлист) принцессы,
-	сбежавшей в полночь.<SEPARATORB>
----------------
-Прямоугольное углубление.
-
-Рядом пластина с выгравированным
-	текстом.<SEPARATORB>
----------------
-<COLOR-BLUE>Место(трон металлист) принцессы,
-	пробужденной от смерти.<SEPARATORB>
----------------
-Под <COLOR-GREEN>видеокассетой<COLOR-WHITE> лежит
-	<COLOR-GREEN>консервный нож<COLOR-WHITE>.<SEPARATORB>
----------------
-Пианино.
-
-Помню, Мэри очень любила играть
-	на пианино.
-
-Не особо хорошо...
-
-Но я все равно любил слушать ее игру.
-
-Это было так давно, еще до того,
-	как мы поженились.
-	Почему я сейчас думаю об этом...<SEPARATORB>
----------------
-Пустая тарелка, нож и вилка.
-	Вот и все, ничего интересного.<SEPARATORB>
----------------
-Рисунок Лоры.
-	Кошка...?<SEPARATORB>
----------------
+There's a music box here.
 Большая дисковая музыкальная шкатулка.
 
-Спереди что-то написано, но в
-	темноте не разобрать.<SEPARATORB>
----------------
-Звонок.
-	Даже если я позвоню, вряд ли
-	кто-то придет.<SEPARATORB>
----------------
-Ничего особо полезного.<SEPARATORB>
----------------
-Похоже, телефон сломан.<SEPARATORB>
----------------
-Стеллаж для ключей пуст.<SEPARATORB>
----------------
-Картина.
-	Ничего необычного.<SEPARATORB>
----------------
-На полке ничего интересного.<SEPARATORB>
----------------
-Замок сломан, я не могу его открыть.<SEPARATORB>
----------------
-В документах на столе ничего
-	полезного не написано.<SEPARATORB>
----------------
-Картофель и лук.
-	Попахивают гнилью.<SEPARATORB>
----------------
-Яблоки и тыквы.<SEPARATORB>
----------------
-Банки с фруктами.
-	Скорее всего, давно просрочены.<SEPARATORB>
----------------
-Чайные пакетики и печенье.
-	Все просрочено. <SEPARATORB>
----------------
-Банки с соком.
-	Нет смысла таскать их с собой.<SEPARATORB>
----------------
-Банки с супом.
-	Суп, наверное, пригоден в пищу,
-	но я не голоден.<SEPARATORB>
----------------
-Здесь ничего нет.
-	Но все вокруг попахивает
-	плесенью.<SEPARATORB>
----------------
-Хронометр(?)(табельные часы металлист).
-	Стрелки стоят, так что,
-	наверное, он сломан. (Часы не работают, так что, наверное, они сломаны.).<SEPARATORB>
----------------
-Ничего интересного.<SEPARATORB>
----------------
-Обогреватель.
 
+Play the music box?
+Включить?
+
+
+This doesn't sound quite right. Is this music box broken? Or maybe......
+Звучит как-то не так.
+Она сломана? Или может......
+
+
+There's a rectangular indentation. There's a plate in front of the indentation and something is engraved on it.
+Прямоугольное углубление.
+Рядом пластина с выгравированным текстом.
+
+
+When the Lost One is returned the sour note shall turn sweet.
+Когда пропавший вернется, кислая нота сладкой обернется.
+
+
+Even so, I still want to believe that she was happy.
+Но все же хочется верить, что она была счастлива.
+
+
+Seat of the Princess who spoke no words.
+Место(трон металлист) принцессы, не молвившей ни слова.
+
+
+Twas shameful greed did stain her shoe with blood.
+Позорная жадность запятнала кровью ее туфельку.
+
+
+Seat of the Princess who fled at midnight.
+Место(трон металлист) принцессы, сбежавшей в полночь.
+
+
+Beauty - Both a blessing and a curse thou be.
+Красота - и благословение, и проклятие.
+
+
+Seat of the Princess who awoke from Death.
+Место(трон металлист) принцессы, пробужденной от смерти.
+
+
+I can't leave this hotel just yet.
+Я пока не могу покинуть отель.
+
+
+There's nothing inside here anymore.
+Внутри больше ничего нет.
+
+
+Waiting for you... What's this...? Room 312... that's the room Mary and I stayed in... Mary, are you there? Or maybe... I got a hotel map (for guests).
+Жду тебя...
+Что это...?
+Номер 312... Это номер, в котором мы с Мэри останавливались...
+Мэри, ты здесь? Или может...
+Я взял карту отеля (для постояльцев).
+
+
+I got the key to room 312. The key to the room where Mary and I stayed...
+Я взял ключ от номера 312.
+Ключ от номера, в котором мы с Мэри останавливались...
+
+
+I got a hotel map (for employees).
+Я взял карту отеля (для персонала).
+
+
+I got a hotel stairway key.
+Я взял ключ от лестничной клетки отеля.
+
+
+I got the videotape.
+Я взял видеокассету.
+
+
+I got a can opener.
+Я взял консервный нож.
+
+
+I got a "Snow White" music box.
+Я взял музыкальную шкатулку "Белоснежка".
+
+
+I got the "Fish" key.
+Я взял ключ "Рыбка".
+
+
+I put down the "Snow White" music box.
+Я поставил музыкальную шкатулку "Белоснежка".
+
+
+I put down the "Little Mermaid" music box.
+Я поставил музыкальную шкатулку "Русалочка".
+
+
+I put down the "Cinderella" music box.
+Я поставил музыкальную шкатулку "Золушка".
+
+
+There's a "Snow White" music box. Take the music box?
+Музыкальная шкатулка "Белоснежка". Взять?
+
+
+There's a "Little Mermaid" music box. Take the music box?
+Музыкальная шкатулка "Русалочка". Взять?
+
+
+There's a "Cinderella" music box. Take the music box?
+Музыкальная шкатулка "Золушка". Взять?
+
+////
+Did I scare you?
+Я тебя напугала?
+
+
+Yeah, you did.
+Да, напугала.
+
+
+You're here to find Mary, aren't you, James? Well... have you?
+Ты здесь, чтобы найти Мэри,
+так ведь, Джеймс?
+Ну как... нашел?
+
+
+
+No... is that why you're here, too?
+Нет... ты тоже здесь поэтому?
+
+
+She's here, isn't she? If you know where she is, tell me! I'm tired of walking.
+Она здесь, так ведь?
+Если ты знаешь, где она, скажи мне!
+Я устала ходить.
+
+
+I wish I knew...
+Хотел бы я знать...
+
+
+But she said it in her letter...
+Но она сказала об этом в письме...
+
+
+What letter!?
+Каком письме!?
+
+
+...Wanna read it? But don't tell Rachel, okay?
+...Хочешь прочитать?
+Только не говори Рейчел, ладно?
+
+
+Who's Rachel?
+Что за Рейчел?
+
+
+She was our nurse. I took it from her locker.
+Наша медсестра.
+Я взяла его из ее шкафчика.
+
+////
+
+
+My dearest Laura, I'm leaving this letter with Rachel to give to you after I'm gone. I'm far away now. In a quiet, beautiful place. Please forgive me for not saying goodbye before I left. Be well, Laura. Don't be too hard on the sisters. And Laura, about James... I know you hate him because you think he isn't nice to me, but please give him a chance. It's true he may be a little surly sometimes, and he doesn't laugh much. But underneath he's really a sweet person. Laura... I love you like my very own daughter. If things had worked out differently, I was hoping to adopt you. Happy 8th birthday, Laura. Your friend forever, Mary
+item_msg_e 768
+
+////
+Laura... How old are you?
+Лора... Сколько тебе лет?
+
+
+Um, I turned eight last week.
+Эм, мне исполнилось восемь на прошлой неделе.
+
+
+So Mary couldn't have died... three years ago.... Could she really be here? Is this the "quiet, beautiful place" she was talking about?
+Значит, Мэри не могла умереть... три года назад....
+Неужели она и правда здесь?
+Это то самое "тихое, красивое место", о котором она говорила?
+
+
+Me and Mary talked a lot about Silent Hill. She even showed me all her pictures. She really wanted to come back. That's why I'm here. Maybe you'll get it if you see the other letter... The one Mary... huh? I must have dropped it!
+Мы с Мэри много говорили о Сайлент Хилле.
+Она даже показала мне все свои фотографии. Она очень хотела вернуться.
+Вот почему я здесь.
+Наверное, ты лучше поймешь, если прочитаешь другое письмо... Которое Мэри... а?
+Я, наверное, выронила его!
+
+
+Laura...
+Лора...
+
+
+I gotta find it!
+Мне надо найти его!
+
+
+Laura!
+Лора!
+////
+
+
+There's a rectangular indentation. There's a plate in front of the indentation and something is engraved on it.
+Прямоугольное углубление. Рядом(in front) пластина с выгравированным текстом.
+
+
+Seat of the Princess who spoke no words.
+stage_hotel_1f_f_msg_e
+
+
+There's a rectangular indentation. There's a plate in front of the indentation and something is engraved on it.
+stage_hotel_1f_f_msg_e
+
+
+Seat of the Princess who fled at midnight.
+stage_hotel_1f_f_msg_e
+
+
+
+There's a rectangular indentation. There's a plate in front of the indentation and something is engraved on it.
+stage_hotel_1f_f_msg_e
+
+
+Seat of the Princess who awoke from Death.
+stage_hotel_1f_f_msg_e
+
+
+There's a can opener beneath the videotape.
+Под видеокассетой лежит консервный нож.
+
+
+There's a piano here. I remember how much Mary liked to play the piano. She wasn't very good... But I still loved to hear her play. That was so long ago, before we were even married. Why am I thinking of that now...
+Пианино.
+Помню, Мэри очень любила играть на пианино.
+Не особо хорошо...
+Но я все равно любил слушать ее игру.
+Это было так давно, еще до того, как мы поженились.
+Почему я сейчас думаю об этом...
+
+
+An empty plate, a knife and a fork. That's all, nothing much of interest.
+Пустая тарелка, нож и вилка.
+Вот и все, ничего интересного.
+
+
+A drawing done by Laura. A cat...?
+Рисунок Лоры. Кошка...?
+
+
+There's a disc-type music box here. It looks like something may be written on the front, but it's too dark to tell.
+Большая дисковая музыкальная шкатулка.
+Спереди что-то написано, но в темноте не разобрать.
+
+
+There's a bell here. Even if I ring it, I don't think anyone will come.
+Звонок.
+Даже если я позвоню, вряд ли кто-то придет.
+
+
+There's nothing here that looks particularly useful.
+Ничего особо полезного.
+
+
+It looks like the phone is broken.
+Похоже, телефон сломан.
+
+
+There are no keys in the key box.
+Стеллаж для ключей пуст.
+
+
+A painting is hanging here. There's nothing unusual about it.
+Картина. Ничего необычного.
+
+
+There's nothing interesting in the shelf.
+На полке ничего интересного.
+
+
+The lock is broken and I can't open it.
+Замок сломан, я не могу его открыть.
+
+
+There's nothing useful written in the documents on top of the desk.
+В документах на столе ничего полезного не написано.
+
+
+There are potatoes and onions here. They smell slightly rotten.
+Картофель и лук. Попахивают гнилью.
+
+
+There are apples and pumpkins here.
+Яблоки и тыквы.
+
+
+Cans of fruit are lined up. The expiration dates are probably long gone.
+Банки с фруктами.
+Скорее всего, давно просрочены.
+
+
+There are tea bags and cookies here. They are all past their expiration dates. 
+Чайные пакетики и печенье. Всё просрочено. 
+
+
+Juice cans are lined up here. There's no reason to carry these with me.
+Банки с соком.
+Нет смысла таскать их с собой.
+
+
+Soup cans are lined up here. I guess they're still okay, but I'm not hungry.
+Банки с супом.
+Суп, наверное пригоден в пищу, но я не голоден.
+
+
+There's nothing here. But the whole thing smells vaguely moldy.
+Здесь ничего нет.
+Но все вокруг попахивает плесенью.
+
+
+There's a time clock here. The clock isn't working so I guess it must be broken.
+Хронометр(?)(табельные часы металлист). Стрелки стоят, так что, наверное, он сломан. (Часы не работают, так что, наверное, они сломаны.)
+
+
+Nothing interesting here.
+stage_hospital_2f_f_msg_e 113
+
+
+There's a heater here. On the back, in small letters, it says: "I'm Johnny, one hot guy."
+Обогреватель.
 Сзади мелкими буквами написано:
-	<COLOR-BLUE>"Я Джонни, горячий парень".<COLOR-WHITE><SEPARATORB>
----------------
-Книга с расписанием(график дежурств металл).
-	Дата годичной давности.<SEPARATORB>
----------------
-Ставни(?)( жалюзи металлист) закрыты.<SEPARATORB>
----------------
-Картонная коробка.
-	Внутри пусто.<SEPARATORB>
----------------
-Туалетная бумага...
-	Сейчас она мне не нужна.<SEPARATORB>
----------------
-Тележка для белья.
-	Внутри ничего полезного.<SEPARATORB>
+"Я Джонни, горячий парень."
+
+
+There's a schedule book here. The date is from one year ago.
+Книга с расписанием(график дежурств металл). Дата годичной давности.
+
+
+The shutters are closed.
+Ставни(?)( жалюзи металлист) закрыты.
+
+
+A cardboard box. There's nothing inside.
+Картонная коробка. Внутри пусто.
+
+
+Toilet paper... I don't need that right now.
+Туалетная бумага... Сейчас она мне не нужна.
+
+
+A laundry cart. There's nothing useful inside.
+Тележка для белья. Внутри ничего полезного.

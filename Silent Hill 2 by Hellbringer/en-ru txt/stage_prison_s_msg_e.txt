@@ -1,65 +1,103 @@
-﻿--------------- strings=17 language=english
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Я даю тебе кровь, во искупление 
-	трех грехов.
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 17
 
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+
+I give you blood to atone for the Three Sins. ...is written on top of the painting. Beneath the painting are 3 square depressions.
+Я даю тебе кровь, во искупление трех грехов.
 ...написано над изображением.
+Под изображением находятся 3 квадратных углубления.
 
-Под изображением находятся 3
-	квадратных углубления.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Я даю тебе кровь, во искупление 
-	трех грехов.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>табличку "Угнетатель"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я вставил <COLOR-GREEN>табличку "Угнетатель"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я вставил <COLOR-GREEN>табличку "Прожорливая свинья"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я вставил <COLOR-GREEN>табличку "Искусительница"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>подкову<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>восковую куклу<COLOR-WHITE>.<SEPARATORB>
----------------
-Дверь закрыта на железный засов. 
-	Не получается открыть ее силой.<SEPARATORB>
----------------
-<COLOR-BLUE>Горящий человек<SEPARATORB>
----------------
-<COLOR-BLUE>436 человек на концерте<SEPARATORB>
----------------
-<COLOR-BLUE>Летящая женщина<SEPARATORB>
----------------
-С эшафота свисают 3 петли.<SEPARATORB>
----------------
-Окровавленная одежда.<SEPARATORB>
----------------
-Журналы. Ничего особо интересного.<SEPARATORB>
----------------
-Книги разбросаны по кровати и
-	полу.
 
-<COLOR-BLUE>"Черная магия бездны"
-	"Воскрешение мертвых"
 
-<COLOR-BLUE>"Хроники Агриппы"
-	"Манускрипт железных колец"
+I give you blood to atone for the Three Sins.
+Я даю тебе кровь, во искупление трех грехов.
 
-...думаю, мне не стоит слишком
-	беспокоиться об этом.<SEPARATORB>
----------------
-Книги разбросаны по кровати и
-	полу.
 
-<COLOR-BLUE>"О жертвоприношении и искусстве
-	 призывания демонов"
-	"Том прорицателя"
+I got the tablet of "The Oppressor".
+Я взял табличку "Угнетатель".
 
-<COLOR-BLUE>"Пир суккубов"
-	"Падшие ангелы милосердия и
-	 благодати"
 
-...Думаю, мне не стоит слишком
-	беспокоиться об этом.<SEPARATORB>
+I inserted the tablet of "The Oppressor".
+Я вставил табличку "Угнетатель".
+
+
+I inserted the tablet of "Gluttonous Pig".
+Я вставил табличку "Прожорливая свинья".
+
+
+I inserted the tablet of "The Seductress".
+Я вставил табличку "Искусительница".
+
+
+I got a horseshoe.
+Я взял подкову.
+
+
+I got a wax doll.
+Я взял восковую куклу.
+
+
+The iron-bar door is tightly closed. I can't force it open.
+Дверь закрыта на железный засов. Не получается открыть ее силой.
+
+
+Burning Man
+memo_msg_e 1189
+
+
+436 People at a Recital
+memo_msg_e 1197
+
+
+Woman in Flight
+memo_msg_e 1193
+
+
+There are 3 ropes hanging from the scaffold.
+С эшафота свисают 3 петли.
+
+
+There are blood-stained clothes here.
+Окровавленная одежда.
+
+
+There are magazines here. Nothing of particular interest.
+Журналы. Ничего особо интересного.
+
+
+Books are scattered all over the bed and floor.
+"Black Magic from the Abyss"
+"Resurrection of the Dead"
+"The Chronicle of Agrippa"
+"Manuscript of the Iron Rings"
+...I guess I shouldn't worry about these too much.
+Книги разбросаны по кровати и полу.
+"Черная магия бездны"
+"Воскрешение мертвых"
+"Хроники Агриппы"
+"Манускрипт железных колец"
+...думаю, мне не стоит слишком беспокоиться об этом.
+
+
+
+Books are scattered all over the bed and floor.
+"On Sacrifice and the Art of Demon-Summoning"
+"Tome of the Seer"
+"The Feast of the Succubi"
+"The Fallen Angels of Mercy and Favor"
+...I guess I shouldn't worry about these too much.
+Книги разбросаны по кровати и полу.
+"О жертвоприношении и искусстве призывания демонов"
+"Том прорицателя"
+"Пир суккубов"
+"Падшие ангелы милосердия и благодати"
+...Думаю, мне не стоит слишком беспокоиться об этом.

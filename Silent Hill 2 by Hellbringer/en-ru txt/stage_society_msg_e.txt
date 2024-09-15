@@ -1,76 +1,89 @@
-﻿--------------- strings=13 language=english
----------------
-Наверное, раньше здесь висела
-	картина.
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 13
 
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+There probably used to be a painting here. Only the explanation remains.
+"Waterfront landscape"
+Allen Smith (Date of birth and death unknown)
+A scene of this area from long ago. From the style, it looks like it was done sometime around 1820. There were a lot fewer people then, and only a handful of buildings.
+Наверное, раньше здесь висела картина.
 Осталась только этикетка.
+Пейзаж "Набережная"
+Аллен Смит (Дата рождения и смерти неизвестна)
+Пейзаж этой местности в далеком прошлом.
+Судя по стилю, может относиться к 1820 годам.
+Людей тогда было мало,
+а зданий - и того меньше.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Пейзаж "Набережная"
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Аллен Смит (Дата рождения и
-	смерти неизвестна)
+"Waterfront landscape"
+Allen Smith (Date of birth and death unknown)
+A scene of this area from long ago. From the style, it looks like it was done sometime around 1820.
+There were a lot fewer people then, and only a handful of buildings.
+Пейзаж "Набережная"
+Аллен Смит (Дата рождения и смерти неизвестна)
+Пейзаж этой местности в далеком прошлом.
+Судя по стилю, может относиться к 1820 годам. Людей тогда было мало, а зданий - и того меньше.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Пейзаж этой местности в далеком прошлом. 
-	Судя по стилю, может относиться 
-	к 1820 годам.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Людей тогда было мало,
-	а зданий - и того меньше.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Пейзаж "Набережная"
+"Misty day, remains of the Judgment"
+It's him....
+"Туманный день, апофеоз Суда"
+Это он…
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Аллен Смит (Дата рождения и
-	смерти неизвестна)
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Пейзаж этой местности в далеком прошлом. 
-	Судя по стилю, может относиться 
-	к 1820 годам.
+There's nothing particularly special about this photograph.
+На фотографии нет ничего особенного.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Людей тогда было мало,
-	а зданий - и того меньше.<SEPARATORB>
----------------
-<COLOR-BLUE>"Туманный день,
-	 апофеоз Суда"
 
-Это он....<SEPARATORB>
----------------
-На фотографии нет ничего
-	особенного.<SEPARATORB>
----------------
-В кейсе ничего особо
-	интересного.<SEPARATORB>
----------------
-Множество антикварных снимков.
-	Похоже, это старые фотографии
-	этого города.<SEPARATORB>
----------------
-Ничего полезного на них не написано.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>обсидиановый кубок<COLOR-WHITE>.<SEPARATORB>
----------------
+There's nothing of particular interest inside the case.
+В кейсе ничего особо интересного.
+
+
+Many antique-looking photographs are lined up. They look like old photos of this town.
+Множество антикварных снимков. Похоже, это старые фотографии этого города.
+
+
+There's nothing useful written on them.
+Ничего полезного на них не написано.
+
+
+I got an obsidian goblet.
+Я взял обсидиановый кубок.
+
+
+A photo is hanging here.
+Wiltse Coal Mine
 Фотография.
+Угольная шахта Вильтце
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Угольная шахта Вильтце<SEPARATORB>
----------------
-На фотографии глубокая, очень
-	глубокая дыра. Что это может быть...?<SEPARATORB>
----------------
+
+
+There is a photo of a deep, deep hole. What could this be...?
+На фотографии глубокая, очень глубокая дыра. Что это может быть...?
+
+
+A photo is hanging here.
+Brookhaven Hospital(1880)
+This hospital was built in response to a great plague that followed a wave of immigration to this area. It was originally little more than a shack, but it gradually grew and grew.
 Фотография.
+Госпиталь Брукхейвен (1880)
+Этот госпиталь построен для борьбы с эпидемией чумы, сопровождавшей волну иммиграции в этот район.
+Изначально представлял собой небольшое строение, достроенное и расширенное в последствии.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Госпиталь Брукхейвен (1880)
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Госпиталь был построен для
-	борьбы с эпидемией чумы,
-	сопровождавшей волну иммиграции
-	в этот район.
-	Изначально представлял собой
-	небольшое строение, достроенное и 
-	расширенное в последствии.<SEPARATORB>
----------------
-На фотографии изображена
-	глубокая, очень глубокая дыра
-	Что это может быть...?<SEPARATORB>
----------------
-Фотография директора старого
-	госпиталя Брукхейвен. Похоже, он
-	был известным человеком в городе.<SEPARATORB>
+
+There is a photo of a deep, deep hole. What could this be...?
+На фотографии изображена глубокая, очень глубокая дыра. Что это может быть...?
+
+
+A photo of the Director of the old Brookhaven Hospital. It looks like he was a famous person in town.
+Фотография директора старого госпиталя Брукхейвен. Похоже, он был известным человеком в городе.

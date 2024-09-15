@@ -1,92 +1,138 @@
-﻿--------------- strings=32 language=english
----------------
-На стене что-то написано.<SEPARATORB>
----------------
-<CENTER-PER-LINE><COLOR-BLUE><GLOBALYOFFSET-TERNNUMBERS>Крути крути крути цыфры
-	 лучше их не забыть
-	Значет я напишу их прямо тут
-	Другой, мое секретное имя<SEPARATORB>
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 32
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+There's something written on the wall.
 На стене что-то написано.
 
-<COLOR-BLUE>Если Джозеф внешне спокоен, его
-	можно вывести из камеры.<SEPARATORB>
----------------
-Сундучок со множеством замков.
 
-Всего <VARIABLE-01> замков.<SEPARATORB>
----------------
-Всего <VARIABLE-01> замков.<SEPARATORB>
----------------
+Tern tern tern the numbers better not forget them
+So I'll right them down here
+The other one, my secret name
+memo_msg_e 626
+
+
+Something is written on the wall.
+If Joseph looks calm, he can be taken out of his cell.
+На стене что-то написано.
+Если Джозеф внешне спокоен, его можно вывести из камеры.
+
+
+There's a box with lots of locks on it. There are a total of locks.
+Сундучок со множеством замков. Всего замков.
+
+
+There are a total of locks.
+Всего замков.
+
+
+There's nothing inside the box. No, I'm wrong... There are a few hairs inside.
 В сундучке пусто.
-
 Хотя нет, я ошибаюсь...
-	Здесь несколько волосков.<SEPARATORB>
----------------
-В сундучке больше ничего нет.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Луиза
-	Я буду заботиться о тебе вечьна.
-	Это моя судьба!<SEPARATORB>
----------------
+Здесь несколько волосков.
+
+
+There's nothing in the box anymore.
+В сундучке больше ничего нет.
+
+
+Louise
+I'll take care of you four ever.
+It's my destiny!
+Луиза
+Я буду заботиться о тебе вечьна.
+Это моя судьба!
+
+
+There's something stuck in the drainage pipe. The hole is too small. I can't get my hand inside to reach it. Maybe if I had a long, narrow tool of some kind...
 В сточной трубе что-то застряло.
+Слив слишком узкий. Руку просунуть не получается.
+Если бы у меня было что-то длинное и узкое...
 
-Слив слишком узкий. Руку
-	просунуть не получается.
 
-Если бы у меня было что-то
-	длинное и узкое...<SEPARATORB>
----------------
-В сливе ничего нет.<SEPARATORB>
----------------
-Я кручу кран(вентиль),
-	но вода не идет(течет).<SEPARATORB>
----------------
-Так мне его не зацепить (поймать, достать - металлист, выловить).<SEPARATORB>
----------------
-Нужно что-то подлиннее.<SEPARATORB>
----------------
-Кнопка вызова лифта закрыта крышкой.
+There's nothing in the hole.
+В сливе ничего нет.
 
-Она заблокирована(заперта металлист), и я не могу ее открыть.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>прядь волос<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ от лифта<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ от крыши<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ от лифта<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ "Фиолетовый бык"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ "Лазуритный Глаз"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я нажимаю на кнопки,
-	но лифт не едет.<SEPARATORB>
----------------
+
+I turn the handle, but no water comes out.
+Я кручу кран(вентиль), но вода не идет(течет).
+
+
+I'll never be able to snare it like this.
+Так я никогда не смогу его зацепить (поймать, достать - металлист, выловить).
+
+
+It isn't long enough.
+Нужно что-то подлиннее.
+
+
+There's a cover over the elevator's call button. It's locked and I can't get it open.
+stage_hospital_2f_f_msg_e
+
+
+I got a piece of hair.
+Я взял прядь волос.
+
+
+I got an elevator key.
+Я взял ключ от лифта.
+
+
+I got the roof key.
+Я взял ключ от крыши.
+
+
+I used an elevator key.
+stage_hospital_2f_f_msg_e 85
+
+
+I used the "Purple Bull" key.
+Я использовал ключ "Фиолетовый бык".
+
+
+I used the "Lapis Eye" key.
+Я использовал ключ "Лазуритный Глаз".
+
+
+I'm pressing the buttons but the elevator doesn't move.
+stage_hospital_1f_f_msg_e 57
+
+//
+James, wait a minute. I'm kinda tired.... It's just a hangover.
 Джеймс, подожди минутку.
----------------
 Я немного устала....
----------------
 Просто синдром отмены.
----------------
+
+
+You should rest.
 Тебе надо отдохнуть.
----------------
+
+
+Mmm. So comfy...
 Ммм... Так мягко...
----------------
-Я пойду поищу ее...
-	Лору.
----------------
-Вернусь, как только смогу.
----------------
-Мне скоро полегчает.
-	Ты нашел Лору?
----------------
-Джеймс, я хочу спросить тебя кое
-	о чем. А что если...
----------------
+
+
+I'm going to go look for her... for Laura. I'll be back as soon as I can.
+Я пойду поищу ее... Лору. Вернусь, как только смогу.
+///
+
+I'll be okay soon. Did you find Laura?
+Мне скоро полегчает. Ты нашел Лору?
+///
+
+James, I wanna ask you something. What if... what if you can't find Mary? What will you do?
+Джеймс, я хочу спросить тебя кое о чем. А что если...
 что если ты не найдешь Мэри?
-	Что ты будешь делать?
----------------
-Я не думал об этом.
+Что ты будешь делать?
+
+
+I haven't thought about that.
+Я не думал об этом. ///

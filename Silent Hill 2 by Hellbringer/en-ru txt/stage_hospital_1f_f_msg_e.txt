@@ -1,196 +1,188 @@
-﻿--------------- strings=49 language=english
----------------
-Мария и Лора еще здесь.
-	Я не могу их бросить.<SEPARATORB>
----------------
-Здесь что-то вроде карточки. (Здесь что-то похожее на карту.)<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>[Джек Дэвис]
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 49
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Трижды беспричинно предпринимал
-	попытки самоубийства. В целом
-	ведет себя адекватно и выполняет
-	предписания докторов и медсестер,
-	но требует постоянного присмотра
-	из-за внезапных и насильственных
-	попыток самоубийства в прошлом.
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-<CENTER-PARAGRAPH><COLOR-BLUE>[Джозеф Баркин]
+BEGIN_SOURCE:
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Вероятно в основе его состояния
-	лежит убеждение в том, что он
-	виновен в смерти своей дочери.
-	Симптомы указывают на психоз и
-	параноидальный бред. В обычном
-	состоянии спокоен, но в
-	стрессовых ситуациях склонен к
-	насилию.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>[Джошуа Льюис]
+Maria and Laura are still in here. I can't just throw them away.
+Мария и Лора еще здесь. Я не могу их бросить.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>В истории - госпитализация,
-	многочисленные нападения, побои и
-	другие насильственные
-	преступления. Сильная мания
-	преследования и склонность решать
-	проблемы насильственным методом.
-	Следует соблюдать предельную
-	осторожность.<SEPARATORB>
----------------
-Похоже, речь идет о
-	госпитализированных здесь
-	пациентах. <SEPARATORB>
----------------
-На ней что-то написано. (Здесь что-то написано. металлист)<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Это заболевание может поразить
-	любого человека, и при
-	благоприятных условиях каждый,
-	мужчина или женщина, может, подобно
-	ему, оказаться на "той стороне".
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Возможно, не стоит называть это
-	место "той стороной", поскольку
-	между "здесь" и "там" не существует
-	четкого разделения. Это место, где
-	материальное пересекается с
-	нематериальным. Оно одновременно и
-	близко, и далеко.
+There's something like a card here.
+Здесь что-то вроде карточки. (Здесь что-то похожее на карту.)
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Некоторые утверждают, что это даже
-	не заболевание. Я с этим не
-	согласен. Я доктор, а не философ или
-	даже психиатр.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Тем не менее, я периодически
-	задумываюсь над этим.
-	Действительно, для нас его фантазии
-	- не более чем плод беспокойного
-	ума. Однако для него это
-	единственная подлинная реальность.
-	 Более того, он счастлив, пребывая
-	там.
+[Jack Davis]
+He has attempted suicide three times in the past for reasons unknown. Although he is normally a model patient who follows doctor's and nurse's orders, he must be watched closely due to his past pattern of sudden and violent suicide attempts.
+[Joseph Barkin]
+His illness seems to be rooted in the fact that he believes he is guilty of causing his daughter's death. His symptoms suggest a psychotic break and paranoid delusions. Normally calm, but has a tendency towards violence when excited.
+[Joshua Lewis]
+History of hospitalization as well as numerous assault, battery and other violent offenses. He has a strong persecution complex and a tendency to solve things through violence. Extreme caution necessary.
+memo_msg_e 719
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Так почему же, спрашиваю я себя,
-	мы, во имя излечения, должны
-	насильно возвращать его в нашу
-	реальность?
 
-Что-то еще написано от руки.
+It seems to be about the patients hospitalized here. 
+Похоже, речь идет о госпитализированных здесь пациентах. 
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Джозеф дал мне ключ.
-	Наверное, он от того сундучка.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Пин-код этого месяца - "T".
-	В прошлом месяце был "X", в
-	позапрошлом - "Z".
-	 Но что они собираются делать
-	в следующем? Больше ничего
-	нельзя составить из 4 цифр.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> И вообще, зачем так часто
-	менять комбинацию на двери
-	крыла пациентов?<SEPARATORB>
----------------
-Я нажимаю на кнопки,
-	но лифт не едет.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ "Фиолетовый бык"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ от смотрового кабинета<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>карту госпиталя<COLOR-WHITE>.<SEPARATORB>
----------------
+Something is written on it.
+На ней что-то написано. (Здесь что-то написано. металлист)
+
+
+ The potential for this illness exists in all people and, under the right circumstances, any man or woman would be driven, like him, to "the other side."
+ The "other side" perhaps may not be the best way to phrase it.
+ After all, there is no wall between here and there. It lies on the borders where reality and unreality intersect. It is a place both close and distant.
+ Some say it isn't even an illness. I cannot agree with them. I'm a doctor, not a philosopher or even a psychiatrist.
+ But sometimes I have to ask myself this question. It's true that to us his imaginings are nothing but the inventions of a busy mind. But to him, there simply is no other reality.
+ Furthermore he is happy there.
+ So why, I ask myself, why in the name of healing him must we drag him painfully into the world of our own reality?
+Something else is written by hand.
+I got the key from Joseph. It's probably the key to that box.
+memo_msg_e 738
+
+
+ The pin number this month is "T". Last month it was "X" and before that it was "Z."
+ But what are they going to do next month? That's all they can express with 4 numbers.
+ Anyway does the door to the Patient Wing really need to have its combination changed this often?
+memo_msg_e 555
+
+
+I'm pressing the buttons but the elevator doesn't move.
+Я нажимаю на кнопки, но лифт не едет.
+
+
+I got the "Purple Bull" key.
+Я взял ключ "Фиолетовый бык".
+
+
+I used the examination room key.
+Я использовал ключ от смотрового кабинета.
+
+
+I got a map of the hospital.
+Я взял карту госпиталя.
+
+
+Where are you planning to go?
 Куда ты собрался идти?
----------------
+
+
+But we haven't found Laura yet.
 Но мы еще не нашли Лору.
----------------
+////
+
+Laura.
 Лора.
----------------
-А?
----------------
-Знаешь, как меня зовут?
----------------
+
+
+Huh? You know my name?
+А? Знаешь, как меня зовут?
+
+
+Eddie told me.
 Эдди сказал мне.
----------------
+
+
+That big, fat blabbermouth.
 Вот же жирный болтун (болтливая свинья, пустозвон, пустослов). (Этот большой жирный трепач.металлист)
----------------
+
+
+How do you know about Mary?
 Откуда ты знаешь про Мэри?
----------------
+
+
+What's the big deal?
 А что такого?
----------------
+
+
+Why can't you just tell me?
 Почему нельзя просто рассказать мне?
----------------
+
+
+You gonna yell at me if I don't?
 Наорешь на меня, если я не скажу?
----------------
+
+
+No... I won't.
 Нет... не буду.
----------------
-Я дружила с Мэри...
----------------
-Мы познакомились в госпитале.
----------------
-В прошлом году...
----------------
-Ты врешь!!
----------------
-Лора, я...
----------------
+
+
+I was friends with Mary... We met at the hospital. It was last year...
+Я дружила с Мэри... Мы познакомились в госпитале. В прошлом году...
+
+
+You liar!! Laura, I...
+Ты врешь!! Лора, я...
+
+
+Fine! Don't believe me!
 Ладно! Можешь не верить!
----------------
+
+
+But last year, Mary was already... I'm sorry, Laura. Anyway, let's go. We can talk about this later. This is no place for a kid. There are all sorts of strange things around here... I can't believe you haven't even gotten a scratch on you.
 Но в прошлом году Мэри уже...
----------------
 Прости, Лора.
----------------
-В любом случае, пойдем. 
----------------
+В любом случае, пойдем.
 Мы можем поговорить позже.
----------------
-Здесь не место для ребенка.
----------------
+Здесь не место для ребёнка.
 Вокруг творятся странные вещи...
----------------
-Не могу поверить, что на тебе
-	нет ни царапины.
----------------
+Не могу поверить, что на тебе нет ни царапины.
+
+
+Why should I?
 А должны быть?
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Коридор крыла пациентов 3-го этажа - 7335<SEPARATORB>
----------------
-На доске объявлений что-то
-	написано. Правда, ничего
-	интересного. (Что-то вывешено на доске объявлений. Но все это не особо интересно. металл)<SEPARATORB>
----------------
-Всякие бумаги и документы.
-	Но ничего интересного для меня.<SEPARATORB>
----------------
-Ничего интересного.<SEPARATORB>
----------------
-Здесь развешены разнообразные
-	виды записок. Но ничего особо
-	интересного. Разные записки (памятки металл). Ничего особо интересного.<SEPARATORB>
----------------
-Внутри пусто.<SEPARATORB>
----------------
-На холодильнике висит записка.
+////
 
-<COLOR-BLUE>Только для продуктов! Не хранить лекарства!<SEPARATORB>
----------------
-Замок на шкафчике сломан.<SEPARATORB>
----------------
-По столу разбросаны документы.
-	Ничего особо интересного.<SEPARATORB>
----------------
-На столе лежат медицинские карты.
-	Ничего особенно интересного.<SEPARATORB>
----------------
-Дверца стеллажа не заперта. 
+3rd floor patient wing hall - 7335
+memo_msg_e 895
 
-Что это за папка...?
 
-<COLOR-BLUE>Результаты теста на расстройство
-	личности.
+There's something posted on the bulletin board. But it's not really anything of interest.
+На доске объявлений что-то написано. Правда, ничего интересного. (Что-то вывешено на доске объявлений. Но все это не особо интересно. металл)
 
-Результаты теста?
-	...не хочу это читать.<SEPARATORB>
----------------
-Ничего полезного.<SEPARATORB>
+
+Different types of papers and documents. But there's nothing of interest for me.
+Всякие бумаги и документы. Но ничего интересного для меня.
+
+
+There's nothing of interest.
+Ничего интересного.
+
+
+Different kinds of memos are hanging up. But there's nothing of particular interest.
+Здесь развешены разнообразные виды записок. Но ничего особо интересного. Разные записки (памятки металл). Ничего особо интересного.
+
+There's nothing inside.
+Внутри пусто.
+
+
+There's a memo hanging on the refrigerator. Food only! Do not store drugs!
+На холодильнике висит записка. Только для продуктов! Не хранить лекарства!
+
+
+The locker's lock is broken.
+Замок на шкафчике сломан.
+
+
+Documents are scattered all over the table. There's nothing of particular interest.
+По столу разбросаны документы. Ничего особо интересного.
+
+
+There are medical records on the desk. Nothing particularly interesting.
+На столе лежат медицинские карты. Ничего особенно интересного.
+
+
+The shelf's glass door is open. What's this file...? Lab results from a personality disorder test. Lab results? ...I don't want to read this.
+Дверца стеллажа не заперта. Что это за папка...?
+Результаты теста на расстройство личности.
+Результаты теста? ...не хочу это читать.
+
+
+There's nothing useful.
+Ничего полезного.

@@ -1,190 +1,236 @@
-﻿--------------- strings=42 language=english
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 42
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+What was that!?
+Some kind of noise north of here...
 Что это было?
-	Какой-то шум к северу отсюда...<SEPARATORB>
----------------
+Какой-то шум к северу отсюда...
+
+
+He's dead.
+Who could have done this...
 Он мертв.
-	Кто мог это сделать...<SEPARATORB>
----------------
-Слишком темно, чтобы сказать
-	наверняка, но думаю, что по ту
-	сторону дыры что-то есть.
+Кто мог это сделать...
 
-Проверить?<SELECT-YES-OR-NO>
----------------
-В дыре больше ничего нет.<SEPARATORB>
----------------
-Эта записка...? Должно быть,
-	от человека, который здесь жил.<SEPARATORB>
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>На трех разных высотах
-	Три иголки стоят.
-	Толстая, длинная, тонкая.
-	От медленной к быстрой
-	они вправо летят.
-	Скотт спит не на три,
-	А на пятнадцати.<SEPARATORB>
----------------
+
+It's too dark to tell for sure, but I think there's something on the other side of the hole.
+Will you investigate?
+Слишком темно, чтобы сказать наверняка, но думаю, что по ту сторону дыры что-то есть.
+Проверить?
+
+
+There's nothing in the hole anymore.
+В дыре больше ничего нет.
+
+
+This note...? It must be from the person who lived here.
+Эта записка...? Должно быть, от человека, который здесь жил.
+
+
+Three needles stand of three different heights.
+The fat, the tall and the thin.
+From slow to fast they move to the right.
+Scott rests not on three, but fifteen.
+memo_msg_e 273
+
+
+There is writing on the clock.
+The scars from the past shall remove the nail that stops Time.
 На часах надпись.
+Шрамы прошлого выдернут гвоздь, остановивший Время.
 
-<COLOR-BLUE>Шрамы прошлого выдернут гвоздь,
-	остановивший Время.<SEPARATORB>
----------------
-Что это...?<SEPARATORB>
----------------
-<CENTER-PER-LINE><COLOR-BLUE>Чарли
-	Милдред
-	Скотт<SEPARATORB>
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Три разных размера, времени шаг.
-	Три юноши обогнуть солнце спешат.
-	Из них невысок и медлителен Чарли,
-	А Скотта из всех самым быстрым признали.<SEPARATORB>
----------------
-Часы остановились на <VARIABLE-01>:<VARIABLE-02>
-	и 15 секундах.<SEPARATORB>
----------------
-Часы остановились на <VARIABLE-01>:<VARIABLE-02>
-	и 15 секундах.
 
+What's this...?
+Что это...?
+
+
+Henry
+Mildred
+Scott
+Чарли
+Милдред
+Скотт
+
+
+Three different sizes, time on the run.
+Three young men circlin' round the sun.
+Henry is short and very, very slow,
+Scott can't stop, he's always on the go.
+memo_msg_e 278
+
+
+The clock is stopped at :
+and 15 seconds.
+Часы остановились на :
+и 15 секундах.
+
+
+
+The clock is stopped at : and 15 seconds. The face plate is closed. It is locked. I can't touch the needles of the clock like this.
+Часы остановились на :
+и 15 секундах.
 Лицевая панель закрыта.
+До стрелок не достать.
 
-До стрелок не достать.<SEPARATORB>
----------------
-На полу и стене царапины. Похоже,
-	здесь передвигали что-то тяжелое.<SEPARATORB>
----------------
-Сдвинуть часы?<SELECT-YES-OR-NO>
----------------
-Как бы сильно я ни толкал,
-	они не сдвигаются, 
-	как будто прибиты к полу.<SEPARATORB>
----------------
-Мусоропровод.
 
-Внутри застрял какой-то странный мусор.<SEPARATORB>
----------------
-Может быть, если я брошу сверху
-	что-то тяжелое...<SEPARATORB>
----------------
-Похоже, что застрявший мусор
-	провалился вниз.<SEPARATORB>
----------------
+There are scratches on the floor and walls. It looks like something heavy was dragged here.
+На полу и стене царапины. Похоже, здесь передвигали что-то тяжелое.
+
+
+Will you push the clock?
+Сдвинуть часы?
+
+
+No matter how hard I push, it doesn't move. It's like it's stuck to the ground.
+Как бы сильно я ни толкал, они не сдвигаются, как будто прибиты к полу.
+
+
+There's a trash chute. There's some kind of strange garbage stuck in the hole.
+Мусоропровод. (В стволе тех. докк) Внутри застрял какой-то странный мусор.
+
+
+Maybe if I drop something heavy from above...
+Может быть, если я брошу сверху что-то тяжелое...
+
+
+It looks like the garbage stuck in the dust chute has fallen through.
+Похоже, что застрявший мусор провалился вниз.
+
+
+There are arms and legs scattered all over the sofa. Luckily, they came from a mannequin...
 По всему дивану разбросаны руки и ноги.
+Хорошо, что они от манекена...
 
-Хорошо, что они от манекена...<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ от часов<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>фонарик<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ от номера 202<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ от часов<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ от номера 202<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ от пожарного выхода<COLOR-WHITE>.<SEPARATORB>
----------------
+
+I got the clock key.
+Я взял ключ от часов.
+
+
+I got a flashlight.
+Я взял фонарик.
+
+
+I got the key to room 202.
+Я взял ключ от номера 202.
+
+
+I used the clock key.
+Я использовал ключ от часов.
+
+
+I used the key to room 202.
+Я использовал ключ от номера 202.
+
+
+I used the fire escape key.
+Я использовал ключ от пожарного выхода.
+
+
+Oh my God....
+Who could've...
 Боже мой....
-	Кто бы мог...
----------------
-Записная книжка с приклеенной
-	вырезкой из журнала.
+Кто бы мог...
 
+
+There's a note with a cut-out magazine article attached to it.
+There's a title written on the front side.
+"Searching for Another Conclusion"
+Записная книжка с приклеенной вырезкой из журнала.
 На лицевой стороне заголовок.
+"В поисках иного исхода"
+(намёк на получение концовки)
 
-<COLOR-BLUE>"В поисках иного исхода"<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>"Путь в завтрашний день"
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Первый шаг к здоровой жизни -
-	профилактика заболеваний. Возможно
-	звучит банально, но это очень важно.
-	 Болезнь легче предупредить, чем лечить.
+"The Road to Tomorrow"
+ The first step to a healthy life is to avoid illness. That may sound obvious, but it's also very important. Instead of working to heal yourself after you're sick, it's better to avoid getting sick in the first place.
+ Also you have to maintain a positive, optimistic outlook on life. It's no use worrying over things that have happened in the past. 
+ You've got to get outside and play in the fresh air once in a while, instead of just sitting inside reading difficult books.
+memo_msg_e 223
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Также необходимо сохранять
-	позитивный, оптимистичный взгляд на
-	жизнь. Не стоит переживать за ошибки
-	прошлого. 
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Нужно чаще выходить на свежий
-	воздух, не сидеть дома за чтением
-	заумных книг.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>"Как стать счастливой парой"
+"How to be a Happy Couple"
+ Do you really love her? In sickness and in health? If you truly love her, then you must act. It all depends on how hard you fight for her.
+ Whatever happens, don't give up. Always try just one more time. Even though there may be hard times, never turn to another woman.
+ And if it comes to it, you must be willing to protect her with your very life. After all, true love means a willingness to sacrifice.
+ Be true to your heart and with luck, things will work out in the end.
+memo_msg_e 234
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Вы по-настоящему любите ее?
-	В болезни и в здравии? Если да, то
-	нужно действовать. Все зависит от
-	того, насколько упорно вы будете за
-	нее бороться.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Ни в коем случае не сдавайтесь.
-	Обязательно пытайтесь снова. Даже
-	если наступят трудные времена, не
-	переключайтесь на другую женщину.
+"Choosing Death"
+ When life is filled with nothing but despair, some people choose to end it all. 
+ I once chose that path for myself as well.
+ At the time I felt that I had no other choices.
+ After I made my decision, it became the only thing binding me into this world.
+ Sometimes I would cry to myself while thinking of the past, but mostly all I did was plan over and over again how and when I was going to kill myself.
+ I did stupid, dangerous things. I figured it didn't matter since I was going to die anyway, so I went out of my way to invite disaster.
+ I stopped talking to people and it didn't bother me even when friendships grew distant.
+memo_msg_e 245
 
-<CENTER-PARAGRAPH><COLOR-BLUE> А если дойдет до того, будьте готовы
-	отдать за нее жизнь. Ведь истинная
-	любовь - готовность к самопожертвованию.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Будьте верны своему сердцу и удаче,
-	и, в конце концов, все получится.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>"Choosing Death"
+There's nothing to do here.
+Здесь нечего делать.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>"Выбирая смерть"
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Когда жизнь наполнена лишь отчаянием,
-	некоторые решают покончить с ней.
-	 Однажды и я избрал для себя такой путь.
-	 Мне казалось, что другого выхода нет.
+There's nothing that looks useful.
+Ничего, что выглядит полезным.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Принятое решение стало единственным,
-	что удерживало меня в этом мире.
-	 Иногда я плакал, думая о прошлом, но
-	чаще всего я снова и снова планировал,
-	как и когда покончить с собой.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Я совершал глупые, рискованные
-	поступки. Меня это не беспокоило, ведь я
-	все равно не собирался жить, поэтому
-	сознательно шел на ситуации, сулящие
-	неприятности.
-	 Я перестал общаться с людьми и не
-	придавал значения тому, что мои
-	дружеские связи ослабевают.<SEPARATORB>
----------------
-Здесь нечего делать.<SEPARATORB>
----------------
-Ничего, что выглядит полезным.<SEPARATORB>
----------------
+There's a newspaper on the ground.
+But there's nothing interesting written in it.
 На полу лежит газета.
-	Но в ней не написано ничего
-	интересного.<SEPARATORB>
----------------
+Но в ней не написано ничего интересного.
+
+
+A large clock.
+It's too dark to see it well.
 Большие часы.
-	В темноте хорошо не разглядеть.<SEPARATORB>
----------------
-Газета (ты, старыми металл). Выглядит очень старой.<SEPARATORB>
----------------
+В темноте хорошо не разглядеть.
+
+
+There's a newspaper here. It looks like it's very old.
+Газета. Выглядит очень старой. (ты, старыми металл)
+
+
+A television.
+There's nothing unusual about it.
 Телевизор.
-	Ничего необычного.<SEPARATORB>
----------------
+Ничего необычного.
+
+
+Just a mannequin.
+But these clothes...
 Просто манекен.
-	Но эта одежда...<SEPARATORB>
----------------
+Но эта одежда...
+
+
+A sewing machine.
+There's nothing special about it.
 Швейная машинка.
-Ничего особенного.<SEPARATORB>
----------------
-Ничего, что могло бы пригодиться.<SEPARATORB>
----------------
-На полу(кровати? металл) лежит мертвая
-	бабочка. Больше ничего
-	интересного.<SEPARATORB>
----------------
-В клетке пусто. (пустые клетки металл.)<SEPARATORB>
----------------
+Ничего особенного.
+
+
+There's nothing that looks to be of use.
+Ничего, что могло бы пригодиться.
+
+
+The body of a dead butterfly is on the ground. There's nothing else of interest here.
+На полу(кровати? металл) лежит мертвая бабочка. Больше ничего интересного.
+
+
+There's nothing inside the cage.
+В клетке пусто. (пустые клетки металл.)
+
+
+Just a normal washing machine.
+There's nothing of interest.
 Обычная стиральная машина.
-	Ничего интересного.<SEPARATORB>
+Ничего интересного.

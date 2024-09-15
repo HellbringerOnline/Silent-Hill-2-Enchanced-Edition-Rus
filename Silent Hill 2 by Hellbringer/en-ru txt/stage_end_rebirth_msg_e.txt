@@ -1,33 +1,58 @@
-﻿--------------- strings=13 language=english
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 13
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+James.
 Джеймс.
----------------
+
+
+Maria.
+I'm finished with you.
 Мария.
----------------
 С тобой покончено.
----------------
+
+
+What!?
+But I'm what you wanted!
+Mary's dead. Don't you understand?
+She's not coming back!
+But I can be yours...
+I'll be here for you forever.
+I'll never hurt you like she did!
+So why don't you want me!
 Что?
-	Но я - то, чего ты хотел!
----------------
+Но я - то, чего ты хотел!
 Мария мертва.
-	Неужели ты не понимаешь?
-	Ее не вернуть!
----------------
+Неужели ты не понимаешь?
+Её не вернуть!
 Но я могу быть твоей...
-	Я буду рядом с тобой всегда.
----------------
+Я буду рядом с тобой всегда. 
 Я никогда не сделаю тебе больно, как она!
----------------
 Так почему же ты не хочешь!
----------------
+
+
+Because you're not Mary.
+Without Mary, I just can't go on.
 Потому что ты не Мэри.
----------------
 Без Мэри я просто не смогу жить дальше.
----------------
+
+
+James.
+C'mon, James.
+You must be joking.
 Джеймс.
----------------
 Да брось, Джеймс.
-	Ты, наверное, шутишь.
----------------
-Я не могу повернуть назад.
-	Сейчас (уже поздно металл.) не время убегать.<SEPARATORB>
+Ты, наверное, шутишь.
+
+
+I can't turn back now.
+This is no time to run away.
+Я не могу повернуть назад. Сейчас (уже поздно металл.) не время убегать.

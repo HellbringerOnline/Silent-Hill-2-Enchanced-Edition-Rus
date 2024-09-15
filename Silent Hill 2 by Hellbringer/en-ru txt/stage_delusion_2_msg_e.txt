@@ -1,34 +1,53 @@
-﻿--------------- strings=5 language=english
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 5
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+The hole's dark and I can't see anything.
+Will you jump down?
 В дыре темно, и ничего не видно.
+Спрыгнуть?
 
-Спрыгнуть?<SELECT-YES-OR-NO>
----------------
+
+Some kind of document is lying here.
+September 11, 1820
+Prisoner number: C-221
+I can't read the rest. What is this...?
 Какой-то документ.
-
-<COLOR-BLUE>11 сентября 1820 г.
-	Номер заключенного: C-221
-
+11 сентября 1820 г.
+Номер заключенного: C-221
 Остальное не разобрать.
-	Что это...?<SEPARATORB>
----------------
+Что это...?
+
+A photo is hanging here.
+Toluca Prison Camp
+Built during the Civil War.
+Later became Toluca Prison.
 Фотография.
+Тюремный лагерь Толука
+Построен во время Гражданской войны.
+Впоследствии стал тюрьмой Толука.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Тюремный лагерь Толука
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Построен во время Гражданской войны.
-	Впоследствии стал тюрьмой Толука.<SEPARATORB>
----------------
+A photo is hanging here.
+Death by Skewering
+An execution at the prison.
+Death by Skewering or Strangling.
+To choose his death is the prisoner's last taste of freedom.
 Фотография.
+Смерть через посажение на кол
+Смерть через посажение на кол или повешение.
+Выбор (вида смертной казни)способа казни - последний глоток свободы для заключенного.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Смерть через посажение на кол
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Смертная казнь в тюрьме.
-	Смерть через посажение на кол
-	или повешение.
-	Выбор (вида смертной казни) способа казни - последний
-	глоток свободы для заключенного.<SEPARATORB>
----------------
+A painting is hanging here.
+Crimson and White Banquet for the Gods
 Картина.
+Багрово-белый пир в честь богов
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Багрово-белый пир в честь богов<SEPARATORB>
+

@@ -1,29 +1,50 @@
-﻿--------------- strings=10 language=english
----------------
-Мэри...
-	Ты правда в этом городе?
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Если ты искренне хочешь увидеть Мэри, 
-	тебе просто нужно умереть.
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 10
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Но, возможно, ты попадешь не к
-	Мэри, а в другое место, Джеймс.<SEPARATORB>
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Здесь была ДЫРА.
-	Теперь ее нет.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>гиперспрей<COLOR-WHITE>.<SEPARATORB>
----------------
-Карта.<SEPARATORB>
----------------
-На диване лежит записка.
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-Я буду ждать в баре "У Нили"<SEPARATORB>
----------------
-Карта.<SEPARATORB>
----------------
-Что это за знак в конце Мартин-стрит?<SEPARATORB>
----------------
-Я скопировал его на свою карту.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>синий самоцвет<COLOR-WHITE>.<SEPARATORB>
+BEGIN_SOURCE:
+
+
+Mary... Could you really be in this town?
+stage_observation_msg_e
+
+
+If you really want to see Mary, you should just die. But you might be heading to a different place than Mary, James.
+memo_msg_e 1130
+
+
+There was a HOLE here. It's gone now.
+Здесь была ДЫРА. Теперь ее нет.
+
+
+I got a hyper spray.
+Я взял гиперспрей.
+
+
+There's a map here.
+Карта.
+
+
+There's a memo lying on the sofa. I'll wait at "BAR Neely's"
+На диване лежит записка. Я буду ждать в баре "У Нили".
+
+
+There's a map here.
+Карта.
+
+
+What's that symbol at the end of Martin Street?
+Что это за знак в конце Мартин-стрит?
+
+
+I copied it onto my own map.
+Я отметил его на своей карте.
+
+
+I got a blue gem.
+Я взял синий самоцвет.

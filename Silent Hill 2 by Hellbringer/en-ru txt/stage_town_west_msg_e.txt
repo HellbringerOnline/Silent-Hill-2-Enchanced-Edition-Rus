@@ -1,310 +1,395 @@
-﻿--------------- strings=113 language=english
----------------
-Что с этой девочкой...?
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 113
 
-Неужели с ней ничего не
-	случилось в таком городе?<SEPARATORB>
----------------
-В этом месте небольшой бугорок.
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-Наверное, тут что-то закопано?
+BEGIN_SOURCE:
 
-Раскопать?<SELECT-YES-OR-NO>
----------------
-Здесь был закопан небольшой
-	металлический ящичек
 
-Крышка прикручена болтами.
-	Не получается открыть.<SEPARATORB>
----------------
-Небольшой металлический ящичек
-	прикручен болтами. Не получается
-	открыть крышку.<SEPARATORB>
----------------
-В ящичке лежит ключ.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Жертва <HIDDEN-TEXT>христи<HIDDEN-TEXT>анских гонений.
-	Дженни<HIDDEN-TEXT>фер<HIDDEN-TEXT> Кэрролл жила с
-	гордостью и честью.
-	Произошедшее здесь никогда
-	не будет забыто.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Патрик Честер, сын Эдварда.
-	Он сражался и умер за народ,
-	за свободу и за все наше будущее.
-	Память о нем будет жить вечно.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>В память о шестидесяти семи
-	умерших от болезней, покоящихся
-	теперь на дне озера.<SEPARATORB>
----------------
-(На нем) что-то написано, но
-	прочитать невозможно, потому что
-	поверхность стерлась.<SEPARATORB>
----------------
-(К ней прикреплен) старый,
-	крепкий на вид навесной замок.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>книгу: "Утраченные воспоминания"<COLOR-WHITE>.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Название это пришло из легенды о
-	людях, у которых украли землю.
+What happened to that girl...? Is she really okay by herself in a town like this?
+Что с этой девочкой...? Неужели с ней ничего не случилось в таком городе?
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Они называли это место "Местом
-	Безмолвных Духов." Под духами они
-	подразумевали не только своих умерших
-	родственников, но и тех духов,
-	которые, по их поверьям, населяли
-	деревья, камни и воду вокруг.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Согласно легенде, именно здесь
-	проводились самые священные церемонии.
+The ground is raised up only here. Could there be something under here? Will you dig?
+В этом месте небольшой бугорок. Наверное, тут что-то закопано? Раскопать?
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Но не предки нынешних жителей
-	города первыми украли эту землю.
-	Были другие, которые пришли раньше.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>В те времена город назывался иначе.
-	Но то название теперь безнадежно
-	затеряно в пелене времени.
+A small metal box was buried. The small metal box is fastened by bolts. I can't open the lid.
+Здесь был закопан небольшой металлический ящичек.
+Крышка прикручена болтами. Не получается открыть.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Все, что мы знаем - это то, что у
-	города было другое название, и что
-	однажды по каким-то причинам его
-	покинули жители.<SEPARATORB>
----------------
+
+The small metal box is fastened by bolts. I can't open the lid.
+Небольшой металлический ящичек прикручен болтами. Не получается открыть крышку.
+
+
+There was a key inside the box.
+В ящичке лежит ключ.
+
+
+Victim of persecution by the Christians. Jennifer Carroll lived with pride and honor. What happened here shall never be forgotten.
+Жертва христианских гонений. Дженнифер Кэрролл жила с гордостью и честью. Произошедшее здесь никогда не будет забыто.
+
+
+Patrick Chester, son of Edward. He fought and died for the people, for liberty and for all of our tomorrows. His memory lives on.
+Патрик Честер, сын Эдварда.
+Он сражался и умер за народ, за свободу и за все наше будущее. Память о нем будет жить вечно.
+
+
+In memory of the sixty seven who died of illness and now sleep beneath the lake.
+В память о шестидесяти семи умерших от болезней, покоящихся теперь на дне озера.
+
+
+Something is written on it, but it's impossible to read because its surface has been rubbed away.
+(На нем) что-то написано, но прочитать невозможно, потому что поверхность стерлась.
+
+
+There's an old, strong-looking padlock attached to it.
+(К ней прикреплен) старый, крепкий на вид навесной замок.
+
+
+I got a book: "Lost Memories".
+Я взял книгу: "Утраченные воспоминания".
+
+
+ The name comes from the legend of the people whose land was stolen from them. They called this place "The Place of the Silent Spirits." By "Spirits," they meant not only their dead relatives, but also the spirits that they believed inhabited the trees, rocks and water around them.
+ According to legend, this was where the holiest ceremonies took place.
+But it was not the ancestors of those who now live in this town that first stole the land from these people. There were others who came before. In those days, this town went by another name. But that name is now hopelessly lost in the veils of time. All we know is that there was another name, and that for some reason the town was once abandoned by its residents.
+item_msg_e 772
+
+////
+You! It was you, wasn't it? You're the one who stepped on my hand.
 Ты!
----------------
-Это же ты, да? 
-	Это ты наступила мне на руку.
----------------
-Я не знаю...
----------------
-Может, и я...
----------------
-Что вообще такая маленькая
-	девочка здесь делает?
----------------
-А?
-	Ты что, слепой что ли?
----------------
-Что это за письмо?
----------------
-Не твое дело.
----------------
-Ты все равно не любил Мэри!
----------------
-Стой!
----------------
-Откуда ты знаешь имя Мэри!
----------------
-Мэри? 
----------------
-Нет... ты не она.
----------------
-Я похожа на твою девушку?
----------------
-Нет... мою покойную жену.
----------------
-Не могу поверить...
----------------
-Ты словно ее близнец.
-	Твое лицо, твой голос...
----------------
-Только волосы и одежда другие.
----------------
-Меня зовут... Мария.
----------------
-Я не похожа на призрака. 
-	Правда?
----------------
-Видишь? Чувствуешь, какая я теплая.
----------------
-Ты правда не Мэри?
----------------
-Я же сказала... Я Мария.
----------------
-Прости, я растерялся.
----------------
-Куда ты уходишь?
----------------
-Я разыскиваю Мэри. 
-	Ты не видела ее? 
----------------
-Разве ты не сказал, что она умерла?
----------------
-Ах да... три года назад.
----------------
-Но я получил от нее письмо.
-	Она написала, что ждет в нашем
-	"особом месте".
----------------
-И это здесь?
----------------
-В общем, я ее не видела.
----------------
-Это ваше единственное "особое место"?
----------------
-Ну, еще есть отель, наверное.
----------------
-Тот, что на озере...
-	Интересно, он еще сохранился.
----------------
-Отель "Лейквью"? 
-	Да, он все еще там.
----------------
-Значит, отель был вашим "особым
-	местом", да?
----------------
-Не сомневаюсь.
----------------
-Не злись так.
-	Я просто шучу.
----------------
-В любом случае, тебе не туда.
-	А вот сюда.
----------------
-Ты идешь со мной?
----------------
-Ты собирался бросить меня?
----------------
-Нет, просто...
----------------
-Со всеми этими монстрами в округе?
----------------
-Нет, я только...
----------------
-Я здесь совсем одна. 
-	Все остальные пропали...
----------------
-Я ведь похожа на Мэри, правда? 
-	Ты же любил ее, верно?
----------------
-Или, может, ненавидел...
----------------
-Не говори глупостей.
----------------
-Значит, все хорошо?
----------------
-Да, отлично.
----------------
-Я подожду здесь. Ненавижу боулинг.
----------------
-Я здесь не для игр, знаешь ли.
----------------
-Возвращайся скорее, хорошо.
----------------
-Отсюда выбегала маленькая девочка?
----------------
-Да, она слишком шустрая для меня!
----------------
-Хочешь ее догнать?
----------------
-Отель в другой стороне.
-	Все в порядке?
----------------
-Куда ты идешь?
----------------
-Девочка убежала в другую сторону.
----------------
-Я взял <COLOR-GREEN>стальную трубу<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>гаечный ключ<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>гаечный ключ<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>старый бронзовый ключ<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>старый бронзовый ключ<COLOR-WHITE>.<SEPARATORB>
----------------
-Вон там!(Вон она!)
----------------
-Я взял <COLOR-GREEN>ключ собаки<COLOR-WHITE> из конуры.<SEPARATORB>
----------------
-Больше здесь делать нечего.
-	Лучше продолжу поиски Мэри....<SEPARATORB>
----------------
-Ты снова убил Мэри?
----------------
-Это была не Мэри.
-	Мэри больше нет.
----------------
-Это было просто то, что я...
----------------
-Мария?
----------------
-Мария.
----------------
-Что, Джеймс?
----------------
-Я хочу...
-	Я хочу, чтобы ты была со мной...
----------------
-Ты уверен?
----------------
-Пойдем. Давай выбираться отсюда.
----------------
-А как же Мэри?
----------------
-Все хорошо,
-	у меня есть ты.
----------------
-Я должен найти Лору.
-	Я не могу оставить ее одну. 
+Это же ты, да?
+Это ты наступила мне на руку.
 
-А еще... может быть, она сможет
-	рассказать мне что-нибудь о Мэри.<SEPARATORB>
----------------
+
+I don't know... Maybe I did...
+Я не знаю... Может, и я...
+
+
+What's a little girl like you doing here anyway?
+Что вообще такая маленькая девочка здесь делает?
+
+
+Huh? Are you blind or something?
+А? Ты что, слепой что ли?
+
+
+What's that letter?
+Что это за письмо?
+
+
+None of your business.
+Не твое дело.
+
+
+You didn't love Mary anyway!
+Ты все равно не любил Мэри!
+
+
+Wait! How do you know Mary's name!
+Стой! Откуда ты знаешь имя Мэри!
+////
+
+////
+Mary? No... you're not.
+Мэри? Нет... ты не она.
+
+
+Do I look like your girlfriend?
+Я похожа на твою девушку?
+
+
+No... my late wife. I can't believe it... You could be her twin. Your face, your voice... Just your hair and clothes are different.
+Нет... мою покойную жену. Не могу поверить... Ты словно ее близнец. Твое лицо, твой голос... Только волосы и одежда другие.
+
+
+My name... is Maria. I don't look like a ghost. Do I? See? Feel how warm I am.
+Меня зовут... Мария. Я не похожа на призрака. Правда? Видишь? Чувствуешь, какая я теплая.
+
+
+You're really not Mary?
+Ты правда не Мэри?
+
+
+
+I told you... I'm Maria.
+Я же сказала... Я Мария.
+
+
+Sorry, I was confused.
+Прости, я растерялся.
+
+
+Where are you going?
+Куда ты уходишь?
+
+
+I'm looking for Mary. Have you seen her? 
+Я разыскиваю Мэри. Ты не видела ее? 
+
+
+Didn't you say she died?
+Разве ты не сказал, что она умерла?
+
+
+Oh yeah... three years ago. But I got a letter from her. She said she was waiting in our 'special place'.
+Ах да... три года назад. Но я получил от нее письмо.
+Она написала, что ждет в нашем "особом месте".
+
+
+And that's here? Anyway, I haven't seen her. Is this your only 'special place'?
+И это здесь?
+В общем, я ее не видела.
+Это ваше единственное "особое место"?
+
+
+Well, there's the hotel, too, I guess. The one on the lake... I wonder if it's still there.
+Ну, еще есть отель, наверное. Тот, что на озере... Интересно, он еще сохранился?
+
+
+The Lakeview Hotel? Yeah, it's still there. So, the hotel was your 'special place', huh? I'll bet it was. Don't get so mad. I was just joking. Anyway, it's not that way. It's this way.
+Отель "Лейквью"? Да, он все еще там.
+Значит, отель был вашим "особым местом", да?
+Не сомневаюсь. Не злись так. Я просто шучу. В любом случае, тебе не туда. А вот сюда.
+
+
+You're coming with me?
+Ты идешь со мной?
+
+
+You were gonna just leave me?
+Ты собирался бросить меня?
+
+
+No but...
+Нет, просто...
+
+
+With all these monsters around?
+Со всеми этими монстрами в округе?
+
+
+No, I just...
+Нет, я только...
+
+
+I'm all alone here. Everyone else is gone... I look like Mary, don't I? You loved her, right? Or maybe you hated her...
+Я здесь совсем одна. Все остальные пропали... Я ведь похожа на Мэри, правда? Ты же любил ее, верно? Или, может, ненавидел...
+
+
+Don't be ridiculous.
+Не говори глупостей.
+
+
+So it's okay?
+Значит, все хорошо?
+
+
+Yeah, fine.
+Да, отлично.
+////
+
+////
+I'll wait here. I hate bowling.
+Я подожду здесь. Ненавижу боулинг.
+
+
+I didn't come here to play, you know.
+Я здесь не для игр, знаешь ли.
+
+
+Hurry back, okay.
+Возвращайся скорее, хорошо.
+////
+
+///
+Did a little girl run out of here?
+Отсюда выбегала маленькая девочка?
+
+
+Yeah, she was too fast for me! Aren't you gonna go after her?
+Да, она слишком шустрая для меня! Хочешь ее догнать?
+////
+
+
+The hotel isn't this way. Is that okay?
+Отель в другой стороне. Все в порядке?
+
+
+Where are you going? This isn't the way that little girl went.
+Куда ты идешь?
+Девочка убежала в другую сторону.
+
+
+I got a steel pipe.
+Я взял стальную трубу.
+
+
+I got a wrench.
+Я взял гаечный ключ.
+
+
+I used the wrench.
+Я использовал гаечный ключ.
+
+
+I got the old bronze key.
+Я взял старый бронзовый ключ.
+
+
+I used the old bronze key.
+Я использовал старый бронзовый ключ.
+
+
+Over there!
+Вон там!(Вон она!)
+
+
+I got the dog key from the doghouse.
+Я взял ключ собаки из конуры.
+
+
+There's nothing more to do here. Guess I'll go back to looking for Mary....
+Больше здесь делать нечего. Лучше продолжу поиски Мэри....
+
+////
+You killed Mary again?
+Ты снова убил Мэри?
+
+
+That wasn't Mary. Mary's gone. That was just something I... Maria? Maria.
+Это была не Мэри. Мэри больше нет. Это было просто то, что я... Мария? Мария.
+
+
+What, James?
+Что, Джеймс?
+
+
+I want you... I want you with me...
+Я хочу...
+Я хочу, чтобы ты была со мной...
+
+
+Are you sure?
+Ты уверен?
+
+
+C'mon. Let's get out of here.
+Пойдем. Давай выбираться отсюда.
+
+
+What about Mary?
+А как же Мэри?
+
+
+It's okay, I have you.
+Все хорошо, у меня есть ты.
+////
+
+
+I have to go after Laura. I can't just leave her all alone. Also...maybe she'll be able to tell me something about Mary.
+Я должен найти Лору.
+Я не могу оставить ее одну.
+А еще... может быть, она сможет рассказать мне что-нибудь о Мэри.
+
+
+Just a normal wall. The graffiti that looks like it was written by a child.
 Обычная стена.
-	Граффити выглядят так, будто
-	нарисованы ребенком.<SEPARATORB>
----------------
-Просто мусор.
-	Нет смысла в нем рыться.<SEPARATORB>
----------------
-<COLOR-BLUE>Парк Роузвотер<SEPARATORB>
----------------
-Внутри пусто.<SEPARATORB>
----------------
-Карта.<SEPARATORB>
----------------
-<COLOR-BLUE>Отель "Лейквью"<SEPARATORB>
----------------
-Мария мертва.
-	Я не смог защитить ее.
----------------
+Граффити выглядят так, будто нарисованы ребенком.
+
+
+Just normal garbage. There's no point in fishing around in here.
+Просто мусор. Нет смысла в нем рыться.
+
+
+Rosewater Park
+Парк Роузвотер
+
+
+There's nothing inside.
+Внутри пусто.
+
+
+There's a map here.
+Карта.
+
+
+Lakeview Hotel
+Отель "Лейквью"
+
+
+Maria's dead. I couldn't protect her.
+Мария мертва. Я не смог защитить ее.
+
+
+Once again, I couldn't do anything to help.
 И снова я никак не смог помочь.
----------------
+
+
+Laura has run off somewhere.
 Лора куда-то убежала.
----------------
-Мэри......
-	Что... Что мне делать?
----------------
+
+
+Mary...... What... What should I do?
+Мэри...... Что... Что мне делать?
+
+
+Are you... really waiting somewhere for me?
 Ты... правда где-то ждешь меня?
----------------
+
+
+Or is this your way of taking...
 Или это твой план...
----------------
+
+
+I'm going to find Mary...... It's the only thing I have left to hope for.
 Я собираюсь найти Мэри......
-	Это единственное, на что мне
-	остается надеяться.
----------------
-<COLOR-BLUE>Историческое общество Сайлент Хилла<SEPARATORB>
----------------
+Это единственное, на что мне остается надеяться.
+
+
+Silent Hill Historical Society
+Историческое общество Сайлент Хилла
+
+
+This bridge is ruined. I can't get to the hotel from here...
 Мост разрушен.
-	Этим путем не добраться до отеля...<SEPARATORB>
----------------
-<COLOR-BLUE>Райская ночь<SEPARATORB>
----------------
-<COLOR-BLUE>Гостиница "У Джека"<SEPARATORB>
----------------
-<COLOR-BLUE>Боул-О-Рама Пита<SEPARATORB>
----------------
-Лодки до парка развлечений
-	"Лейксайд" и отеля "Лейквью" <SEPARATORB>
----------------
-Я скопировал все на свою карту.<SEPARATORB>
----------------
+Этим путем не добраться до отеля...
+
+
+Heaven's Night
+Райская ночь
+
+
+Jacks Inn
+Гостиница "У Джека"
+
+
+Pete's Bowl-O-Rama
+Боул-О-Рама Пита
+
+///Это нелепое/бессмысленное слово/термин, которое, вероятно, подразумевает что-то новейшее, улучшенное или даже удивительное.
+
+ИЛИ, это способ модернизировать продукт или название бизнеса.
+Обычный старый боулинг превратился в Bowl-O-Rama A plain old bowling alley became Bowl-O-Rama///
+
+
+Boats to Lakeside Amusement Park and Lakeview Hotel 
+Лодки до парка развлечений "Лейксайд" и отеля "Лейквью" 
+
+
+I copied it onto my own map.
+Я скопировал все на свою карту.
+
+
+So this is that park...
 Итак, тот самый парк...
----------------
-Мэри......
-	Ты здесь?
+
+
+Mary...... Are you here?
+Мэри...... Ты здесь?

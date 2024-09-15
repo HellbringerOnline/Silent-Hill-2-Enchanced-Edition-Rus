@@ -1,116 +1,184 @@
-﻿--------------- strings=38 language=english
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Добро пожаловать в Сайлент Хилл!
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 38
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Сайлент Хилл - тихий курортный городок
-	на берегу озера. Мы будем рады видеть вас.
-	Выделите немного времени из своего
-	напряженного графика и насладитесь
-	пребыванием здесь.
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Ряды причудливых старинных домов,
-	потрясающий вид на горы и озеро, которое
-	открывает свои красоты весь день с
-	раннего утра до позднего вечера.
+BEGIN_SOURCE:
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Сайлент Хилл порадует и наполнит вас
-	чувством глубокого умиротворения.
-	Надеюсь, проведенное здесь время будет
-	приятным, а воспоминания незабываемыми.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Редактор: Роджер Видмарк.<SEPARATORB>
----------------
-Здесь лежит брошюра с
-	достопримечательностями города.<SEPARATORB>
----------------
+
+Welcome to Silent Hill!
+ Silent Hill, a quiet little lakeside resort town. We're happy to have you. Take some time out of your busy schedules and enjoy a nice restful vacation here.
+ Row after row of quaint old houses, a gorgeous mountain landscape, and a lake which shows different sides of its beauty with the passing of the day, from sunrise to late afternoons to sunset.
+ Silent Hill will move you and fill you with a feeling of deep peace. I hope your time here will be pleasant and your memories will last forever.
+Editor: Roger Widmark
+memo_msg_e 300
+
+
+A sightseeing brochure for the town is lying here.
+Здесь лежит брошюра с достопримечательностями города.
+
+
+It wasn't me!
+I didn't do it!
 Это не я!
-	Я не делал этого!
----------------
-Не делал чего?
----------------
-Я ничего не делал.
-	Я, я клянусь!
----------------
-Он уже был таким,
-	когда я пришел...
----------------
-Меня эм, меня зовут Джеймс.
-	Джеймс Сандерленд.
----------------
-Эммм... Эдди.
----------------
-Эдди, почему на кухне
-	мертвый человек?
----------------
-Я этого не делал.
-	Клянусь, я никого не убивал.
----------------
-Вы ведь не друзья с тем
-	существом с красной пирамидой?
----------------
-Существом с красной пирамидой?
-	Я не понимаю, о чем ты.
----------------
-Честно.
----------------
-Но я видел каких-то странных
-	монстров.
----------------
-Я перепугался до смерти
-	и прибежал сюда...
----------------
-Хотя, наверное здесь тоже
-	не особо безопасно.
----------------
-Что здесь вообще случилось?
----------------
-Ээ, я же сказал, что не знаю.
----------------
-Я даже не местный.
-	Я просто, просто...
----------------
-Ты тоже, ага. Что-то привело
-	тебя сюда, да?
----------------
-Эмм... да. Можно и так сказать...
----------------
-Что бы это ни было...
----------------
-Думаю, тебе лучше поскорее
-	убраться отсюда.
----------------
-Да, ты прав. А что будешь делать ты?
----------------
-Я тоже уеду, как только все здесь закончу.
----------------
-Эдди... будь осторожен.
----------------
-Джеймс, я...
----------------
-Я... эм... Ты тоже будь осторожен.
----------------
-Эдди, с тобой все хорошо?
----------------
-Да, наверное...
----------------
-Ты еще здесь?
----------------
-Да, мне немного нехорошо...
-	Скоро пройдет.
----------------
-Тебе лучше уехать из города,
-	когда полегчает...
----------------
-Да, я знаю, но...
----------------
-Что за...?
-	Кто способен на такое...<SEPARATORB>
----------------
-Стена завешана футбольными плакатами
-	и разрисована глупыми граффити.
+Я не делал этого!
 
-Меня не интересует ни то, ни другое.<SEPARATORB>
----------------
-Внутри пусто.<SEPARATORB>
----------------
-Картина. Ничего особо интересного.<SEPARATORB>
+
+Do what?
+Не делал чего?
+
+
+I didn't do anything.
+I, I swear!
+Я ничего не делал.
+Я, я клянусь!
+
+
+He was like this when I got here...
+Он уже был таким, когда я пришел...
+
+
+My uh, my name's James.
+James Sunderland.
+Меня эм, меня зовут Джеймс.
+Джеймс Сандерленд.
+
+
+Ummm... Eddie.
+Эммм... Эдди.
+
+
+Eddie, who's that dead guy in the kitchen?
+Эдди, почему на кухне мертвый человек?
+
+
+I didn't do it.
+I swear I didn't kill anybody.
+Я этого не делал.
+Клянусь, я никого не убивал.
+
+
+You're not friends with that red, pyramid thing, are you?
+Вы ведь не друзья с тем существом с красной пирамидой?
+
+
+Red pyramid thing? I don't know what yer talkin' about.
+Существом с красной пирамидой? Я не понимаю, о чем ты.
+
+
+Honest.
+Честно.
+
+
+But I did see some weird-lookin' monsters.
+Но я видел каких-то странных монстров.
+
+
+They scared the hell outta me, so I ran in here...
+Я перепугался до смерти и прибежал сюда...
+
+
+Well, I guess this place isn't too safe either.
+Хотя, наверное здесь тоже не особо безопасно.
+
+
+What happened here anyway?
+Что здесь вообще случилось?
+
+
+Uh I, I told ya I don't know.
+Ээ, я же сказал, что не знаю.
+
+
+I'm not even from this town.
+I just, I just...
+Я даже не местный.
+Я просто, просто...
+
+
+You too, huh. Something just brought you here, right?
+Ты тоже, ага. Что-то привело тебя сюда, да?
+
+
+Umm... yeah. You could say that...
+Эмм... да. Можно и так сказать...
+
+
+Well whatever it is...
+Что бы это ни было...
+
+
+I think you better get out of here soon.
+Думаю, тебе лучше поскорее убраться отсюда.
+
+
+Yeah yer right. What about you?
+Да, ты прав. А что будешь делать ты?
+
+
+I'll leave as soon as I'm done here.
+Я тоже уеду, как только все здесь закончу.
+
+
+Eddie... be careful.
+Эдди... будь осторожен.
+
+
+James, I...
+Джеймс, я...
+
+
+I... um... You be careful too.
+Я... эм... Ты тоже будь осторожен.
+
+
+Eddie, are you okay?
+Эдди, с тобой все хорошо?
+
+
+Yeah I guess...
+Да, наверное...
+
+
+Are you still here?
+Ты еще здесь?
+
+
+Yeah, I feel kinda sick...
+I'll be okay soon.
+Да, мне немного нехорошо...
+Скоро пройдет.
+
+
+You should get out of this town when you can...
+Тебе лучше уехать из города, когда полегчает...
+
+
+Yeah, I know but...
+Да, я знаю, но...
+
+
+What the...?
+Who could have done this...
+Что за...?
+Кто способен на такое...
+
+
+The wall is covered with football posters and meaningless graffiti. I could care less about either of them.
+Стена завешана футбольными плакатами и разрисована глупыми граффити.
+Меня не интересует ни то, ни другое.
+
+
+There's nothing inside.
+Внутри пусто.
+
+
+A painting is displayed here.
+There's nothing of particular interest.
+Картина.
+Ничего особо интересного.

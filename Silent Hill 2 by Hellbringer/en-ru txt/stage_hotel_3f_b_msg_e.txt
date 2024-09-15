@@ -1,14 +1,31 @@
-﻿--------------- strings=5 language=english
----------------
-Видеомагнитофон.
-	На вид рабочий.<SEPARATORB>
----------------
-Я вытащил кассету из видеомагнитофона.<SEPARATORB>
----------------
-Я нажимаю на кнопку, но ничего
-	не происходит.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ собаки<COLOR-WHITE>.<SEPARATORB>
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 5
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+There's a VCR here. It looks like I'll be able to use it.
+Видеомагнитофон. На вид рабочий.
+
+
+I took a video tape from the VCR.
+Я вытащил кассету из видеомагнитофона.
+
+
+I push the button but nothing happens.
+stage_hotel_2f_f_msg_e.
+
+
+I used the dog key.
+Я использовал ключ собаки.
+
+
+The lock might be broken. I can't seem to open it.
 Замок, наверное, сломан.
-	Не получается его открыть.<SEPARATORB>
+Не получается его открыть.

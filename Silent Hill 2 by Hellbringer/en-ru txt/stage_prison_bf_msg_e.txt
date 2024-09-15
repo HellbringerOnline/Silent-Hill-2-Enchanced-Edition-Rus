@@ -1,43 +1,57 @@
-﻿--------------- strings=10 language=english
----------------
-Лучше туда не лезть. Не хочу
-	знать, что там внутри.<SEPARATORB>
----------------
-В полу дыра. Я не вижу дна.
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 10
 
-Насколько она глубокая...?
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-Спрыгнуть?<SELECT-YES-OR-NO>
----------------
-Еще одна дыра... неужели нет
-	другого выхода, кроме как
-	спрыгнуть...?
+BEGIN_SOURCE:
 
-Спрыгнуть?<SELECT-YES-OR-NO>
----------------
+
+I'd better not poke around in there. I don't think I wanna see what's inside.
+Лучше туда не лезть. Не хочу знать, что там внутри.
+
+
+There's a hole in the floor. I can't see the bottom. How far does this thing go...?  Will you go down?
+В полу дыра. Я не вижу дна. Насколько она глубокая...? Спрыгнуть?
+
+
+Another hole... do I really have to drop through it...? Will you go down?
+Еще одна дыра... неужели нет другого выхода, кроме как спрыгнуть...?
+Спрыгнуть?
+
+
+It looks like the lock is broken. I can't open it. As I approach the door, I get a whiff of some rotten smell coming from inside.
 Похоже, замок сломан.
-	Не получается его открыть.
+Не получается его открыть.
+Возле двери чувствуется гнилостный запах.
 
-Возле двери чувствуется
-	гнилостный запах.<SEPARATORB>
----------------
-Труп тошнотворно пахнет
-	разложившейся плотью.<SEPARATORB>
----------------
-Это труп... в этой дыре?<SEPARATORB>
----------------
-...Он только что пошевелился или 
-	мне показалось?<SEPARATORB>
----------------
-......Боже мой.
-	В дыре...
 
-...я этого не видел.<SEPARATORB>
----------------
-Из дыры ужасно пахнет.<SEPARATORB>
----------------
+The corpse smells nauseatingly of rotten flesh.
+Труп тошнотворно пахнет разложившейся плотью.
+
+
+This corpse... into this hole?
+Это труп... в этой дыре?
+
+
+...Did that just move or was it only my imagination?
+...Он только что пошевелился или мне показалось?
+
+
+......My God. In the hole... ...I didn't see that.
+...... Боже мой. В дыре... ...я этого не видел.
+
+
+A horrible smell is coming from the hole.
+Из дыры ужасно пахнет.
+
+
+There's something in the hole. It looks like... It's all dismembered...no, I can't I can't look anymore...
 В дыре что-то есть.
-	Похоже на...
+Похоже на...
+Все расчленено... нет, я не могу больше смотреть...
 
-Все расчленено... нет, я не могу
-	больше смотреть...<SEPARATORB>
+

@@ -1,106 +1,146 @@
-﻿--------------- strings=32 language=english
----------------
-Шкафчик не открывается.<SEPARATORB>
----------------
-Не похоже, что здесь есть
-	что-то полезное.<SEPARATORB>
----------------
-Из мягкой игрушки торчала игла.<SEPARATORB>
----------------
-Просто мягкая игрушка.
-	Ничего более.<SEPARATORB>
----------------
-В кармане белого медицинского
-	халата что-то есть.<SEPARATORB>
----------------
-Белый медицинский халат.
-	Ничего особо интересного.<SEPARATORB>
----------------
-Пишущая машинка.
-	Мне она не нужна.<SEPARATORB>
----------------
-Пишущая машинка.
-	Мне она не нужна.
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 32
 
-Минутку...
-	Что это...?
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-В пишущей машинке застрял лист
-	копировальной бумаги(копирки?).
+BEGIN_SOURCE:
 
-Отпечаток все еще различим.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>я знаю это секрет я дам им коечто чтобы
-	они победили этого демона укрытие
-	теперь бесполезно он мой инструмент он
-	обязан подчиняться моим приказам да,
-	сундук не поможет
 
-<CENTER-PARAGRAPH><COLOR-BLUE>теперь я должен помнить об этом хорошо <VARIABLE-01>
-	что он низший теперь я тоже освобожусь
-	и он станет служить мне я гений никто
-	не сможет остановить меня никто не
-	сможет остановить меня никто не сможет
-	остановить меня не сможет остановить не
-	сможет остановить нет нет<SEPARATORB>
----------------
-Рассыпанная(разбросанные) (листы бумаги)бумага.
-	Обычная белая бумага.<SEPARATORB>
----------------
+The locker won't open.
+Шкафчик не открывается.
+
+
+Doesn't look like there's anything useful here.
+stage_apart_w1f_msg_e 337
+
+
+A needle was stuck in the stuffed animal.
+Из мягкой игрушки торчала игла.
+
+
+Just a normal stuffed animal. There's nothing else.
+Просто мягкая игрушка. Ничего более.
+
+
+There's something inside the pocket of the white lab jacket.
+В кармане белого медицинского халата что-то есть.
+
+
+There's a white lab jacket. There's nothing particularly interesting.
+Белый медицинский халат. Ничего особо интересного.
+
+
+There's a typewriter here. I've got no use for this.
+Пишущая машинка. Мне она не нужна.
+
+
+There's a typewriter here. I've got no use for this. Wait a minute... What's this...? There's a sheet of carbon paper still stuck in the typewriter. I can still read the imprint left on it.
+Пишущая машинка. Мне она не нужна. Минутку... Что это...?
+В пишущей машинке застрял лист копировальной бумаги(копирки?). Отпечаток все еще различим.
+
+
+i know it the secret i'll give them something to deal with this demon shelter is of no use any more he is my instrument he must follow my orders yes, the box will be useless
+now i must not forget it 
+that's good he is the lowest now i too will be free and he will serve me i am a genius no one can stop me one can stop me no one can stop me can stop can stop no no
+memo_msg_e 560
+
+
+Scattered papers. Just plain white paper.
+Рассыпанная(разбросанные) (листы бумаги)бумага. Обычная белая бумага.
+
+
+There's a cover over the elevator's call button. It's locked and I can't get it open.
 Кнопка вызова лифта закрыта крышкой.
+Она заблокирована(заперта металлист), и я не могу ее открыть.
 
-Она заблокирована(заперта металлист), и я не могу ее открыть.<SEPARATORB>
----------------
-Я нажимаю на кнопки,
-	но лифт не едет.<SEPARATORB>
----------------
-В шкафчике лежит <COLOR-GREEN>дробовик<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>дробовик<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>согнутую иглу<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ от смотрового кабинета<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ "Лазуритный Глаз"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ от лифта<COLOR-WHITE>.<SEPARATORB>
----------------
+
+
+I'm pressing the buttons but the elevator doesn't move.
+stage_hospital_1f_f_msg_e 57
+
+
+There's a shotgun in the locker.
+В шкафчике лежит дробовик.
+
+
+I got a shotgun.
+Я взял дробовик.
+
+
+I got the bent needle.
+Я взял согнутую иглу.
+
+
+I got the examination room key.
+Я взял ключ от смотрового кабинета.
+
+
+I got the "Lapis Eye" key.
+Я взял ключ "Лазуритный Глаз".
+
+
+I used an elevator key.
+Я использовал ключ от лифта.
+
+
+Ow!!
 Ай!!
----------------
+
+
+What's wrong?
 Что случилось?
----------------
+
+
+I just pricked myself...
 Я укололся...
----------------
+
+
+Are you okay?
 Ты в порядке?
----------------
+
+
+Yeah.
 Да.
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>я знаю я знаю число сундука <VARIABLE-01>
-	оно уже ему не поможет кнопочный
-	ключ меня не пугает так что
-	никто не сможет остановить кто я
-	я не знаю кто я кто я кто я<SEPARATORB>
----------------
-Ничего интересного.<SEPARATORB>
----------------
+
+
+i know it i know the number of the box it cant help him anymore the button key doesnt scare me so nobody can stop who i am i dont know who i am is who i am is who i am is
+memo_msg_e 564
+
+я знаю я знаю число сундука 1488 оно уже ему не поможет кнопочный ключ меня не пугает так что никто не сможет остановить кто я я не знаю кто я кто я кто я
+
+
+Nothing interesting here.
+Ничего интересного.
+
+
+A television. It seems to be broken.
 Телевизор.
-	Кажется, сломан.<SEPARATORB>
----------------
-Ничего, что выглядит полезным.<SEPARATORB>
----------------
-На доске объявлений что-то
-	написано. Правда, ничего
-	интересного. (Что-то вывешено на доске объявлений. Но все это не особо интересно. металл)<SEPARATORB>
----------------
-...Сейчас не время разглядывать
-	дурацкие плакаты.<SEPARATORB>
----------------
-Внутри шкафчика ничего
-	необычного.<SEPARATORB>
----------------
-Журнал.
-	Мне он не нужен.<SEPARATORB>
----------------
-Сумка.
-	Внутри пусто.<SEPARATORB>
+Кажется, сломан.
+
+
+There's nothing here that looks useful.
+Ничего, что выглядит полезным.
+
+
+There's something posted on the bulletin board. But it's not really anything of interest.
+На доске объявлений что-то написано. Правда, ничего интересного. (Что-то вывешено на доске объявлений. Но все это не особо интересно. металл)
+
+
+...This is no time to be looking at a stupid poster.
+...Сейчас не время разглядывать дурацкие плакаты.
+
+
+There's nothing unusual inside the locker.
+Внутри шкафчика ничего необычного.
+
+
+There's a magazine here. That won't do me any good right now.
+Журнал. Мне он не нужен.
+
+
+There's a bag here. There's nothing inside.
+Сумка. Внутри пусто.

@@ -1,9 +1,24 @@
-﻿--------------- strings=4 language=english
----------------
-Откройся!
----------------
-Нет!!
----------------
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 4
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+Open up! No!!
+Откройся! Нет!!
+
+
+James!
 Джеймс!
----------------
+
+
+Maria!
 Мария!
+
+

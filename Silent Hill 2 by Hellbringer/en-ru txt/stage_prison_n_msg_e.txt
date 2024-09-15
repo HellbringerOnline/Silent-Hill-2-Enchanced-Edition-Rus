@@ -1,155 +1,165 @@
-﻿--------------- strings=44 language=english
----------------
-Труп. Тело усеяно пулевыми
-	отверстиями. (На теле видны пулевые отверстия)<SEPARATORB>
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 44
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+It's a corpse. The body is marked with bullet holes.
+Труп. Тело усеяно пулевыми отверстиями. (На теле видны пулевые отверстия)
+
+
+There's a magazine here. I've never seen it before. It's probably a locally published magazine.
 Журнал.
-
 Никогда не видел таких раньше.
-	Скорее всего, это местный
-	журнал.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Озеро Толука - главная городская
-	достопримечательность.
-	 Однако это чистое и красивое озеро
-	скрывает в своей глубине одну тайну.
+Скорее всего, это местный журнал.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Эта легенда может показаться
-	банальной историей о призраках,
-	которую можно услышать в любом старом
-	городе страны.
-	 Тем не менее она имеет под собой
-	реальную основу.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> В туманный ноябрьский день 1918 года
-	прогулочный катер "Маленькая
-	баронесса", перевозивший туристов, не
-	вернулся в порт.
+Toluca Lake, the town's main tourist attraction.
+ This clear, beautiful lake has another side as well.
+ It may seem like just a typical ghost story that you might find in any number of old towns
+across the country.
+ But in this case, the legend is true.
+ On a fog-bound November day in 1918, the Little Baroness, a ship filled with tourists, failed to return to port.
+ A newspaper article from back then simply says "It most likely sunk for some reason". Despite an extensive police search, not a single fragment of the ship nor any of the 14 bodies of passengers or crew has ever been recovered to this day.
+ In 1939, an even stranger incident occurred.
+There are many pages torn out.
+ Many corpses rest at the bottom of this lake. Their bony hands reach up towards the boats that pass overhead. Perhaps they reach for their comrades.
+memo_msg_e 686
 
-<CENTER-PARAGRAPH><COLOR-BLUE> В статье газеты того времени
-	упоминалось лишь, что "Судно,
-	предположительно, затонуло". Несмотря
-	на тщательные поиски, ни фрагментов
-	судна, ни 14 тел пассажиров или
-	членов экипажа не нашли.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Еще более странный случай произошел
-	в 1939 году.
+Will you jump in?
+Спрыгнуть?
 
-Много вырванных страниц.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Множество погибших покоится на дне
-	озера. Их костлявые руки воздеты к
-	проплывающим мимо судам. Возможно,
-	они тянутся к своим товарищам.<SEPARATORB>
----------------
-Спрыгнуть?<SELECT-YES-OR-NO>
----------------
-Нет смысла просто так топить воск.<SEPARATORB>
----------------
-Само по себе это ничего не даст.<SEPARATORB>
----------------
-Чтобы залить воск в углубление,
-	его нужно сначала растопить.<SEPARATORB>
----------------
+There's no point in just melting the wax.
+Нет смысла просто так топить воск.
+
+
+I can't do anything with just this.
+Само по себе это ничего не даст.
+
+
+If I want to put this wax into the hole, I'll have to melt it first.
+Чтобы залить воск в углубление, его нужно сначала растопить.
+
+There's a cover on the ground, but I can't open it. There's only a depression left where there was probably once a handle.
 В полу люк, но он не открывается.
+На месте, где, скорее всего, когда-то была ручка, осталось углубление.
 
-На месте, где, скорее всего, когда-то
-	была ручка, осталось углубление.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>карту тюрьмы<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>табличку "Прожорливая свинья"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>табличку "Искусительница"<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>охотничью винтовку<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>зажигалку<COLOR-WHITE>.<SEPARATORB>
----------------
-Убить человека не так уж и сложно.
----------------
-Просто приставляешь пистолет к голове... бах!
----------------
+
+I got a map of the prison.
+Я взял карту тюрьмы.
+
+
+I got the tablet of "Gluttonous Pig".
+Я взял табличку "Прожорливая свинья".
+
+
+I got the tablet of "The Seductress".
+Я взял табличку "Искусительница".
+
+
+I got a hunting rifle.
+Я взял охотничью винтовку.
+
+
+I got a lighter.
+Я взял зажигалку.
+
+////
+Killin' a person ain't no big deal. Just put the gun to their head... pow!
+Убить человека не так уж и сложно. Просто приставляешь пистолет к голове... бах!
+
+
+You... you killed him?
 Ты... ты убил его?
----------------
+
+
+B, but... it wasn't my fault. He, he made me do it!
 Но, но... я не виноват.
----------------
 Он, он спровоцировал меня!
----------------
-Успокойся, Эдди.
----------------
-Расскажи, что случилось.
----------------
-Этот тип... он... он сам напросился!
----------------
-Я ничего не сделал.
-	Он пришел специально следом за мной!
----------------
-Еще он с насмешкой на меня смотрел!
----------------
-Как и тот, другой...
----------------
+
+
+Calm down, Eddie. Tell me what happened.
+Успокойся, Эдди. Расскажи, что случилось.
+
+
+That guy... he, he had it coming! I didn't do anything. He just came after me! Besides he was making fun of me with his eyes! Like that other one...
+Этот тип... он... он сам напросился! Я ничего не сделал.
+Он пришел специально следом за мной!
+Ещё он с насмешкой на меня смотрел! Как и тот, другой...
+
+
+Just for that you killed him?
 И ты убил его только за это?
----------------
+
+
+Whadda ya mean "Just for that"!
 Что значит "только за это"!
----------------
-Эдди, нельзя убивать людей
-	только за то, что они на тебя не
-	так посмотрели...
----------------
+
+
+Eddie, you can't just kill someone cause of the way they looked at you...
+Эдди, нельзя убивать людей только за то, что они на тебя не так посмотрели...
+
+
+Oh yeah! Why not? Til now, I always let people walk all over me. Just like that stupid dog. He had it coming too!!
 Ах да! Почему нет?
----------------
-До сих пор я позволял всем
-	вытирать об меня ноги. 
----------------
+До сих пор я позволял всем вытирать об меня ноги.
 Прямо как та тупая псина.
----------------
 Ей тоже досталось!!
----------------
-Эдди!!
----------------
-Хе-хе. Я же просто шучу, Джеймс.
----------------
-Он был мертв, когда я пришел.
-	Честно.
----------------
-Короче, мне пора бежать.
----------------
-Ты пойдешь один?
----------------
+
+
+Eddie!!
+Эдди!!!
+
+
+He he. I was just jokin', James. He was dead when I got here. Honest. Anyway, I gotta run.
+Хе-хе. Я же просто шучу, Джеймс. Он был мертв, когда я пришел. Честно. Короче, мне пора бежать.
+
+
+You're going out there alone?
+Ты пойдёшь один?
+
+
+Yeah.
 Да.
----------------
+
+
+Eddie...
 Эдди...
----------------
+////
+
+
+There's a diary here.
+ Prisoners do not feel remorse. In fact, they do not feel themselves to be villains at all. Even the most uneducated brute will use what little words he knows to justify himself.
+ And such trifling dreams they have, flourishing even in the darkness. Prisoners, too, are no exception.
+ No matter how foul nor loathsome one's own life and existence may be, human nature is abiding. 
 Дневник.
+memo_msg_e 1215
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Заключенные не раскаиваются.
-	Более того, они вообще не считают
-	себя преступниками. Даже самый
-	неученый мерзавец попытается
-	оправдаться теми немногими
-	словами, которые знает.
+A blackboard. Whatever was written on it is all faded and I can't read it.
+Доска. Что бы на ней ни было написано, все выцвело, и нечитаемо.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> А их ничтожные мечты расцветают
-	даже во тьме. Заключенные - тоже
-	не исключение.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Какой бы мерзкой и отвратительной
-	ни была собственная жизнь и
-	существование, человеческая
-	природа неизменна.<SEPARATORB>
----------------
-Доска. Что бы на ней ни было
-	написано, все выцвело, и нечитаемо.<SEPARATORB>
----------------
+There are documents on the desk. They've got nothing to do with me though.
 На столе лежат документы.
-	Хотя мне до них нет никакого
-	дела.<SEPARATORB>
----------------
-Ничего интересного.<SEPARATORB>
----------------
-Я стучу в дверь, но ответа нет.<SEPARATORB>
----------------
+Хотя мне до них нет никакого дела.
+
+
+Nothing interesting here.
+stage_hospital_2f_f_msg_e 113
+
+
+I knock on the door but there's no answer.
+Я стучу в дверь, но ответа нет.
+
+
+There's a shower here. But it's broken and no water comes out.
 Это душ.
-	Но он сломан, и воды нет.<SEPARATORB>
+Но он сломан, и воды нет.

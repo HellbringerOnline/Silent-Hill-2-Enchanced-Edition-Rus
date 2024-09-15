@@ -1,36 +1,50 @@
-﻿--------------- strings=8 language=english
----------------
-Так я попаду в переулок,
-	выходящий на парк.
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 8
 
-Но сначала мне нужно выполнить
-	обещание, данное Эрнесту.<SEPARATORB>
----------------
-На столе что-то написано,
-	но в темноте не разобрать.<SEPARATORB>
----------------
-Из окна видны соседние апартаменты.<SEPARATORB>
----------------
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+This should take me to the alley that runs to the park. But first I'd better take care of my promise to Ernest.
+Так я попаду в переулок, выходящий на парк.
+Но сначала мне нужно выполнить обещание, данное Эрнесту.
+
+
+Something is written on the desk. But it's too dark to read.
+На столе что-то написано, но в темноте не разобрать.
+
+
+I can see the apartment next door from the window.
+Из окна видны соседние апартаменты.
+
+
+It's locked.
+There's a note stuck on the door.
+Dear Tim,
+ I have to run an errand so I'm going out.
+ I left the house key with Uncle David (You know where he lives, don't you? The key is in the room near the first floor staircase.).
+ I'll be back as soon as I can, so please watch the place while I'm gone.
 Закрыто.
-
 На двери висит записка.
+memo_msg_e 314
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Дорогой Тим,
-	 мне нужно срочно уехать по делам.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Я оставил ключ от дома у дяди
-	 Дэвида. (Ты не забыл, где он живет?
-	 Ключ лежит в номере возле лестницы
-	 на первом этаже.).
-	  Пожалуйста, присмотри за домом
-	 пока меня не будет, я вернусь, как
-	 только смогу.<SEPARATORB>
----------------
-Я взяла <COLOR-GREEN>карту здания апартаментов<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взяла <COLOR-GREEN>белую жидкость<COLOR-WHITE>.<SEPARATORB>
----------------
-Это сейф...
-	Но я не знаю, как его открыть.<SEPARATORB>
----------------
-Отвратительно...<SEPARATORB>
+I got a map of the apt bldg.
+Я взяла карту здания апартаментов.
+
+
+I got the white liquid.
+Я взяла белую жидкость.
+
+
+It's a safe... But I don't know how to open it.
+Это сейф... Но я не знаю, как его открыть.
+
+
+Disgusting...
+Отвратительно...

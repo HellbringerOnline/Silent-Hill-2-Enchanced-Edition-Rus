@@ -1,640 +1,920 @@
-﻿--------------- strings=224 language=english
----------------
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 224
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+Use
 Использовать
----------------
+
+
+Reload
 Перезарядить
----------------
+
+
+Adjust volume
 Громкость
----------------
+
+
+Power switch
 Питание
----------------
-Вкл
----------------
-Выкл
----------------
+
+
+On
+Вкл.
+
+
+Off
+Выкл.
+
+
+Examine
 Осмотреть
----------------
+
+
+Equip
 Экипировать
----------------
+
+
+Unequip
 Убрать
----------------
+
+
+Option
 Параметр
----------------
+
+
+Map
 Карта
----------------
+
+
+Memo
 Записи
----------------
+
+
+Status
 Состояние
----------------
+
+
+Equipment
 Снаряжение
----------------
+
+
+Command
 Действие
----------------
+
+
+Combine
 Объединить
----------------
-Похоже, не получится использовать это здесь.<SEPARATORB>
----------------
-Нет смысла использовать только это.<SEPARATORB>
----------------
-Это сочетание бессмысленно.<SEPARATORB>
----------------
+
+
+It looks like I can't use that here.
+Похоже, не получится использовать это здесь.
+
+
+There's no use for just this.
+Нет смысла использовать только это.
+
+
+This combination doesn't make any sense.
+Это сочетание бессмысленно.
+
+
+Put on shelf
 Положить на полку
----------------
+
+
+Health drink(s)
 Лечебный напиток
----------------
-Восстанавливает силы, питая организм.
-	Довольно слабый эффект.
----------------
+
+
+Restores energy by providing nourishment. Effects are fairly mild.
+Восстанавливает силы, питая организм. Довольно слабый эффект.
+
+
+First-aid kit(s)
 Аптечка
----------------
-Восстанавливает силы, заживляя раны.
-	Умеренный эффект.
----------------
+
+
+Restores energy by healing wounds. Effects are moderate.
+Восстанавливает силы, заживляя раны. Умеренный эффект.
+
+
+Ampoule(s)
 Ампула
----------------
-Восстанавливает силы, снимая боль.
-	Мощный эффект.
----------------
+
+
+Restores energy by relieving pain. Effects are powerful.
+Восстанавливает силы, снимая боль. Мощный эффект.
+
+
+Handgun
 Пистолет
----------------
-Емкость магазина - 10 патронов. Легкое оружие.
-	Не обладает большой останавливающей способностью,
-	но прост в использовании.
----------------
+
+
+Full clip holds 10 bullets. Light handgun. Not much stopping power, but easy to use.
+Емкость магазина - 10 патронов. Легкое оружие. Не обладает большой останавливающей способностью, но прост в использовании.
+
+
+Handgun bullet(s)
 Патроны для пистолета
----------------
+
+
+Bullets for a handgun.
 Боеприпасы для пистолета.
----------------
+
+
+Shotgun
 Дробовик
----------------
-Емкость магазина - 6 патронов. Сложен в обращении,
-	но способен поражать группы противников.
----------------
+
+
+Maximum capacity 6 shots. Tough to use, but can attack opponents in a group.
+Емкость магазина - 6 патронов. Сложен в обращении, но способен поражать группы противников.
+
+
+Shotgun shell(s)
 Патроны для дробовика
----------------
+
+
+Ammunition for a shotgun.
 Боеприпасы для дробовика.
----------------
+
+
+Hunting rifle
 Охотничья винтовка
----------------
-Емкость магазина - 4 патрона. Низкая скорострельность,
-	но каждый выстрел очень мощный.
----------------
+
+
+Maximum capacity 4 shots. Takes a long time between shots, but each shot is very powerful.
+Емкость магазина - 4 патрона. Низкая скорострельность, но каждый выстрел очень мощный.
+
+
+Rifle shell(s)
 Патроны для винтовки
----------------
+
+
+Ammunition for a hunting rifle.
 Боеприпасы для охотничьей винтовки.
----------------
+
+
+Hyper spray
 Гиперспрей
----------------
-Подозрительный аэрозольный баллончик.
-	Эффект неизвестен.
----------------
+
+
+Suspicious spray can. Effect unknown.
+Подозрительный аэрозольный баллончик. Эффект неизвестен.
+
+
+Wooden plank
 Деревянная палка
----------------
-Деревянная палка с гвоздями на конце.
-	Не очень эффективная, но простая в обращении.
----------------
+
+
+Wooden plank with nails on one end. Not very powerful, but easy to use.
+Деревянная палка с гвоздями на конце. Не очень эффективная, но простая в обращении.
+
+
+Steel pipe
 Стальная труба
----------------
-Стальная труба длиной около метра.
-	Не очень убойная, но обладает
-	хорошей дальностью действия.
----------------
+
+
+3-foot long steel pipe. Not very destructive, but good range.
+Стальная труба длиной около метра. Не очень убойная, но обладает хорошей дальностью действия.
+
+
+Great knife
 Великий нож
----------------
-Массивное оружие Пирамидоголового.
-	Сложное в обращении, но смертоносное.
----------------
+
+
+Massive weapon wielded by Pyramid Head. Hard to use, but lethal.
+Массивное оружие Пирамидоголового. Сложное в обращении, но смертоносное.
+
+
+Chainsaw
 Бензопила
----------------
-Пила, работающая на бензине.
-	Очень высокая поражающая способность.
----------------
+
+
+Gas-powered chainsaw. Extremely high attack power.
+Пила, работающая на бензине. Очень высокая поражающая способность.
+
+
+Flashlight
 Фонарик
----------------
-Фонарик с кнопочным выключателем.
-	Сейчас в нагрудном кармане.
----------------
+
+
+One-touch ON/OFF power switch. Currently in breast pocket.
+Фонарик с кнопочным выключателем. Сейчас в нагрудном кармане.
+
+
+Radio
 Радио
----------------
-Небольшое портативное радио.
-	Издает помехи, когда поблизости монстры.
----------------
+
+
+Small portable radio. Emits static when monsters are nearby.
+Небольшое портативное радио. Издаёт помехи, когда поблизости монстры.
+
+
+Photo of Mary
 Фотография Мэри
----------------
-Фотография, снятая в то время,
-	когда она была еще здорова.
----------------
+
+
+A photo from when she was still healthy.
+Фотография, снятая в то время, когда она была ещё здорова.
+
+
+Letter from Mary
 Письмо от Мэри
----------------
-На конверте написано имя Мэри
-	ее собственным подчерком.
----------------
+
+
+That's definitely Mary's name in her own handwriting on the front of the envelope.
+На конверте написано имя Мэри её собственным подчерком
+
+
+Laura's letter
 Письмо Лоры
----------------
+
+
+Letter supposedly given to Laura by Mary.
 Письмо, предположительно переданное Лоре от Мэри.
----------------
+
+
+Videotape
 Видеокассета
----------------
+
+
+Videotape I forgot at the hotel three years ago.
 Видеокассета, которую я забыл в отеле три года назад.
----------------
+
+
+Angela's knife
 Нож Анжелы
----------------
-Нож Анжелы. Я не намерен использовать
-	его в качестве оружия.
----------------
+
+
+Knife from Angela. I don't plan on using this as a weapon.
+Нож Анжелы. Я не намерен использовать его в качестве оружия.
+
+
+Dog key
 Ключ собаки
----------------
-Найден в собачьей будке. Понятия не
-	имею, где его можно использовать.
----------------
+
+
+Found inside a dog house. No idea where to use it.
+Найден в собачьей будке. Понятия не имею, где его можно использовать.
+
+
+Apartment gate key
 Ключ от ворот апартаментов
----------------
+
+
+Old-looking key that I found in town.
 Старый на вид ключ, найденный в городе.
----------------
+
+
+Key to room 202
 Ключ от номера 202
----------------
-"202" - написано на головке ключа.
-	Лежал в номере 208.
----------------
+
+
+"202" is written on the top of the key. Got it in room 208.
+"202" - написано на верхней части (головке) ключа. Лежал в номере 208.
+
+
+Clock key
 Ключ от часов
----------------
-На конце ключа есть маленькие часы.
-	Был в дыре в стене номера 202.
----------------
+
+
+There's a small clock at the end of the key. It was in a hole in the wall in room 202.
+На конце ключа есть маленькие часы. Был в дыре в стене номера 202.
+
+
+Courtyard key
 Ключ от внутреннего двора
----------------
-Ключ к двери, ведущей c западной
-	лестничной клетки во внутренний двор.
----------------
+
+
+Key to door which leads from the westside stairway hall to the courtyard.
+Ключ к двери, ведущей c западной лестничной клетки во внутренний двор.
+
+
+Fire escape key
 Ключ от пожарной лестницы
----------------
-Ключ от двери, ведущей из
-	коридора на пожарную лестницу.
-	Найден в коридоре 3-го этажа.
----------------
+
+
+Key to door leading from hallway to fire escape. Found in 3rd floor hall.
+Ключ от двери, ведущей из коридора на пожарную лестницу. Найден в коридоре 3-го этажа.
+
+
+Lyne house key
 Ключ от дома Лайна
----------------
-Лежал в столе с загадкой с монетами.
-	На бирке написано "Лайн".
----------------
+
+
+It was in the coin puzzle desk. The tag on it says "Lyne".
+Лежал в столе с загадкой с монетами. На бирке написано "Лайн".
+
+
+Apartment stairway key
 Ключ от лестничной клетки апартаментов
----------------
-Ключ от двери, ведущей из коридора
-	западного корпуса апартаментов на
-	лестничную клетку.
----------------
+
+
+Key to door that leads from the westside apartment hall to the stairway.
+Ключ от двери, ведущей из коридора западного корпуса апартаментов на лестничную клетку.
+
+
+Examination room key
 Ключ от смотрового кабинета
----------------
-"Смотровой кабинет" - написано на бирке.
-	Найден в кармане белого лабораторного
-	халата в мужской раздевалке.
----------------
+
+
+"Examination room" is written on the tag. Found it in the pocket of the white lab jacket in the men's locker room.
+"Смотровой кабинет" - написано на бирке. Найден в кармане белого лабораторного халата в мужской раздевалке.
+
+
+Roof key
 Ключ от выхода на крышу
----------------
-Ключ от выхода на крышу офисного
-	крыла. Нашел его в палате 3-го этажа
-	госпиталя, где отдыхает Мария.
----------------
+
+
+Key to roof of office wing. Got it in the 3rd floor hospital room where Maria is resting.
+Ключ от выхода на крышу офисного крыла. Нашел его в палате 3-го этажа госпиталя, где отдыхает Мария.
+
+
+"Purple Bull" key
 Ключ "Фиолетовый Бык"
----------------
-На нем нарисован фиолетовый бык.
-	Лежал на столе в архиве.
----------------
+
+
+A bull is drawn on it in purple. It was on the desk in the document room.
+На нем нарисован фиолетовый бык. Лежал на столе в архиве.
+
+
+"Lapis Eye" key
 Ключ "Лазуритный Глаз"
----------------
-В головке ключа выгравирован
-	глаз. Радужная оболочка глаза
-	сделана из лазурита.
----------------
+
+
+An eye is carved into the top of the key. The iris part is made of a lapis lazuli.
+В верхней части ключа (головке (кольце) (Вырез в головке ключа называют ушком. Его изготавливают с целью облегчения ключа, удобства ношения, украшения и т.п.)) выгравирован глаз. Радужная оболочка глаза сделана из лазурита.
+
+
+Elevator key
 Ключ от лифта
----------------
-"Лифт крыла пациентов" - написано на бирке.
-	Был в водостоке в душевой.
----------------
+
+
+"Patient wing elevator" is written on the tag. It was stuck in the bath pipe.
+"Лифт крыла пациентов" - написано на бирке. Был в водостоке в душевой.
+
+
+Basement storeroom key
 Ключ от кладовой в подвале
----------------
-Находился в стене со странным
-	рисунком(изображением мет.). Это ключ
-	от кладовой в подвале госпиталя.
----------------
+
+
+It was inside the wall with that strange painting. It's the key to the hospital basement's storeroom.
+Находился в стене со странным рисунком(изображением мет.). Это ключ от кладовой в подвале госпиталя.
+
+
+Hospital lobby key
 Ключ от входа в госпиталь
----------------
-Найден в кабинете директора.
-	Ключ от главного входа в госпиталь.
----------------
+
+
+Found in the Director's office. Key to hospital's front lobby.
+Найден в кабинете директора. Ключ от главного входа в госпиталь.
+
+
+Old bronze key
 Старый бронзовый ключ
----------------
-Старинный на вид бронзовый ключ.
-	Был спрятан за одной из статуй,
-	установленных в парке.
----------------
+
+
+Antique-looking bronze key. It was hidden behind one of those statues lined up in the park.
+Старинный на вид бронзовый ключ. Был спрятан за одной из статуй, установленных в парке.
+
+
+Spiral-writing key
 Ключ со спиральной надписью
----------------
-Ключ с тонким цилиндрическим
-	брелком. На брелке по спирали
-	выгравирована надпись.
----------------
-Ключ Гонимого.
----------------
-Ключ, оставленный ошибочно
-	казненным заключенным.
----------------
+
+
+Key with slim, 3-inch long cylinder attached. The cylinder is engraved with spiral writing.
+Ключ с тонким цилиндрическим брелком. На брелке по спирали выгравирована надпись.
+
+
+Key of the Persecuted.
+Ключ Гонимого
+
+
+Key left by prisoner who was wrongly executed.
+Ключ, оставленный ошибочно казненным заключённым.
+
+
+Key to hotel room 312
 Ключ от номера 312
----------------
-Ключ от номера 312 в отеле.
-	Лежал за регистрационной стойкой
-	в вестибюле.
----------------
+
+
+Key to room number 312 in the hotel. It was lying behind the counter of the lobby reception desk.
+Ключ от номера 312 в отеле. Лежал за регистрационной стойкой в вестибюле.
+
+
+Key to hotel room 204
 Ключ от номера 204
----------------
-Ключ от номера 204.
-	Найден в чемодане в гардеробе.
----------------
+
+
+Key to room number 204. Took it from the bag inside the cloakroom.
+Ключ от номера 204. Найден в чемодане в гардеробе.
+
+
+Employee elevator key
 Ключ от служебного лифта
----------------
-На бирке написано: "Служебный лифт".
-	Найден в номере 204.
----------------
+
+
+The tag on it says: "Employee elevator." Found it in room 204.
+На бирке написано: "Служебный лифт". Найден в номере 204.
+
+
+Bar key
 Ключ от бара
----------------
-Ключ от двери, ведущей из подземного бара
-	отеля в коридор. Найден в котельной. 
----------------
+
+
+Key to door which goes from hotel's underground bar to hallway. Found it in boiler room. 
+Ключ от двери, ведущей из подземного бара отеля в коридор. Найден в котельной.
+
+
+"Fish" key
 Ключ "Рыбка"
----------------
-Ключ с брелоком в форме рыбки.
-	Лежал на столике в ресторане.
----------------
+
+
+Key with fish-shaped key holder. It was on top of the restaurant table.
+Ключ с брелоком в форме рыбки. Лежал на столике в ресторане.
+
+
+Hotel stairway key
 Ключ от лестничной клетки отеля
----------------
-Ключ от двери, ведущей с лестничной
-	клетки в коридор 3-го этажа. Находился в
-	большой музыкальной шкатулке в вестибюле.
----------------
+
+
+Key to door from stairway to 3rd floor hall. It was hidden inside the big music box in the lobby.
+Ключ от двери, ведущей с лестничной клетки в коридор 3-го этажа. Находился в большой музыкальной шкатулке в вестибюле.
+
+
+Canned juice
 Сок в банках
----------------
-Упаковка из шести банок сока.
-	Лежала в коридоре 1-го этажа.
----------------
+
+
+Six-pack of canned juice. It was in the hallway on the 1st floor.
+Упаковка из шести банок сока. Лежала в коридоре 1-го этажа.
+
+
+Coin [Snake]
 Монета [Змей]
----------------
-Большая монета с оттиском змеи.
-	Найдена в пустом бассейне.
----------------
+
+
+Large coin imprinted with a snake. I found it in that pool with no water.
+Большая монета с оттиском змеи. Найдена в пустом бассейне.
+
+
+Coin [Old Man]
 Монета [Старик]
----------------
-Большая монета оттиском лица пожилого человека.
-	Взял в мусорном контейнере.
----------------
+
+
+Large coin imprinted with the face of an old person. Took it out of the trash chute exit.
+Большая монета оттиском лица пожилого человека. Взял в мусорном контейнере(ли? выход мусоропр).
+
+
+Coin [Prisoner]
 Монета [Заключенный]
----------------
-Большая монета с оттиском изображения заключенного.
-	Найдена в западном корпусе апартаментов.
----------------
+
+
+Large coin imprinted with image of a prisoner. Found it in the west apartment building.
+Большая монета с оттиском изображения заключенного. Найдена в западном корпусе апартаментов.
+
+
+Piece of hair
 Прядь волос
----------------
-Длинные каштановые волосы.
-	Лежали в том "сундуке."
----------------
+
+
+Long brown hair. It was in that "box."
+Длинные каштановые волосы. Лежали в том "сундуке."
+
+
+Bent needle
 Согнутая игла
----------------
-Ржавая согнутая игла. Торчала из
-	плюшевой игрушки в раздевалке.
----------------
+
+
+Rusty, bent needle. It was stuck in the stuffed animal in the locker room.
+Ржавая согнутая игла. Торчала из плюшевой игрушки в раздевалке.
+
+
+Dry cell battery
 Батарейка
----------------
-Найдена в палате госпиталя.
-	Самая обычная батарейка.
----------------
+
+
+Got it in the hospital room. Just an ordinary dry cell battery.
+Найдена в палате госпиталя. Самая обычная батарейка.
+
+
+Copper ring
 Медное кольцо
----------------
-Найдено в подвале госпиталя.
-	На нем выгравировано изображение паука.
----------------
+
+
+I found in the basement of the hospital. It's engraved with a picture of a spider.
+Найдено в подвале госпиталя. На нем выгравировано изображение паука.
+
+
+Lead ring
 Свинцовое кольцо
----------------
-Кольцо из холодильника.
-	На нем выгравировано мерзкое, распухшее лицо.
----------------
+
+
+Ring from the refrigerator. It's engraved with a disgusting, bloated face.
+Кольцо из холодильника. На нем выгравировано мерзкое распухшее лицо.
+
+
+Wrench
 Гаечный ключ
----------------
-Найден на улице Линдси.
-	Инструмент для закручивания гаек и болтов.
----------------
+
+
+I found this on the Lindsey street. It's a tool used for turning nuts and bolts.
+Найден на улице Линдси. Инструмент для закручивания гаек и болтов.
+
+
+Tablet of "The Oppressor"
 Табличка "Угнетатель"
----------------
-Металлическая табличка с изображением
-	"Угнетателя" на одной из сторон.
-	Найдена в камере.
----------------
+
+
+Metal tablet with "The Oppressor" drawn on one side. Found it in the cell.
+Металлическая табличка с изображением "Угнетателя" на одной из сторон. Найдена в камере.
+
+
+Tablet of "Gluttonous Pig"
 Табличка "Прожорливая свинья"
----------------
-Металлическая табличка с изображением
-	"Прожорливой свиньи" на одной из
-	сторон. Найдена в столовой.
----------------
+
+
+Metal tablet with "Gluttonous Pig" drawn on one side. Found it in the dining room.
+Металлическая табличка с изображением "Прожорливой свиньи" на одной из сторон. Найдена в столовой.
+
+
+Tablet of "The Seductress"
 Табличка "Искусительница"
----------------
-Металлическая табличка с изображением
-	"Искусительницы" на одной из сторон.
-	Найдена в душевой.
----------------
+
+
+Metal tablet with "Seductress" drawn on one side. Found it in the shower room.
+Металлическая табличка с изображением "Искусительницы" на одной из сторон. Найдена в душевой.
+
+
+Horseshoe
 Подкова
----------------
-Металлическая подкова.
-	Висела на двери в сквере.
----------------
+
+
+Metal horseshoe. It was hanging in the door of the square.
+Металлическая подкова. Висела на двери в сквере.
+
+
+Lighter
 Зажигалка
----------------
-Металлическая зажигалка.
-	Похоже, ее пламя сильнее, чем у обычных зажигалок.
----------------
+
+
+Metal lighter. Looks like its flame is stronger than normal lighters.
+Металлическая зажигалка. Похоже, ее пламя сильнее, чем у обычных зажигалок.
+
+
+Wax doll
 Восковая кукла
----------------
-Вырезанная из воска кукла.
-	Лежала в тюремной камере.
----------------
+
+
+Doll carved from wax. It was lying in the cell.
+Вырезанная из воска кукла. Лежала в тюремной камере.
+
+
+Wire cutter
 Кусачки
----------------
-Инструмент для резки проводов и электрических кабелей.
----------------
+
+
+Tool for cutting wires or electric cables.
+Инстрмент для резки проводов и электрических кабелей.
+
+
+Thinner
 Растворитель
----------------
-Маленькая бутылочка, наполненная
-	растворителем. Лежала в лифте.
----------------
+
+
+Small can filled with thinner. It was lying inside the elevator.
+Маленькая бутылочка, наполненная растворителем. Лежала в лифте.
+
+
+"Little Mermaid" music box
 Музыкальная шкатулка "Русалочка"
----------------
-Музыкальная шкатулка с фигуркой
-	из сказки "Русалочка". Найдена у
-	фонтана в саду. 
----------------
+
+
+Music box with figure from the fairy tale, "The Little Mermaid", attached. Found at the garden fountain. 
+Музыкальная шкатулка с фигуркой из сказки "Русалочка". Найдена у фонтана в саду.
+
+
+"Cinderella" music box
 Музыкальная шкатулка "Золушка"
----------------
-Музыкальная шкатулка с фигуркой
-	из сказки "Золушка". Найдена в
-	чемодане в номере 202.
----------------
+
+
+Music box with figure from the fairy tale, "Cinderella", attached. Found inside trunk in room 202.
+Музыкальная шкатулка с фигуркой из сказки "Золушка". Найдена в чемодане в номере 202.
+
+
+"Snow White" music box
 Музыкальная шкатулка "Белоснежка"
----------------
-Музыкальная шкатулка с рисунком
-	"Белоснежки". Найдена в кладовой.
----------------
+
+
+Music box with "Snow White" drawn on it. Found in pantry.
+Музыкальная шкатулка с фигуркой "Белоснежки". Найдена в кладовой.
+
+
+Can opener
 Консервный нож
----------------
+
+
+Tool for opening cans.
 Инструмент для открывания консервных банок.
----------------
+
+
+Light bulb
 Лампочка
----------------
-Найдена в банке на кухне бара.
-	Обычная лампочка.
----------------
+
+
+Found inside can in kitchen of bar. Normal light bulb.
+Найдена в банке на кухне бара. Обычная лампочка.
+
+
+Rust-colored egg
 Ржавое яйцо
----------------
-Величиной с перепелиное яйцо.
-	Его держал Пирамидоголовый.
----------------
+
+
+It's about the size of a quail's egg. Pyramid Head was holding it.
+Величиной с перепелиное яйцо. Его держал Пирамидоголовый.
+
+
+Scarlet egg
 Алое яйцо
----------------
-Величиной с перепелиное яйцо.
-	Его держал Пирамидоголовый.
----------------
+
+
+About the size of a quail's egg. Pyramid Head was holding it.
+Величиной с перепелиное яйцо. Его держал Пирамидоголовый.
+
+
+Book: "Lost Memories"
 Книга "Утраченные воспоминания"
----------------
-Книга об истории и легендах
-	этого города и его окрестностей.
----------------
+
+
+A book about the history and legends of this town and the surrounding area.
+Книга об истории и легендах этого города и его окрестностей.
+
+
+Book: "Crimson Ceremony"
 Книга "Багровая Церемония"
----------------
-О каком-то древнем боге.
-	Автор неизвестен.
----------------
-Белое миро 
----------------
+
+
+About some ancient god. Author unknown.
+О каком-то древнем боге. Автор неизвестен.
+
+
+White chrism 
+Белое миро
+
+
+Glass bottle containing milky white anointing oil.
 Стеклянная бутылочка с молочно-белым маслом для помазания.
----------------
+
+
+Obsidian goblet
 Обсидиановый кубок
----------------
-Старинный на вид кубок, вырезанный из
-	чистого обсидиана. Найден в старом музее.
----------------
-Похоже, это тот же тип батареек,
-	что и в фонарике.
----------------
+
+
+Ancient-looking goblet carved from pure obsidian. Found it in the old museum.
+Старинный на вид кубок, вырезанный из чистого обсидиана. Найден в старом музее.
+
+
+It looks like it's the same type of battery as the flashlight.
+Похоже, это тот же тип батареек, что и в фонарике.
+
+
+The blade is stained with something red.
 Лезвие испачкано чем-то красным.
----------------
-Теперь я думаю о том, что в
-	номере 208 были большие часы...
----------------
+
+
+Now that I think of it, there was a big clock in room 208...
+Теперь я думаю о том, что в номере 208 были большие часы...
+
+
+The reverse side of the coin is a crescent moon.
 На обратной стороне монеты полумесяц.
----------------
+
+
+It looks like an old man.
 Похоже на старика.
----------------
+
+
+This prisoner looks like a woman.
 Похоже, заключенный - женщина.
----------------
+
+
+It says "courtyard".
 Здесь написано "внутренний двор".
----------------
-Когда я почти дотянулся до него,
-	мне наступили на руку. Интересно,
-	что случилось с той девочкой...?
----------------
-На бирке написано:
-	"пожарная лестница". 
----------------
-В конце западного коридора 2-го
-	этажа была пожарная лестница. Может
-	быть, я смогу использовать его там?
----------------
-Наверное, это ключ, упомянутый в записке.
-	В ней было написано, что ключ "оставили у дяди Дэвида".
----------------
+
+
+I got my hand stepped on the first time I tried to get this. I wonder what happened to that kid...?
+Когда я почти дотянулся до него, мне наступили на руку. Интересно, что случилось с той девочкой...?
+
+
+The tag attached to it says "fire escape". 
+На бирке написано: "пожарная лестница". 
+
+
+There was a fire escape at the far west end of the 2nd floor hallway. Maybe I can use it there?
+В конце западного коридора 2-го этажа была пожарная лестница. Может быть, я смогу использовать его там?
+
+
+This must be the key mentioned in that note. The one that says it was "left with Uncle David".
+Наверное, это ключ, упомянутый в записке. В ней было написано, что ключ "оставили у дяди Дэвида".
+
+
+It says "North stairway".
 На нем написано: "Северная лестница".
----------------
-На нем написано: "Это сомнение,
-	которое ведет тебя в Чистилище."
----------------
-Номер 312, тот самый номер, в котором мы
-	с Мэри останавливались три года назад.
----------------
-"Сайлент Хилл" - написано на наклейке
-	моим почерком.
----------------
-Это определенно та видеокассета,
-	которую я тогда записал.
----------------
+
+
+It says: "Tis doubt which leadeth thee to Purgatory."
+На нем написано: "Это сомнение, которое ведет тебя в Чистилище."
+
+
+Room 312 is the room Mary and I stayed in three years ago.
+Номер 312, тот самый номер, в котором мы с Мэри останавливались три года назад.
+
+
+"Silent Hill" is written on the label in my handwriting.
+"Сайлент Хилл" - написано на наклейке моим почерком.
+
+
+This is definitely the videotape I recorded back then.
+Это определенно та видеокассета, которую я тогда записал.
+
+
+A snake is carved into its stem.
 На ножке вырезана змея.
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>В моих беспокойных снах 
-	я вижу этот город.
-	Сайлент Хилл.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Ты обещал когда-нибудь снова
-	свозить меня сюда.
-	Но ты так и не свозил.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Что ж, теперь я здесь одна...
-	В нашем "особом месте"...
+In my restless dreams, I see that town. Silent Hill. You promised you'd take me there again someday. But you never did. Well I'm alone there now... In our "special place"... Waiting for you...
+letter_msg_e 14
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Жду тебя...<SEPARATORB>
----------------
-Чистый лист канцелярской бумаги.<SEPARATORB>
----------------
+В моих беспокойных снах я вижу этот город. Сайлент Хилл. Ты обещал когда-нибудь снова свозить меня сюда. Но ты и не свозил. Что ж, теперь я здесь одна... В нашем "особом месте"... Жду тебя...
+
+
+There's nothing written on the stationary.
+Лист канцелярской бумаги.
+
+
+There is nothing in the envelope.
 В конверте пусто.
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Моя дорогая Лора, я оставляю это
-	письмо Рэйчел, чтобы она передала
-	его тебе после моего ухода.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Сейчас я далеко. 
-	В тихом, красивом месте.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Пожалуйста, прости, что не
-	попрощалась перед уходом.
+My dearest Laura, I'm leaving this letter with Rachel to give to you after I'm gone. I'm far away now. In a quiet, beautiful place. Please forgive me for not saying goodbye before I left. Be well, Laura. Don't be too hard on the sisters. And Laura, about James... I know you hate him because you think he isn't nice to me, but please give him a chance. It's true he may be a little surly sometimes, and he doesn't laugh much. But underneath he's really a sweet person. Laura... I love you like my very own daughter. If things had worked out differently, I was hoping to adopt you. Happy 8th birthday, Laura. Your friend forever, Mary
+Моя дорогая Лора, я оставляю это письмо Рэйчел, чтобы она передала его тебе после моего ухода. Сейчас я далеко. В тихом, красивом месте. Пожалуйста, прости, что не попрощалась перед уходом. Береги себя, Лора. Не будь слишком строга с (мед)сестрами. И еще, Лора, насчет Джеймса... Знаю, ты его ненавидишь, потому что думаешь, что он плохо ко мне относится, но, пожалуйста, дай ему шанс. Он и правда иногда немного мрачноват и редко смеется. Но в глубине души он очень хороший человек. Лора... Я люблю тебя, как свою родную дочь. Если бы все сложилось иначе, я бы тебя удочерила. Поздравляю тебя с восьмилетием, Лора. Твоя подруга навеки, Мэри.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Береги себя, Лора.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Не будь слишком строга с сестрами.
+ The name comes from the legend of the people whose land was stolen from them. They called this place "The Place of the Silent Spirits." By "Spirits," they meant not only their dead relatives, but also the spirits that they believed inhabited the trees, rocks and water around them. According to legend, this was where the holiest ceremonies took place. But it was not the ancestors of those who now live in this town that first stole the land from these people. There were others who came before. In those days, this town went by another name. But that name is now hopelessly lost in the veils of time. All we know is that there was another name, and that for some reason the town was once abandoned by its residents.
+Название это пришло из легенды о людях, у которых украли землю. Они называли это место "Местом Безмолвных Духов." Под духами они подразумевали не только своих умерших родственников, но и тех духов, которые, по их поверьям, населяли деревья, камни и воду вокруг. Согласно легенде, именно здесь проводились самые священные церемонии. Но не предки нынешних жителей города первыми украли эту землю. Были другие, которые пришли раньше. В те времена город назывался иначе. Но то название теперь безнадежно затеряно в пелене времени. Все, что мы знаем - это то, что у города было другое название, и что однажды по каким-то причинам его покинули жители.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>И еще, Лора, насчет Джеймса...
-	Знаю, ты его ненавидишь, потому что
-	думаешь, что он плохо ко мне относится,
-	но, пожалуйста, дай ему шанс.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Он и правда иногда немного мрачноват и
-	редко смеется. Но в глубине души он
-	очень хороший человек.
+The title is "Crimson Ceremony"
+Speak. I am the Crimson One. The lies and the mist are not they but I. You all know that I am One. Yes, and the One is I.
+Believers hearken to me! Twenty score men and seven thousand beasts. Heed my words and speaketh them to all, that they shall ever be obeyed even under the light of the proud and merciless sun.
+I shall bring down bitter vengeance upon thee and thou shalt suffer my eternal wrath.
+The beauty of the withering flower and the last struggles of the dying man, they are my blessings.
+Thou shalt ever call upon me and all that is me in the place that is silent.
+Oh, proud fragrance of life which flies towards the heart. Oh Cup which brims with the whitest of wine, it is in thee that all begins.
+Название: "Багровая церемония".
+Говорю. Я есть Багровый. Ложь и мгла не они, но я. Вы все знаете, что я - Един. Да, и Единый есть я.
+Верующие, слушайте меня! Сорок десятков людей и семь тысяч тварей. Внемлите словам моим и возвестите их всем, дабы были они покорны даже под светом гордого и беспощадного солнца.
+Я обрушу страшную месть на тебя, и будешь страдать от вечного гнева моего.
+Красота увядающего цветка и последняя борьба умирающего - вот мои благословения.
+Ты будешь вечно взывать ко мне и ко всему, что есть я, в месте, где царит безмолвие.
+О, гордый жизни аромат, что к сердцу поднимается. О, Кубок, наполненный белейшим вином, с тебя все начинается.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Лора...
-	Я люблю тебя, как свою родную
-	дочь.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Если бы все сложилось иначе,
-	я бы тебя удочерила.
+Is this thing out of batteries? It won't light up when I press the switch.
+В нем что, батарейка села? Он не светит, когда я нажимаю на кнопку.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Поздравляю тебя с восьмилетием, Лора.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Твоя подруга навеки,
-	Мэри<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Название это пришло из легенды о
-	людях, у которых украли землю.
+Is this thing broken? Pressing the switch doesn't do anything.
+Он сломался? Я нажимаю на кнопку, но ничего не происходит.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Они называли это место "Местом
-	Безмолвных Духов." Под духами они
-	подразумевали не только своих умерших
-	родственников, но и тех духов,
-	которые, по их поверьям, населяли
-	деревья, камни и воду вокруг.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Согласно легенде, именно здесь
-	проводились самые священные церемонии.
+I put the health drink on the shelf.
+Я положил лечебный напиток на полку.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Но не предки нынешних жителей
-	города первыми украли эту землю.
-	Были другие, которые пришли раньше.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>В те времена город назывался иначе.
-	Но то название теперь безнадежно
-	затеряно в пелене времени.
+I put the first-aid kit on the shelf.
+Я положил аптечку на полку.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Все, что мы знаем - это то, что у
-	города было другое название, и что
-	однажды по каким-то причинам его
-	покинули жители.<SEPARATORB>
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Молвите.
-	Я есть Багр.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Ложь и мгла не они, но я.
-	Вы все знаете, что я - Един.
-	Да, и Единый есть я.
+I put the ampoule on the shelf.
+Я положил ампулу на полку.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Верующие, слушайте меня!
-	Сорок десятков людей и семь тысяч
-	тварей. Внемлите словам моим и
-	возвестите их всем, дабы повиновались
-	им даже под светом гордого и
-	беспощадного солнца.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Я обрушу страшную месть на тебя, и
-	будешь страдать от вечного гнева моего.
+I put the handgun on the shelf.
+Я положил пистолет на полку.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Красота увядающего цветка и последняя
-	борьба умирающего - вот мои
-	благословения.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Ты будешь вечно взывать ко мне и ко
-	всему, что есть я, в месте, где царит
-	безмолвие.
+I put the handgun bullets on the shelf.
+Я положил патроны для пистолета на полку.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>О, гордый жизни аромат, что к сердцу
-	поднимается. О, Кубок, наполненный
-	белейшим вином, с тебя все начинается.<SEPARATORB>
----------------
-В нем что, батарейка села?
-	Он не светит, когда я нажимаю на кнопку.
----------------
-Он сломался?
-	Я нажимаю на кнопку, но ничего не происходит.
----------------
-Я положил <COLOR-GREEN>лечебный напиток<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>аптечку<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>ампулу<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>пистолет<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>патроны для пистолета<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>дробовик<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>патроны для дробовика<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>охотничью винтовку<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>патроны для винтовки<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>гиперспрей<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>палку<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>стальную трубу<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>великий нож<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>бензопилу<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>фонарик<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>радио<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>фотографию Мэри<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>письмо от Мэри<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>письмо Лоры<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>нож Анжелы<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>ключ от смотрового кабинета<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>ключ от номера 312<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>растворитель<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>музыкальную шкатулку "Русалочка"<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>музыкальную шкатулку "Золушка"<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>книгу "Утраченные воспоминания"<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>белое миро<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>обсидиановый кубок<COLOR-WHITE> на полку.<SEPARATORB>
----------------
-Я положил <COLOR-GREEN>ключ собаки<COLOR-WHITE> на полку.<SEPARATORB>
----------------
+
+I put the shotgun on the shelf.
+Я положил дробовик на полку.
+
+
+I put the shotgun shells on the shelf.
+Я положил патроны для дробовика на полку.
+
+
+I put the hunting rifle on the shelf.
+Я положил охотничью винтовку на полку.
+
+
+I put the rifle shells on the shelf.
+Я положил патроны для винтовки на полку.
+
+
+I put the hyper spray on the shelf.
+Я положил гиперспрей на полку.
+
+
+I put the plank on the shelf.
+Я положил палку на полку.
+
+
+I put the steel pipe on the shelf.
+Я положил стальную трубу на полку.
+
+
+I put the great knife on the shelf.
+Я положил великий нож на полку.
+
+
+I put the chainsaw on the shelf.
+Я положил бензопилу на полку.
+
+
+I put the flashlight on the shelf.
+Я положил фонарик на полку.
+
+
+I put the radio on the shelf.
+Я положил радио на полку.
+
+
+I put the photo of Mary on the shelf.
+Я положил фотографию Мэри на полку.
+
+
+I put the letter from Mary on the shelf.
+Я положил письмо от Мэри на полку.
+
+
+I put Laura's letter on the shelf.
+Я положил письмо Лоры на полку.
+
+
+I put Angela's knife on the shelf.
+Я положил нож Анжелы на полку.
+
+
+I put the examination room key on the shelf.
+Я положил ключ от смотрового кабинета на полку.
+
+
+I put the key to hotel room 312 on the shelf.
+Я положил ключ от номера 312 на полку.
+
+
+I put the thinner on the shelf.
+Я положил растворитель на полку.
+
+
+I put the "Little Mermaid" music box on the shelf.
+Я положил музыкальную шкатулку "Русалочка" на полку.
+
+
+I put the "Cinderella" music box on the shelf.
+Я положил музыкальную шкатулку "Золушка" на полку.
+
+
+I put the book: "Lost Memories" on the shelf.
+Я положил книгу "Утраченные воспоминания" на полку.
+
+
+I put the white chrism on the shelf.
+Я положил белое миро на полку.
+
+
+I put the obsidian goblet on the shelf.
+Я положил обсидиановый кубок на полку.
+
+
+I put the dog key on the shelf.
+Я положил ключ собаки на полку.
+
+
+The reverse side shows a gravestone.
 На обратной стороне изображено надгробие.
----------------
+
+
+The reverse side shows an egg.
 На обратной стороне изображено яйцо.

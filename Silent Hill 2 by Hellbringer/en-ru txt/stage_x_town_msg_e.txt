@@ -1,13 +1,26 @@
-﻿--------------- strings=6 language=english
----------------
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 6
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+James......
 Джеймс......
----------------
-Мэри? 
----------------
-Нет... ты не она.
----------------
-Я похожа на твою девушку?
----------------
-Меня зовут... Мария.
----------------
-Мне здесь делать нечего.<SEPARATORB>
+
+
+Mary? No... you're not.
+Мэри? Нет... ты не она.
+
+
+Do I look like your girlfriend? My name... is Maria.
+Я похожа на твою девушку? Меня зовут... Мария.
+
+
+There's nothing for me to do here.
+Мне здесь делать нечего.

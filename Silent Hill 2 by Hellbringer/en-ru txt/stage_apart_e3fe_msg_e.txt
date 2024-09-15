@@ -1,21 +1,43 @@
-﻿--------------- strings=8 language=english
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 8
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+Shit!
 Черт!
----------------
-Я взял <COLOR-GREEN>ключ от внутреннего двора<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ от пожарного выхода<COLOR-WHITE>.<SEPARATORB>
----------------
-Просто стиральная машина.
-	Ничего интересного.<SEPARATORB>
----------------
-Телефон, кажется, не работает.<SEPARATORB>
----------------
-В газете или журнале ничего
-	интересного.<SEPARATORB>
----------------
-На стене висит картина.
-	Похоже на пейзаж этой местности.<SEPARATORB>
----------------
-На стене висит картина.
-	На ней какой-то странный пейзаж.<SEPARATORB>
+
+
+I got a courtyard key.
+Я взял ключ от внутреннего двора.
+
+
+I got the fire escape key.
+Я взял ключ от пожарного выхода.
+
+
+Just a normal washing machine.
+There's nothing of interest.
+stage_apart_e2f_meg_e 235
+
+
+The phone doesn't seem to work.
+Телефон, кажется, не работает.
+
+
+There's nothing interesting in the newspaper or magazine.
+В газете или журнале ничего интересного.
+
+
+There's a painting hanging on the wall. It looks like a landscape of this area.
+На стене висит картина. Похоже на пейзаж этой местности.
+
+
+There's a painting hanging on the wall. It's some kind of strange landscape.
+На стене висит картина. На ней какой-то странный пейзаж.

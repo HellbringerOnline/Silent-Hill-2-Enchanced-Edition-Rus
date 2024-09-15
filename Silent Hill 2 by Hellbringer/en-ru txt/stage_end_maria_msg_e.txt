@@ -1,41 +1,72 @@
-﻿--------------- strings=16 language=english
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 16
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+James, I've been waiting.
 Джеймс, я ждала.
----------------
+
+
+Mary...
+I'm sorry it took so long.
 Мэри...
----------------
 Прости, что так долго.
----------------
+
+
+Didn't you want to see me?
 Но разве ты не хотел меня увидеть?
----------------
+
+
+Yes, I wanted to see you.
+Even an illusion of you....
+That's why I came here.
 Да, я хотел увидеть тебя.
-	Даже иллюзию тебя....
----------------
+Даже иллюзию тебя....
 Вот зачем я пришел сюда.
----------------
+
+
+That's not true, is it?
+You killed me...
 Это ложь, так ведь?
-	Ты убил меня...
----------------
+Ты убил меня...
+
+
+I couldn't watch you suffer.
 Я не мог смотреть на твои страдания.
----------------
+
+
+Don't make excuses, James.
+I know I was a burden on you.
+You must have hated me.
+That's why you got rid of me.
 Не оправдывайся, Джеймс.
----------------
 Я знаю, что была для тебя обузой.
----------------
 Ты, наверняка, ненавидел меня.
-	Поэтому ты избавился от меня.
----------------
-Это так... Наверное, я 
-	чувствовал что-то подобное.
----------------
+Поэтому ты избавился от меня.
+
+
+It's true... I may have had some of those feelings.
+It was a long three years...
+I was... tired.
+Это так... Наверное, я чувствовал что-то подобное.
 Это были долгие три года...
-	Я... устал.
----------------
-И поэтому тебе понадобилась 
-	эта "Мария"?
----------------
-James, do you really think I could
-	ever forgive you for what you did?
----------------
+Я... устал.
+
+
+And that's why you needed this "Maria" person?
+James, do you really think I could ever forgive you for what you did?
+И поэтому тебе понадобилась эта "Мария"?
+Джеймс, неужели ты думаешь, что я когда-нибудь смогу простить тебя за то, что ты сделал?
+
+
+I can't turn back now.
+This is no time to run away.
 Я не могу повернуть назад.
-	Сейчас (уже поздно металл.) не время убегать.<SEPARATORB>
+Сейчас (уже поздно металл.) не время убегать.

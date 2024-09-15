@@ -1,66 +1,81 @@
-﻿--------------- strings=18 language=english
----------------
-Что-то наподобие холодильника.
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 18
 
-Открыть?<SELECT-YES-OR-NO>
----------------
-В холодильнике больше ничего
-	нет. Из него воняет.<SEPARATORB>
----------------
-Нехорошо. Дверь слишком тяжелая,
-	чтобы открыть ее в одиночку.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>батарейку<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ключ от кладовой в подвале<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>свинцовое кольцо<COLOR-WHITE>.<SEPARATORB>
----------------
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+There's something that looks like a refrigerator. Will you open it?
+Что-то наподобие холодильника. Открыть?
+
+
+There's nothing in the refrigerator anymore. A hideous smell is coming from inside.
+В холодильнике больше ничего нет. Из него воняет.
+
+
+It's no good. The door is too heavy to open by myself.
+Нехорошо. Дверь слишком тяжелая, чтобы открыть ее в одиночку.
+
+
+I got the dry cell battery.
+Я взял батарейку.
+
+
+I got the basement storeroom key.
+Я взял ключ от кладовой в подвале.
+
+
+I got the lead ring.
+Я взял свинцовое кольцо.
+
+//
+You can't open it?
 Что, не можешь открыть?
----------------
-Да....
-	Мария, помоги мне.
----------------
+
+
+Yeah.... Maria, gimme a hand here.
+Да.... Мария, помоги мне.
+
+
+Come on... You're supposed to be the big man around here... How's a little girl like me supposed to help? What's this? Not very cute, is it? Here James, you take it.
 Перестань...
----------------
 Ты же у нас здесь сильный пол...
----------------
 Как маленькая девушка здесь поможет?
----------------
-Что это?
-	Не особо милое, правда?
----------------
+Что это? Не особо милое, правда?
 Вот, Джеймс, возьми себе.
----------------
+
+
+Thanks.
 Спасибо.
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Меня заперли в подвале под
-	подвалом.
-	Там было так тесно и темно, и я
-	ужасно испугалась.
-	Я выронила свое прелестное кольцо.
-	Но я никогда, никогда не вернусь
-	туда.<SEPARATORB>
----------------
+//
+
+
+I was locked up inside the basement's basement. It was so small and dark and I was so afraid. I dropped my precious ring. But I will never, ever go back there.
+memo_msg_e 1172
+
+
+Part of the wallpaper is torn.
+I can see something drawn on the wall beneath.
+Are those hands searching for something?
+Or are they just a sign of pain?
 Часть обоев порвана(сорвана? оборвана-металлист).
-	Я вижу, что на стене под ними
-	что-то нарисовано.
-
+Я вижу, что на стене под ними что-то нарисовано.
 Эти руки что-то ищут?
+Или они просто выражают боль?
 
-Или они просто выражают боль?<SEPARATORB>
----------------
+
+There's a piece of paper on the bed.
+I was locked up inside the basement's basement. It was so small and dark and I was so afraid. I dropped my precious ring. But I will never, ever go back there.
 На кровати листок бумаги.
+memo_msg_e 1172
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Меня заперли в подвале под
-	подвалом.
-	Там было так тесно и темно, и я
-	ужасно испугалась.
-	Я выронила свое прелестное кольцо.
-	Но я никогда, никогда не вернусь
-	туда.<SEPARATORB>
----------------
+
+There's a piece of paper on the bed.
+Something is written on it, but it's too dark to read.
 На кровати листок бумаги.
-
-На нем что-то написано,
-	но в темноте не разобрать.<SEPARATORB>
+На нем что-то написано, но в темноте не разобрать.

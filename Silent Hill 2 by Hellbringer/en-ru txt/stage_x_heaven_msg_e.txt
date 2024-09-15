@@ -1,51 +1,93 @@
-﻿--------------- strings=17 language=english
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 17
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+Yes.
 Да.
----------------
+
+
+No.
 Нет.
----------------
+
+
+When I woke up, I was all alone.
 Проснувшись, я оказалась одна.
----------------
-Все пропали...
-	Дело этих монстров?
----------------
+
+
+Everyone's gone... Is it because of those monsters?
+Все пропали... Дело этих монстров?
+
+
+What do I do now?
 Что мне теперь делать?
----------------
+
+
+Do I fight and live?
 Сражаться и жить?
----------------
+
+
+Or do those monsters get me?
 Или умереть в лапах монстров?
----------------
-У меня нет причин продолжать 
-	жить, но...
----------------
-Но я боюсь умирать.
-	Я так боюсь боли.
----------------
+
+
+I don't have any reason to go on living, but...
+У меня нет причин продолжать жить, но...
+
+
+But I'm scared to die. I'm so afraid of pain.
+Но я боюсь умирать. Я так боюсь боли.
+
+
+Should I... run away?
 Может, мне... убежать?
----------------
-Я хочу найти кого-нибудь.
-	Я не люблю одиночество...
----------------
-Но... но остался ли кто-нибудь
-	живой?
----------------
-Я взяла <COLOR-GREEN>китайский тесак<COLOR-WHITE>.<SEPARATORB>
----------------
-Нет ли здесь еще какого-нибудь
-	оружия? Я немного нервничаю с
-	одним револьвером.<SEPARATORB>
----------------
+
+
+I want to find somebody. I don't like being alone...
+Я хочу найти кого-нибудь. Я не люблю одиночество...
+
+
+But...but is there anyone left alive?
+Но... но остался ли кто-нибудь живой?
+
+
+I got a Chinese cleaver.
+Я взяла китайский тесак.
+
+
+Isn't there a weapon besides this gun? I'm a little nervous with just this.
+Нет ли здесь еще какого-нибудь оружия? Я немного нервничаю с одним револьвером.
+
+
+It's locked. Someone has stuck gum into the lock. I can't open it from this side.
 Закрыто.
+Кто-то затолкал в замок жвачку. Не получится открыть его с этой стороны.
 
-Кто-то затолкал в замок жвачку.
-	Не получится открыть его с этой стороны.<SEPARATORB>
----------------
-<COLOR-BLUE>Райская ночь
 
-Название этого заведения.<SEPARATORB>
----------------
- Данный сценарий был создан в
-	дополнение к основной игре.
-	 Мы рекомендуем играть в него только
-	после завершения основной игры.
-	 Хотите сыграть?
+Heaven's Night
+The name of this establishment.
+Райская ночь
+Название этого заведения.
+
+
+ヘヴンス・ナイト この店の名前だ  Japan Японский
+Nuit du Ciel       Le nom de cet établissement. Franse
+Nacht des Himmels  Der Name dieser Platzes. Немецкий Небесная Ночь
+Notte del Cielo    Il nome di questo locale. Italian
+Звёздная ночь Ночное небо Итальянский
+Noche del Ciel     El nombre de este establecimiento. Испанский
+
+
+ This additional scenario has been written as a supplement to the main game.
+ We recommend that it be played only after completing the main game.
+ Do you wish to play?
+Данный сценарий был создан в дополнение к основной игре.
+Мы рекомендуем играть в него только после завершения основной игры.
+Хотите сыграть?

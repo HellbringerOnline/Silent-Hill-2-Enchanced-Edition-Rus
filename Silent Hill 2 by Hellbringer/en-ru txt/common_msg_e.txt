@@ -1,68 +1,122 @@
-﻿--------------- strings=28 language=es
----------------
-Да.
----------------
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 28
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+Yes.
+Да. 
+
+
+No.
 Нет.
----------------
-В темноте не разобрать карту.<SEPARATORB>
----------------
-У меня нет карты этой местности.<SEPARATORB>
----------------
-Закрыто.<SEPARATORB>
----------------
-Открыто.<SEPARATORB>
----------------
-Похоже, замок сломан.
-	Не получается его открыть.<SEPARATORB>
----------------
-Не получается открыть дверь.<SEPARATORB>
----------------
-Что это...?
 
-Когда я смотрю на него,
-	возникает ощущение, что кто-то
-	копошится в моей голове....
 
-Это вызывает у меня странное чувство.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>патроны для пистолета<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>патроны для дробовика<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>патроны для винтовки<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>лечебный напиток<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>аптечку<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взял <COLOR-GREEN>ампулу<COLOR-WHITE>.<SEPARATORB>
----------------
-Я нажал на кнопку,
-	но ничего не произошло.<SEPARATORB>
----------------
-<COLOR-RED>Функция сохранения игры
-	недоступна в демо-версии.<SEPARATORB>
----------------
+It's too dark to read the map.
+В темноте не разобрать карту.
+
+
+I don't have a map of this area.
+У меня нет карты этой местности.
+
+
+It's locked.
+Закрыто.
+
+
+Now it's unlocked.
+Открыто.
+
+
+It looks like the lock is broken. I can't open it.
+Похоже, замок сломан. Не получается его открыть.
+
+
+I can't get the door open.
+Не получается открыть дверь.
+
+
+What's this...? Looking at this makes me feel like someone's groping around inside my skull.... It gives me a weird feeling.
+Что это...? Когда я смотрю на него, возникает ощущение, что кто-то копошится в моей голове. Это вызывает у меня странное чувство.
+
+
+I got handgun bullets.
+Я взял патроны для пистолета.
+
+
+I got shotgun shells.
+Я взял патроны для дробовика.
+
+
+I got rifle shells.
+Я взял патроны для винтовки.
+
+
+I got a health drink.
+Я взял лечебный напиток.
+
+
+I got a first-aid kit.
+Я взял аптечку.
+
+
+I got an ampoule.
+Я взял ампулу.
+
+
+I pressed the switch, but nothing happens.
+Я нажал на кнопку, но ничего не произошло.
+
+
+Save Game feature not available on trial version.
+Функция сохранения игры недоступна в демо-версии.
+
+
+DUALSHOCK®2 not connected
 DUALSHOCK®2 не подключен
----------------
+
+
+Insert the analog controller(DUALSHOCK®2) into controller port 1
 Вставьте aналоговый контроллер(DUALSHOCK®2) в порт контроллера 1
----------------
+
+
+Disc tray open
 Дисковод открыт
----------------
+
+
+Disc not inserted
 Диск не вставлен
----------------
+
+
+Checking disc
 Проверка диска
----------------
+
+
+Wrong disc
 Неверный диск
----------------
-Я взяла <COLOR-GREEN>патроны для револьвера<COLOR-WHITE>.<SEPARATORB>
----------------
-Пожалуйста, переподключите
-	контроллер к порту <VARIABLE-01> контроллера и
-	нажмите START для продолжения.
----------------
+
+
+I got revolver bullets.
+Я взяла патроны для pевольвера.
+
+
+Please reconnect the controller to controller port and press START to continue.
+Пожалуйста, переподключите контроллер к порту контроллера и нажмите START для продолжения.
+
+
+Now loading...
 Загрузка...
----------------
-Нажмите кнопку START.
----------------
+
+
+Press the START Button.
+Нажмите кнопку СТАРТ.
+
+
+Files are missing. Please re-install Silent Hill 2.
 Файлы отсутствуют. Пожалуйста, переустановите Silent Hill 2.

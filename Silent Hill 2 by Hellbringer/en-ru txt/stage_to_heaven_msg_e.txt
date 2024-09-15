@@ -1,13 +1,31 @@
-﻿--------------- strings=6 language=english
----------------
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 6
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+////
+She went through there.
 Она прошла прямо здесь.
----------------
+
+
+Is there any other way?
 Есть какой-то другой проход?
----------------
-Да, есть.
----------------
-Как раз прямо здесь.
----------------
+
+
+Yeah, there is. Right through there.
+Да, есть. Как раз прямо здесь.
+
+
+It's no good. It's locked.
 Не хорошо. Закрыто.
----------------
+
+
+James, you can't make it through there.
 Джеймс, тебе здесь не пройти.
+////

@@ -1,101 +1,108 @@
-﻿--------------- strings=29 language=english
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Те<HIDDEN-TEXT>ло м<HIDDEN-TEXT>ужчины, впоследствии опознанного
-	как Томас <HIDDEN-TEXT>Ороско (<HIDDEN-TEXT>лесоруб, 39 ле<HIDDEN-TEXT>т<HIDDEN-TEXT>),
-	было обнаружено в <HIDDEN-TEXT>ко<HIDDEN-TEXT>мнате в положении
-	лежа на сп<HIDDEN-TEXT>ине<HIDDEN-TEXT>.<HIDDEN-TEXT>
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 29
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Предположительной причиной сме<HIDDEN-TEXT>рти
-	ст<HIDDEN-TEXT>али множественные колото-резаные
-	раны передней поверхности шеи и левой
-	стороны туловища, нанесенные острым
-	предметом. Приблизительное <HIDDEN-TEXT>вре<HIDDEN-TEXT>мя
-	смерти - между 23:00 и 00:30 ночи.
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-<CENTER-PARAGRAPH><COLOR-BLUE> В связи с обнаружением следов борьбы
-	и отсутствием орудия убийства полиция
-	квал<HIDDEN-TEXT>ифиц<HIDDEN-TEXT>ировала произошедшее как
-	убийство и инициировала расследование.
+BEGIN_SOURCE:
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Кроме того, учитывая тот факт, что
-	наличные деньги в комнате остались
-	нетронутыми, а г-н <HIDDEN-TEXT>Ороско<HIDDEN-TEXT>
-	злоупотреблял алкоголем и проявлял
-	агрессию, полиц<HIDDEN-TEXT>ия подозр<HIDDEN-TEXT>евает, что
-	убийство было <HIDDEN-TEXT>сове<HIDDEN-TEXT>ршено не с целью
-	ограблени<HIDDEN-TEXT>я, а в<HIDDEN-TEXT> состоянии <HIDDEN-TEXT>аффе<HIDDEN-TEXT>кта. <SEPARATORB>
----------------
+
+
+The body of a man later identified as Thomas Orosco (Lumberjack, age 39) was discovered in the middle of his room lying face up.
+ The probable cause of death was multiple stab wounds to the front of the neck and the left side of the torso by a sharp edged weapon. The estimated time of death was somewhere between 11:00 p.m. and 12:30 midnight.
+ Due to signs of struggle in the room and the lack of a murder weapon, police are considering this a homicide and have opened a murder investigation.
+ Furthermore, given the fact that the cash in the room was untouched and Mr. Orosco had a history of drunkenness and violence, the police suspect that the motive was not robbery butsome sort of crime of passion. 
+memo_msg_e 899
+
+Тело мужчины, впоследствии опознанного как Томас Ороско (лесоруб, 39 лет), было обнаружено в комнате в положении лёжа на спине.
+ Предположительной причиной смерти стали множественные колото-резаные раны передней поверхности шеи и левой стороны туловища, нанесенные острым предметом. Приблизительное время смерти - между 23:00 и 00:30 ночи.
+ В связи с обнаружением следов борьбы и отсутствием орудия убийства полиция квалифицировала произошедшее как убийство и инициировала расследование.
+ Кроме того, учитывая тот факт, что наличные деньги в комнате остались нетронутыми, а г-н Ороско злоупотреблял алкоголем и проявлял агрессию, полиция подозревает, что убийство было совершено не с целью ограбления, а в состоянии аффекта.
+
+
+There's a newspaper on the ground. It's stained with something that looks like blood and is partially illegible.
 На земле(полу-металлист) лежит газета.
+Она испачкана чем-то, похожим на кровь, а часть текста нечитаема.
 
-Она испачкана чем-то, похожим на
-	кровь, а часть текста нечитаема.<SEPARATORB>
----------------
-Существо мертво<SEPARATORB>
----------------
+
+The creature is dead
+Существо мертво
+
+////
+No daddy! Please! Don't!
 Нет, папочка! Пожалуйста! Нет!
----------------
-Ты в порядке?
----------------
-Анжела! Остынь!
----------------
+
+
+Are you okay? Angela! Relax!
+Ты в порядке? Анжела! Остынь!
+
+
+Don't order me around!
 Не указывай мне!
----------------
+
+
+I'm not trying to order you.
 Я не пытаюсь тебе указывать.
----------------
+
+
+So what do you want then? Oh I see, you're trying to be nice to me, right? I know what you're up to. It's always the same. You're only after one thing.
 Так чего же ты хочешь?
----------------
-О, я вижу, ты пытаешься быть со
-	мной милым, да?
----------------
+О, я вижу, ты пытаешься быть со мной милым, да?
 Я знаю, что ты задумал.
-	Всегда одно и то же.
----------------
+Всегда одно и то же.
 Тебе нужно только одно.
----------------
+
+
+No, that's not true at all.
 Нет, это совсем не так.
----------------
-Незачем врать. 
-	Давай, скажи.
----------------
+
+
+You don't have to lie. Go ahead and say it. Or you could just force me. Beat me up like he always did. You only care about yourself anyway. You disgusting pig.
+Незачем врать.
+Давай, скажи это.
 Или ты можешь просто заставить меня.
-	Избить, как он всегда делал.
----------------
+Избить, как он всегда делал.
 Ты же заботишься только о себе.
----------------
 Ты мерзкая свинья.
----------------
+
+
+Angela...
 Анжела...
----------------
+
+
+Don't touch me!! You make me sick! You said your wife Mary was dead, right?
 Не трогай меня!!
----------------
 Меня от тебя тошнит!
----------------
-Ты сказал, что твоя жена Мэри
-	умерла, так?
----------------
+Ты сказал, что твоя жена Мэри умерла, так?
+
+
+Yes, she was ill...
 Да, она болела...
----------------
+
+
+Liar! I know about you.... You didn't want her around anymore. You probably found someone else.
 Лжец!
----------------
 Я знаю о тебе....
----------------
-Ты больше не хотел, чтобы она
-	была рядом. Скорее всего, ты
-	нашел другую.
----------------
+Ты больше не хотел, чтобы она была рядом. Скорее всего, ты нашел другую.
+
+
+That's ridiculous... I never...
 Это абсурд... Я никогда...
----------------
-Я не могу просто сбежать и бросить ее.<SEPARATORB>
----------------
-Даже если я поверну назад,
-	куда я пойду...?
+////
 
-Дороги назад нет,
-	и бежать некуда.<SEPARATORB>
----------------
-Газеты разбросаны по стенам и
-	полу(?). Вроде бы ничего
-	интересного.
 
-Но на этой сегодняшняя дата......
-	Странно.<SEPARATORB>
+I can't just run away and leave her.
+Я не могу просто сбежать и бросить ее.
+
+
+Even if I turn back now, where would I go to...? There's no road back and nowhere to run away to.
+Даже если я поверну назад, куда я пойду...?
+Дороги назад нет, и бежать некуда.
+
+
+Newspapers are scattered all over the walls and floor. There seems to be nothing of interest. But this one has today's date...... That's kind of strange.
+Газеты разбросаны по стенам и полу(?). Вроде бы ничего интересного.
+Но на этой сегодняшняя дата....... Странно.

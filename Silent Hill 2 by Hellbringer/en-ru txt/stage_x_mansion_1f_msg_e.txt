@@ -1,343 +1,407 @@
-﻿--------------- strings=109 language=english
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 109
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+////
+Do you know a little girl named Amy?
 Ты знаешь девочку по имени Эми?
----------------
+
+
+Why do you ask me that?
 Почему ты спрашиваешь?
----------------
-Это письмо "МОЕМУ ЛЮБИМОМУ
-	ПАПОЧКЕ"... Оно от девочки по
-	имени Эми Болдуин.
----------------
+
+
+This letter, "TO MY DEAREST DADDY"... It's from a girl named Amy Baldwin. You're "DADDY"?
+Это письмо "МОЕМУ ЛЮБИМОМУ ПАПОЧКЕ"... Оно от девочки по имени Эми Болдуин.
 Ты - "ПАПА"?
----------------
-Да.
----------------
-Где ты его нашла?
----------------
+
+
+Yes. Where did you find that?
+Да. Где ты его нашла?
+
+
+Up in the attic.
 На чердаке.
----------------
-Ох...
----------------
-Вот дурак...
-	Сейчас... когда уже слишком
-	поздно, я наконец понял, почему.
----------------
-Почему она была там...
----------------
-Почему она держала этот пустой
-	конверт, когда она... когда она
-	выпала...
----------------
-Эрнест,
-	Эми... Она не...?
----------------
-Прости. 
-	Прости, что напомнила тебе.
----------------
-Незачем извиняться.
-	Ты не напомнила мне.
----------------
-Я всегда помню...
----------------
-Мария.
----------------
-Есть вещи, которые мы забываем
-	а есть вещи, которые мы не
-	сможем забыть никогда......
----------------
-Забавно... Не знаю, что из этого
-	печальнее.
----------------
+
+
+Oh... What a fool... Now...when it's too late, I finally understand why. Why she was there... Why she was holding that empty envelope when she...when she fell...
+Ох... Вот дурак...
+Сейчас... когда уже слишком поздно, я наконец понял, почему. Почему она была там...
+Почему она держала этот пустой конверт, когда она... когда она выпала...
+
+
+Ernest, Amy...She isn't...? I'm sorry. I'm sorry I reminded you.
+Эрнест, Эми... Она не...? Прости. Прости, что напомнила тебе.
+
+
+No need to apologize. You didn't remind me. I've never forgotten... Maria. Some things we forget and some things we can never forget...... It's funny...I'm not sure which one is sadder. It's been 10 years, but I still......
+Незачем извиняться. Ты не напомнила мне. Я всегда помню... Мария.
+Есть вещи, которые мы забываем, а есть вещи, которые мы не сможем забыть никогда...... Забавно... Не знаю, что из этого печальнее.
 Прошло уже 10 лет, но я все еще......
----------------
-Эрнест... Прости.
-	Я не знала...
----------------
-Нет, все в порядке.
----------------
-Мария, это письмо...
----------------
+
+
+Ernest...I'm sorry. I didn't know...
+Эрнест... Прости. Я не знала...
+
+
+No, it's fine. Maria, that letter...
+Нет, все в порядке. Мария, это письмо...
+
+
+I'll leave it here.
 Я оставлю его здесь.
----------------
+
+
+Thanks. Maria....? So you must be...... That's why. That's why you could see me.
 Спасибо.
----------------
 Мария....?
-	Наверное, ты......
----------------
-Вот почему. 
-	Вот почему ты смогла увидеть меня.
----------------
+Наверное, ты......
+Вот почему.
+Вот почему ты смогла увидеть меня.
+
+
+Huh?
 А?
----------------
-То есть, это значит, что я тоже
-	могу надеяться на чудо?
----------------
+
+
+So perhaps that means that I can hope for a miracle as well?
+То есть, это значит, что я тоже могу надеяться на чудо?
+
+
+What do you mean?
 О чем ты?
----------------
-В соседних апартаментах есть
-	бутылочка с белой жидкостью.
----------------
-Я не знаю где именно, но знаю,
-	что она где-то там.
----------------
+
+
+In the apartment next door, there is a bottle containing a white liquid. I don't know exactly where it is, but I know it's in there somewhere. I must have it.
+В соседних апартаментах есть бутылочка с белой жидкостью.
+Я не знаю где именно, но знаю, что она где-то там.
 Мне она очень нужна.
----------------
+
+
+You...want me to get it for you?
 Ты... хочешь, чтобы я принесла ее?
----------------
+
+
+Please...
 Пожалуйста...
----------------
+
+
+Why don't you just get it yourself?
 Почему ты не принесешь сам?
----------------
-Если бы я мог, поверь, то забрал бы.
-	Но я......
----------------
-......Белая?
----------------
+
+
+If I could, believe me I would. But I......
+Если бы я мог, поверь, то забрал бы. Но я ......
+
+
+......White?
+...... Белая?
+
+
+I'll open the stairway door.
 Я открою дверь на лестницу.
----------------
-Эрнест, ты правда веришь,
-	что все получится?
----------------
+
+
+Ernest, do you really believe it will work?
+Эрнест, ты правда веришь, что все получится?
+
+
+I don't know...
 Я не знаю...
----------------
-Ну, ничего страшного. Я не прочь
-	побороться за недостижимую цель.
----------------
-Для меня это лучше, чем опустить
-	руки и бездействовать.
----------------
-Мария...спасибо.
----------------
-Думаешь, чудеса действительно
-	случаются?
----------------
+
+
+Well, that's okay. I don't mind fightin' for an impossible cause. Anyway it beats just giving up and doing nothing.
+Ну, ничего страшного. Я не прочь побороться за недостижимую цель.
+Для меня это лучше, чем опустить руки и бездействовать.
+
+
+Maria...thank you.
+Мария... спасибо.
+
+
+You think miracles really can happen?
+Думаешь, чудеса действительно случаются?
+
+
+This is Silent Hill.
 Это же Сайлент Хилл.
----------------
+
+
+Yeah, maybe that's the problem.
 Да, наверное, в этом и проблема.
----------------
+
+
+Oh Maria. You think too much. I'm from here. This is my town.
 О, Мария. Ты слишком много надумываешь.
-	Я здесь родился. Это мой город.
----------------
+Я здесь родился. Это мой город.
+////
+
+////
+Thank you Maria. That's the only item I couldn't get myself. By the time I found out about it, I could no longer leave this house. So long...
 Спасибо, Мария.
----------------
-Это единственная вещь, которую я
-	не смог достать сам. 
----------------
-Когда я узнал об этом, я уже не
-	мог покинуть этот дом.
----------------
+Это единственная вещь, которую я не смог достать сам.
+Когда я узнал об этом, я уже не мог покинуть этот дом.
 Так долго...
----------------
+
+
+Yes, but will...
 Да, но...
----------------
-Мария, боги здесь.
----------------
-Ты тоже это знаешь.
-	Ты родилась в этом городе.
----------------
+
+
+Maria, the Gods are here. You know it too. You were born in this town.
+Мария, боги здесь. Ты тоже это знаешь. Ты родилась в этом городе.
+
+
+I'm not sure "God" is the right word.
 Я не уверена, что "Бог" - подходящее слово.
----------------
+
+
+Do you believe in Fate?
 Ты веришь в судьбу?
----------------
+
+
+Not really.
 Не очень.
----------------
+
+
+That's fine then.
 Тогда все в порядке.
----------------
+
+
+Ernest, can I open this?
 Эрнест, можно я открою?
----------------
-Это тупик.
-	Дальше ничего нет.
----------------
-Я знаю.
----------------
-А что...
-	Что, если бы я сказала, что верю в судьбу?
----------------
+
+
+This is a dead end. There's nothing beyond here.
+Это тупик. Дальше ничего нет.
+
+
+I know. So... What if I had said I believed in Fate?
+Я знаю. А что...
+Что, если бы я сказала, что верю в судьбу?
+
+
+That James, he's a bad man.
 Что Джеймс, он плохой человек.
----------------
-Джеймс...?
----------------
-Д, да......Я знаю.
----------------
+
+
+James...? Y, yes......I know.
+Джеймс...? Д, да......Я знаю.
+
+
+He's looking for the you that isn't you.
 Он ищет тебя, но не тебя.
----------------
-Потому что он добрый.
----------------
-Ты...что-то знаешь?
----------------
-Да.....
-	Мария, ты...
----------------
-В любом случае, это только то,
-	что ты думаешь. На самом деле ты
-	ничего не знаешь.
----------------
-Все нормально.
----------------
+
+
+Because he's kind. Do you...know something?
+Потому что он добрый. Ты... что-то знаешь?
+
+
+Yes..... Maria, you're...
+Да..... Мария, ты...
+
+
+Anyway that's just what you think. You don't really know anything. That's fine.
+В любом случае, это только то, что ты думаешь. На самом деле ты ничего не знаешь. Все нормально.
+
+
+OK.
 Ладно.
----------------
-Я взяла <COLOR-GREEN>карту дома Болдуинов<COLOR-WHITE>.<SEPARATORB>
----------------
-Камин заколочен досками (Камин закрыт железной створкой).
-	На нем написано "Не использовать".<SEPARATORB>
----------------
-В камине зачем-то установлена
-	лестница, она ведет наверх.
 
-Дальше я вижу что-то похожее на дыру.
 
-Подняться по лестнице?<SELECT-YES-OR-NO>
----------------
-Спуститься по лестнице?<SELECT-YES-OR-NO>
----------------
-В центре надгробия - квадратное
-	углубление.
+I got the Baldwin house map.
+Я взяла карту дома Болдуинов.
 
-А над ним - искусно высеченная
-	эпитафия.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Вместе с тобой умерла радость.
-	Остались лишь отчаяние и
-	бессмыслие грядущих дней.
+The fireplace is boarded off. "Do not use" is written on it.
+Камин заколочен досками (Камин закрыт железной створкой). На нем написано "Не использовать".
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Но я никогда не сдамся.
-	Чтобы вновь увидеть твою
-	прекрасную улыбку,
-	чтобы вымолить благословение у
-	Богов.
-	Я жду этого дня.
- 
-<CENTER-PARAGRAPH><COLOR-BLUE>Когда пластины все покроют
-	Вся печаль тоже будет покрыта
-	Но пока мои мечты не вернутся
-	в реальность
-	Мне придется смириться с болью.<SEPARATORB>
 
-В камне под углублением намертво
-	застрял ключ.
+For some reason there's a ladder in the fireplace leading up. Along the way, I can see something that looks like a hole. Climb the ladder?
+В камине зачем-то установлена лестница, она ведет наверх. Дальше я вижу что-то похожее на дыру. Подняться по лестнице?
 
-Как бы я ни старалась, у меня не
-	получается его вытащить.<SEPARATORB>
----------------
+
+Go down the ladder?
+Спуститься по лестнице?
+
+
+There's a square depression in the center of the tombstone. And above that is a carefully carved epitaph.
+Along with you died joy. All that remains is despair and a future of meaningless tomorrows. But I will never give up. One, to see your beautiful smile again. One, to beg the blessings of the Gods. I wait for that day. 
+When the boards cover all
+All sadness too will be covered
+But until my dreams return to reality
+I will have to swallow all the pain.
+There's a key firmly embedded in the stone beneath the depression. No matter how I try, I can't pull it out.
+В центре надгробия - квадратное углубление.
+А над ним - искусно высеченная эпитафия.
+memo_x_msg_e 593
+В камне под углублением намертво застрял ключ.
+Как бы я ни старалась, у меня не получается его вытащить.
+
+
+The board has been inserted. Remove board?
+Пластина вставлена. Вытащить?
+
+
+The board has been inserted. Open holes on the boards are overlapping. I can still see the other side. Remove board?
 Пластина вставлена.
+Отверстия на пластинах совпадают. Я по-прежнему вижу другую сторону.
+Вытащить пластину?
 
-Вытащить?<SELECT-YES-OR-NO>
----------------
-Пластина вставлена.
 
-Отверстия на пластинах
-	совпадают. Я по-прежнему вижу
-	другую сторону.
+Three boards have been inserted.
+Три пластины вставлены.
 
-Вытащить пластину?<SELECT-YES-OR-NO>
----------------
-Три пластины вставлены.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>"Утраченные воспоминания"
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Я тведо верю - можно даже сказать,
-	фанатично верю - в чудо под
-	названием "Воскресение из мертвых".
+"Lost Memories"
+ I have the strongest trust -- you may even call it faith -- in the miracle called "Resurrection of the Dead." Upon the hill where the light descended, the Beast intoned his song. With words of blood, drops of mist and the vessel of night, the grave become an open field. The people wept in fear and joy at the reunion, but my faith in the salvation of Xuchilpaba did not waver. It is also spoken of in the ancient legends. The original worshippers did not believe that death was the end but that it was simply the path by which the deceased returned to nature. They also believed the process was reversible. There's something imprinted towards the bottom of the page.
+Did Ernest write this? What could it mean?
+Blood = Red,
+Mist = White,
+Night = Black
+"Утраченные воспоминания"
+Я тведо верю - можно даже сказать, фанатично верю - в чудо под названием "Воскресение из мертвых".
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>На холме, куда спустился свет,
-	Зверь запел свою песню.
-	Слова крови, капли мглы и сосуд
-	ночи превратили могилу в
-	открытое поле. 
+На холме, куда спустился свет, Зверь запел свою песню.
+Слова крови, капли мглы и сосуд ночи превратили могилу в открытое поле.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Люди рыдали в страхе и радости
-	от воссоединения, но моя вера в
-	спасение Ксучильпабы не
-	ослабевала.
+Люди рыдали в страхе и радости от воссоединения, но моя вера в спасение Ксучильпабы не ослабевала.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Об этом также гласят древние
-	легенды. Первопоклоники верили в
-	то, что смерть - это не конец, а
-	просто путь, по которому усопший
-	возвращается к природе. Они
-	также считали, что этот процесс
-	обратим.
+Об этом также гласят древние легенды. Первопоклоники верили в то, что смерть - это не конец, а просто путь, по которому усопший возвращается к природе. Они также считали, что этот процесс обратим. 
 
 Внизу страницы что-то приписано.
+Это написал Эрнест? Что это может означать?
+Кровь = Красная,
+Туман = Белый,
+Ночь = Черная
 
-Это написал Эрнест?
-	Что это может означать?
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Кровь = Красная,
-	Туман = Белый,
-	Ночь = Черная<SEPARATORB>
----------------
-Я взяла <COLOR-GREEN>черную пластину<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взяла <COLOR-GREEN>красную пластину<COLOR-WHITE>.<SEPARATORB>
----------------
-Я взяла <COLOR-GREEN>ключ акации<COLOR-WHITE>.<SEPARATORB>
----------------
-У меня не получается его открыть.<SEPARATORB>
----------------
-Ставни(жалюзи?) закрыты.
-	Здесь не пройти.<SEPARATORB>
----------------
-Мертв...<SEPARATORB>
----------------
-После наложения трех пластин друг
-	на друга ключ легко вытащился.<SEPARATORB>
----------------
-Я вытащила <COLOR-GREEN>белую пластину<COLOR-WHITE>.<SEPARATORB>
----------------
-Я вытащила <COLOR-GREEN>черную пластину<COLOR-WHITE>.<SEPARATORB>
----------------
-Я вытащила <COLOR-GREEN>красную пластину<COLOR-WHITE>.<SEPARATORB>
----------------
-<GLOBALYOFFSET-BOARDPUZZLE><SELECTABLE-TEXT>Вставить как есть.<SELECTABLE-TEXT>Повернуть на 90 градусов направо и вставить.<SELECTABLE-TEXT>Повернуть на 180 градусов и вставить.<SELECTABLE-TEXT>Повернуть на 90 градусов налево и вставить.<SEPARATORB>
----------------
-Я вставила <COLOR-GREEN>белую пластину<COLOR-WHITE> в углубление.<SEPARATORB>
----------------
-Я вставила <COLOR-GREEN>черную пластину<COLOR-WHITE> в углубление.<SEPARATORB>
----------------
-Я вставила <COLOR-GREEN>красную пластину<COLOR-WHITE> в углубление.<SEPARATORB>
----------------
-Обычный набор посуды.
-	Мне нет до него дела.<SEPARATORB>
----------------
-Внутри пусто.
-	Очень жаль...<SEPARATORB>
----------------
-Картина с изображением цветов.<SEPARATORB>
----------------
-Натюрморт.<SEPARATORB>
----------------
+I got a black board.
+Я взяла черную пластину.
+
+
+I got a red board.
+Я взяла красную пластину.
+
+
+I got the Acacia key.
+Я взяла ключ акации.
+
+
+I can't open this.
+У меня не получается его открыть.
+
+
+The shutters are closed. I can't go through here.
+Ставни(жалюзи?) закрыты. Здесь не пройти.
+
+
+Dead...
+Мертв...
+
+
+When the three boards overlapped, the key came free.
+После наложения трех пластин друг на друга ключ легко вытащился.
+
+
+I removed the white board.
+Я вытащила белую пластину.
+
+
+I removed the black board.
+Я вытащила черную пластину.
+
+
+I removed the red board.
+Я вытащила красную пластину.
+
+
+Insert as is.
+Turn 90 degrees to the right and insert.
+Turn 180 degrees and insert.
+Turn 90 degrees to the left and insert.
+Вставить как есть.
+Повернуть на 90 градусов направо и вставить.
+Повернуть на 180 градусов и вставить.
+Повернуть на 90 градусов налево и вставить.
+
+
+
+I put the white board into the hole.
+Я вставила белую пластину в углубление.
+
+
+I put the black board into the hole.
+Я вставила черную пластину в углубление.
+
+
+I put the red board into the hole.
+Я вставила красную пластину в углубление.
+
+
+It's just a row of dishes. Nothing to do with me.
+Обычный набор посуды. Мне нет до него дела.
+
+
+There's nothing inside. Too bad...
+Внутри пусто. Очень жаль...
+
+
+It's a painting of flowers.
+Картина с изображением цветов.
+
+
+It's a still-life painting.
+Натюрморт.
+
+
+It's a model of the earth.
+I've got no use for that.
 Глобус.
-	Мне он не нужен.<SEPARATORB>
----------------
-Мне незачем пользоваться телефоном.<SEPARATORB>
----------------
-Выставка декоративных тарелок.
-	Не особо интересно.<SEPARATORB>
----------------
+Мне он не нужен.
+
+
+I've got no reason to use the phone.
+Мне незачем пользоваться телефоном.
+
+
+A display of decorative plates. Not terribly interesting.
+Выставка декоративных тарелок. Не особо интересно.
+
+
+There's a mop and bucket here. I don't really feel like cleaning anyway.
 Швабра и ведро.
-	Мне не очень хочется убираться.<SEPARATORB>
----------------
-Ничего, что может пригодиться.<SEPARATORB>
----------------
-Здесь не пройти.
-	Все загораживает стена. (решетка преграждает путь металлист)<SEPARATORB>
----------------
-Книжная полка заставлена полными
-	изданиями трудных книг.
+Мне не очень хочется убираться.
 
-Мне все это неинтересно.<SEPARATORB>
----------------
+
+There's nothing here I can use now.
+Ничего, что может пригодиться.
+
+
+I can't pass through here. It's blocked by a wall.
+Здесь не пройти. Все загораживает стена. (решетка преграждает путь металлист)
+
+
+The bookshelf is lined with complete editions of difficult-looking books. I'm not interested in any of that.
+Книжная полка заставлена полными изданиями трудных книг. Мне все это неинтересно.
+
+
+There's a clock here, but it looks like it's not running anymore. This won't do me any good.
 Часы, на вид давно сломанные.
+Мне они не пригодятся.
 
-Мне они не пригодятся.<SEPARATORB>
----------------
-На столе лежат книги. 
-	Ни одна из них не выглядит особо 
-	интересной<SEPARATORB>
----------------
-Подарок Эми своему отцу, Эрнесту.
-	Найден вместе с поздравительной
-	открыткой.
 
-Думаю, я оставлю его здесь.<SEPARATORB>
+There are books on the desk. None of it looks very interesting.
+На столе лежат книги.
+Ни одна из них не выглядит особо интересной.
+
+
+Amy's present to her father, Ernest. Found with the birthday card. I think I'll leave this here.
+Подарок Эми своему отцу, Эрнесту. Найден вместе с поздравительной открыткой. Думаю, я оставлю его здесь.

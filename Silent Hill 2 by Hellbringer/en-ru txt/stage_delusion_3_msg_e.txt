@@ -1,33 +1,57 @@
-﻿--------------- strings=8 language=english
----------------
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 8
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+It's just a wall. It would be impossible to climb this.
 Это просто стена.
+На нее невозможно забраться.
 
-На нее невозможно забраться.<SEPARATORB>
----------------
+
+It's just a wall.
+Huh, this is different...
+Just this spot here feels different than a normal wall.
+I wonder if I could somehow break it?
 Это просто стена.
+Хм, это место другое...
+На ощупь оно не такое, как остальная стена.
+Интересно, получится ли его сломать?
 
-Хм, это место другое.
 
-На ощупь оно не такое, 
-	как остальная стена.
+I can't open the door from this position.
+Отсюда не получится открыть дверь. (Отсюда я не смогу открыть дверцу.металл)
 
-Интересно, получится ли его сломать?<SEPARATORB>
----------------
-Отсюда не получится открыть
-	дверь. (Отсюда я не смогу открыть дверцу.металл)<SEPARATORB>
----------------
+
+There is a door at the bottom.
 Внизу находится дверь. (Снизу есть дверца. металл)
-	Дверь заперта. (Дверца заперта. металл)<SEPARATORB>
----------------
+
+
+The door is locked.
+Дверь заперта. (Дверца заперта. металл)
+
+
+It's pitch black beyond the door.
+I can't tell how far the blackness stretches.
+Will you go down?
 За дверью(дверцей металл) кромешная тьма.
+Трудно сказать, насколько далеко простирается пустота. (Не могу сказать, насколько там может быть глубоко.)
+Спуститься?
 
-Трудно сказать, насколько далеко
-	простирается пустота. (Не могу сказать, насколько там может быть глубоко.)
 
-Спуститься?<SELECT-YES-OR-NO>
----------------
-Я взял <COLOR-GREEN>ключ со спиралью<COLOR-WHITE>.Я взял ключ со спиральной надписью.)<SEPARATORB>
----------------
-Я использовал <COLOR-GREEN>ключ со спиралью<COLOR-WHITE>.(Я взял ключ со спиральной надписью.)<SEPARATORB>
----------------
-Я заменил <COLOR-GREEN>батарейку<COLOR-WHITE> в фонарике.<SEPARATORB>
+I got the spiral-writing key.
+Я взял ключ со спиралью. (Я взял ключ со спиральной надписью.)
+
+
+I used the spiral-writing key.
+Я использовал ключ со спиралью. (Я взял ключ со спиральной надписью.)
+
+
+I changed the light's battery.
+Я заменил батарейку в фонарике.

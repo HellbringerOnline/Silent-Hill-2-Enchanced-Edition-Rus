@@ -1,61 +1,61 @@
-﻿--------------- strings=11 language=english
----------------
-На земле лежит клочок бумаги.
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 11
 
-Какие-то каракули...
-	Хм, на нем что-то написано.
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Она ангел никто не знает только
-	я вижу Владычицу Дверей они не
-	смогут пройти по ее Мосту из
-	нитей они падают под тяжестью
-	своих преступлений.
+BEGIN_SOURCE:
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Их грехи как распухшие и
-	страшные трупы она пожирает и
-	грехи и грешников она спасает
-	меня она ангел.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Она ангел никто не знает только
-	я вижу Владычицу Дверей они не
-	смогут пройти по ее Мосту из
-	нитей они падают под тяжестью
-	своих преступлений.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Их грехи как распухшие и
-	страшные трупы она пожирает и
-	грехи и грешников она спасает
-	меня она ангел.<SEPARATORB>
----------------
-Я надел <COLOR-GREEN>медное кольцо<COLOR-WHITE> на "руку"
-	женщины на картине.<SEPARATORB>
----------------
-Я надел <COLOR-GREEN>свинцовое кольцо<COLOR-WHITE> на "руку"
-	женщины на картине.<SEPARATORB>
----------------
-Я нажимаю на кнопки,
-	но лифт не едет.<SEPARATORB>
----------------
-На двери нарисована женщина.
+There's a scrap of paper on the ground. Just some doodle... Huh, something is written on it.
+She is an angel no one knows only I can see the Lady of the Door they cannot walk along her Bridge of Thread they fall from the weight of their crimes. Like bloated and ugly corpses their sins she devours them sin and sinner alike she saves me she is an angel.
+На земле лежит клочок бумаги. Какие-то каракули... Хм, на нем что-то написано.
+memo_msg_e 651
 
-Странно, но часть руки на
-	картине объемна и выступает
-	наружу.<SEPARATORB>
----------------
-Я нажимаю на кнопку, но ничего
-	не происходит.<SEPARATORB>
----------------
-На кровати листок бумаги.
 
-На нем что-то написано,
-	но в темноте не разобрать.<SEPARATORB>
----------------
-Пустые баночки из-под лекарств.
-	Их принимала Мария?
+She is an angel no one knows only I can see the Lady of the Door they cannot walk along her Bridge of Thread they fall from the weight of their crimes.
+Like bloated and ugly corpses their sins she devours them sin and sinner alike she saves me she is an angel.
+memo_msg_e 651
 
-Неужели и Мария тоже больна...?<SEPARATORB>
----------------
-Марии нет...
-	Куда она пропала?<SEPARATORB>
----------------
-Здесь ничего полезного.<SEPARATORB>
+
+I put the copper ring on the "hand" of the lady in the painting.
+Я надел медное кольцо на "руку" женщины на картине.
+
+
+I put the lead ring on the "hand" of the lady in the painting.
+Я надел свинцовое кольцо на "руку" женщины на картине.
+
+
+I'm pressing the buttons but the elevator doesn't move.
+stage_hospital_1f_f_msg_e 57
+
+
+There's a painting of a woman on the door. Oddly enough, the hand part of the painting is actually 3D and sticks out.
+На двери нарисована женщина. Странно, но часть руки на картине объёмна и выступает наружу.
+
+
+I push the button but nothing happens.
+Я нажимаю на кнопку, но ничего не происходит.
+
+
+There's a piece of paper on the bed. Something is written on it, but it's too dark to read.
+На кровати листок бумаги. На нем что-то написано, но в темноте не разобрать.
+
+
+There are empty medicine bottles here. Is this what Maria was taking?
+Пустые баночки из-под лекарств. Их принимала Мария?
+
+
+Is Maria sick now too...?
+Неужели и Мария тоже больна...?
+
+
+Maria's not here... Where could she have gone?
+Марии нет... Куда она пропала?
+
+
+There's nothing useful here.
+Здесь ничего полезного.

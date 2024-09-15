@@ -1,987 +1,657 @@
-﻿--------------- strings=115 language=english
----------------
-<CENTER-PER-LINE>Болотный памятник
----------------
-<CENTER-PER-LINE>"Путь в завтрашний день"
----------------
-<CENTER-PER-LINE>"Как стать счастливой парой"
----------------
-<CENTER-PER-LINE>"Выбирая смерть"
----------------
-<CENTER-PER-LINE>Царапины на стене
----------------
-<CENTER-PER-LINE>Три иглы стоят на трех разных высотах.
----------------
-<CENTER-PER-LINE>"Три разных размера, времени шаг."
----------------
-<CENTER-PER-LINE>Статья об убийстве
----------------
-<CENTER-PER-LINE>Туристическая брошюра
----------------
-<CENTER-PER-LINE>Бумажник в унитазе
----------------
-<CENTER-PER-LINE>Порванная фотография
----------------
-<CENTER-PER-LINE>"Дорогой Тим"
----------------
-<CENTER-PER-LINE>"Три ярких монеты в пять отверстий изволь разложить"
----------------
-<CENTER-PER-LINE>"Первое место того"
----------------
-<CENTER-PER-LINE>"Наши души монетам подобно"
----------------
-<CENTER-PER-LINE>"Направо - дама."
----------------
-<CENTER-PER-LINE>Медицинская карта (История болезни металл)
----------------
-<CENTER-PER-LINE>Журнал доктора
----------------
-<CENTER-PER-LINE>Текст на маркерной доске (Надпись на белой плите)
----------------
-<CENTER-PER-LINE>Отпечаток на копировальной бумаге
----------------
-<CENTER-PER-LINE>Дневник с крыши
----------------
-<CENTER-PER-LINE>"Крути крути крути цыфры"
----------------
-<CENTER-PER-LINE>"Луиза"
----------------
-<CENTER-PER-LINE>"Она ангел"
----------------
-<CENTER-PER-LINE>"Я взял ключ директара"
----------------
-<CENTER-PER-LINE>"Сладость или гадость"
----------------
-<CENTER-PER-LINE>Пейзаж "Набережная"
----------------
-<CENTER-PER-LINE>Картина "Пирамидоголовый"
----------------
-<CENTER-PER-LINE>Надпись на виселице
----------------
-<CENTER-PER-LINE>Легенда об озере
----------------
-<CENTER-PER-LINE>Окровавленная газета
----------------
-<CENTER-PER-LINE>"Пожалуйста, помогите мне"
----------------
-<CENTER-PER-LINE>"Мертвецы, мертвецы"
----------------
-<CENTER-PER-LINE>Дневник осужденного
----------------
-<CENTER-PER-LINE>"Смерть на голову грешника"
----------------
-<CENTER-PER-LINE>Записка администратора (Записка портье)
----------------
-<CENTER-PER-LINE>Фотографии сундука (Фотография чемодана)
----------------
-<CENTER-PER-LINE>"я знаю я знаю число сундука"
----------------
-<CENTER-PER-LINE>Записка возле трупа #1
----------------
-<CENTER-PER-LINE>Записка возле трупа #2
----------------
-<CENTER-PER-LINE>Записка возле трупа #3
----------------
-<CENTER-PER-LINE>Записка возле трупа #4
----------------
-<CENTER-PER-LINE>Записка возле трупа #5
----------------
-<CENTER-PER-LINE>Записка возле трупа #6
----------------
-<CENTER-PER-LINE>Газета с витрины магазина
----------------
-<CENTER-PER-LINE>"Пропавшего ребенка не нашли"
----------------
-<CENTER-PER-LINE>"Смерть на голову грешника"
----------------
-<CENTER-PER-LINE>Слова, написанные на стене.
----------------
-<CENTER-PER-LINE>Номер, написанный на маркерной доске (Число, написанное на белой плите)
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Остатки <HIDDEN-TEXT>XXXX<HIDDEN-TEXT> болота
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Раньше <HIDDEN-TEXT>x-мет<HIDDEN-TEXT>ровая территория во<HIDDEN-TEXT>круг<HIDDEN-TEXT>
-	памятника представляла собой болото,
-	которое со временем было зас<HIDDEN-TEXT>ыпано.<HIDDEN-TEXT>
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Из<HIDDEN-TEXT>дав<HIDDEN-TEXT>на б<HIDDEN-TEXT>олото<HIDDEN-TEXT> прозвали Кровавым,
-	потому что <HIDDEN-TEXT>пал<HIDDEN-TEXT>ачи сливали сюда
-	<HIDDEN-TEXT>воду, ко<HIDDEN-TEXT>торой очищали ору<HIDDEN-TEXT>дия
-	ка<HIDDEN-TEXT>зни.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Возможно, именно по это<HIDDEN-TEXT>й причин<HIDDEN-TEXT>е
-	многие лю<HIDDEN-TEXT>ди утверж<HIDDEN-TEXT>дают, что
-	ви<HIDDEN-TEXT>дели призраков<HIDDEN-TEXT> в этих местах.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>"Путь в завтрашний день"
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Первый шаг к здоровой жизни -
-	профилактика заболеваний. Возможно
-	звучит банально, но это очень важно.
-	 Болезнь легче предупредить, чем лечить.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Также необходимо сохранять
-	позитивный, оптимистичный взгляд на
-	жизнь. Не стоит переживать за ошибки
-	прошлого. 
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Нужно чаще выходить на свежий
-	воздух, не сидеть дома за чтением
-	заумных книг.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>"Как стать счастливой парой"
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Вы по-настоящему любите ее?
-	В болезни и в здравии? Если да, то
-	нужно действовать. Все зависит от
-	того, насколько упорно вы будете за
-	нее бороться.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Ни в коем случае не сдавайтесь.
-	Обязательно пытайтесь снова. Даже
-	если наступят трудные времена, не
-	переключайтесь на другую женщину.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> А если дойдет до того, будьте готовы
-	отдать за нее жизнь. Ведь истинная
-	любовь - готовность к самопожертвованию.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Будьте верны своему сердцу и удаче,
-	и, в конце концов, все получится.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>"Выбирая смерть"
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Когда жизнь наполнена лишь отчаянием,
-	некоторые решают покончить с ней.
-	 Однажды и я избрал для себя такой путь.
-	 Мне казалось, что другого выхода нет.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Принятое решение стало единственным,
-	что удерживало меня в этом мире.
-	 Иногда я плакал, думая о прошлом, но
-	чаще всего я снова и снова планировал,
-	как и когда покончить с собой.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Я совершал глупые, рискованные
-	поступки. Меня это не беспокоило, ведь я
-	все равно не собирался жить, поэтому
-	сознательно шел на ситуации, сулящие
-	неприятности.
-	 Я перестал общаться с людьми и не
-	придавал значения тому, что мои
-	дружеские связи ослабевают.<SEPARATORB>
----------------
-<CENTER-PER-LINE><COLOR-BLUE>Чарли
-	Милдред
-	Скотт<SEPARATORB>
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>На трех разных высотах
-	Три иголки стоят.
-	Толстая, длинная, тонкая.
-	От медленной к быстрой
-	они вправо летят.
-	Скотт спит не на три,
-	А на пятнадцати.<SEPARATORB>
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Три разных размера, времени шаг.
-	Три юноши обогнуть солнце спешат.
-	Из них невысок и медлителен Чарли,
-	А Скотта из всех самым быстрым признали.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Сегодня полиция сообщила, что
-	Уолтер Салливан, арестованный 18-го
-	числа этого месяца за зверское
-	убийство Билли Локейна и его сестры
-	Мириам, покончил с собой в своей
-	камере ранним утром 22-го числа.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Согласно полицейскому протоколу,
-	Салливан повредил себе сонную
-	артерию, нанеся удар в шею столовой
-	ложкой. К моменту обнаружения
-	охранником Салливан скончался от
-	потери крови, а ложка была заглублена
-	в его шею на глубину пяти сантиметров.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Бывший одноклассник Уолтера
-	Салливана из Плезант-Ривер
-	рассказал: "Он не был похож на
-	человека, способного убить ребенка.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Но я припоминаю, что незадолго до
-	ареста он выдавал всякие странные
-	фразы типа "Он хочет меня убить. Он
-	жаждет возмездия. Чудовище...
-	красный дьявол. Простите меня. Я это
-	сделал, но не я управлял собой!".
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Одноклассник добавил: "Сейчас я
-	понимаю, что он был каким-то
-	помешанным".<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Добро пожаловать в Сайлент Хилл!
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Сайлент Хилл - тихий курортный городок
-	на берегу озера. Мы будем рады видеть вас.
-	Выделите немного времени из своего
-	напряженного графика и насладитесь
-	пребыванием здесь.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Ряды причудливых старинных домов,
-	потрясающий вид на горы и озеро, которое
-	открывает свои красоты весь день с
-	раннего утра до позднего вечера.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Сайлент Хилл порадует и наполнит вас
-	чувством глубокого умиротворения.
-	Надеюсь, проведенное здесь время будет
-	приятным, а воспоминания незабываемыми.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Редактор: Роджер Видмарк.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><VARIABLE-01> >><VARIABLE-02> <<<VARIABLE-03> >><VARIABLE-04><SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Дорогой Тим,
-	 мне нужно срочно уехать по делам.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Я оставил ключ от дома у дяди
-	 Дэвида. (Ты не забыл, где он живет?
-	 Ключ лежит в номере возле лестницы
-	 на первом этаже.).
-	  Пожалуйста, присмотри за домом
-	 пока меня не будет, я вернусь, как
-	 только смогу.<SEPARATORB>
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Три ярких монеты и прорезей пять
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Там с краю сидит Искуситель
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>За Узником волен ветер играть
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Бесформенный, ноль, вдалеке самобытен
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Со Змеем не хочет Старец сидеть,
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Узника хочет он лицезреть.<SEPARATORB>
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Первое место того,
-	 Кто Бесстрашен
-	 Пуст, бесподобен,
-	 бездушен и тих
-	 Рядом сидит тот,
-	 кто знает, что место
-	 Слуг возле трона
-	 хозяев своих
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Дюжины ног,
-	 но нет пальцев на них
-	 А рядом с ним
-идет тот, кто Сокрыт
-Искуситель из снов,
-порожденье Аида,
-Он далек от Мужчины,
-но к Даме он близок
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Мужчина и Женщина все примечают
-На Ворона зов взора не обращают
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Тихому с Сокрытым вдвоем повезло,
-Тебе их увидеть никак не дано
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Верни их туда,
-где даны им места,
-И благословение тогда
-снизойдет на тебя
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Я молвлю с Полярной
-Звездой за спиною,
-Рождение солнца
-есть начало истории<SEPARATORB>
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Подобно монетам,
-	что брошены были
-	в бескрайний туманный эфир
-	Под весом грехов
-	наши души нисходят
-	утратив свой свет, в этот мир
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>По «праву» грехи все свои искупая
-	Что в жизни свершили они
-	Три раза подряд запоют, исчезая
-	И станешь счастливым ты вмиг
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Их первая нота исполнена будет
-	отнюдь не Рогатым самим
-	Но рядом он — грехам всем служит
-	Источником вечным одним
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>О, Жизнь Приносящая
-	и ты, Приносящий Позор 
-	Вы оба грешны, но второму в геенне
-	помягче грозит приговор
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Неслышно Бесформенный ступает
-	Держась позади Старика
-	Душа его в страхе покоя не знает
-	познав горький привкус греха
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Не Знающий Нужд лишь притих
-	свой голод навек утолив 
-	Грехом меньше всех он сломлен
-	Всю похоть в себе подавив
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Страшная участь для грешников
-	Его в наказание ждет
-	Но если удачлив — будет помазан
-	И вечный покой обретет<SEPARATORB>
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Направо - дама.
-	Налево - старик.
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>К земле же другой между ними приник.
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Осталось теперь лишь две пустоты,
-	Ты не бойся уже,
-	Загадку решил ты.
-	Загадку решил ты.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>[Джек Дэвис]
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Трижды беспричинно предпринимал
-	попытки самоубийства. В целом
-	ведет себя адекватно и выполняет
-	предписания докторов и медсестер,
-	но требует постоянного присмотра
-	из-за внезапных и насильственных
-	попыток самоубийства в прошлом.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>[Джозеф Баркин]
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Вероятно в основе его состояния
-	лежит убеждение в том, что он
-	виновен в смерти своей дочери.
-	Симптомы указывают на психоз и
-	параноидальный бред. В обычном
-	состоянии спокоен, но в
-	стрессовых ситуациях склонен к
-	насилию.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>[Джошуа Льюис]
-
-<CENTER-PARAGRAPH><COLOR-BLUE>В истории - госпитализация,
-	многочисленные нападения, побои и
-	другие насильственные
-	преступления. Сильная мания
-	преследования и склонность решать
-	проблемы насильственным методом.
-	Следует соблюдать предельную
-	осторожность.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Это заболевание может поразить
-	любого человека, и при
-	благоприятных условиях каждый,
-	мужчина или женщина, может, подобно
-	ему, оказаться на "той стороне".
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Возможно, не стоит называть это
-	место "той стороной", поскольку
-	между "здесь" и "там" не существует
-	четкого разделения. Это место, где
-	материальное пересекается с
-	нематериальным. Оно одновременно и
-	близко, и далеко.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Некоторые утверждают, что это даже
-	не заболевание. Я с этим не
-	согласен. Я доктор, а не философ или
-	даже психиатр.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Тем не менее, я периодически
-	задумываюсь над этим.
-	Действительно, для нас его фантазии
-	- не более чем плод беспокойного
-	ума. Однако для него это
-	единственная подлинная реальность.
-	 Более того, он счастлив, пребывая
-	там.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Так почему же, спрашиваю я себя,
-	мы, во имя излечения, должны
-	насильно возвращать его в нашу
-	реальность?
-
-Что-то еще написано от руки.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Джозеф дал мне ключ.
-	Наверное, он от того сундучка.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Пин-код этого месяца - "T".
-	В прошлом месяце был "X", в
-	позапрошлом - "Z".
-	 Но что они собираются делать
-	в следующем? Больше ничего
-	нельзя составить из 4 цифр.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> И вообще, зачем так часто
-	менять комбинацию на двери
-	крыла пациентов?<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>я знаю это секрет я дам им коечто чтобы
-	они победили этого демона укрытие
-	теперь бесполезно он мой инструмент он
-	обязан подчиняться моим приказам да,
-	сундук не поможет
-
-<CENTER-PARAGRAPH><COLOR-BLUE>теперь я должен помнить об этом хорошо <VARIABLE-01>
-	что он низший теперь я тоже освобожусь
-	и он станет служить мне я гений никто
-	не сможет остановить меня никто не
-	сможет остановить меня никто не сможет
-	остановить меня не сможет остановить не
-	сможет остановить нет нет<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>я знаю я знаю число сундука
-	оно <VARIABLE-01> уже ему не поможет
-	кнопочный ключ меня не
-	пугает так что никто не
-	сможет остановить кто я я не
-	знаю кто я кто я кто я<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>9 мая
-	  Дождь.
-	  Весь день смотрел в окно.
-	  Здесь спокойно - нечего делать.
-	  Все еще не разрешают выходить наружу.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>10 мая
-	 Все еще идет дождь.
-	 Немного поговорил с доктором.
-	 Стали бы они меня спасать, если бы
-	мне не нужно было кормить семью?
-	 Я знаю, что я жалок, слаб.
-	 Не все могут быть сильными.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>11 мая
-	 Опять дождь.
-	 Сегодня тошнило от лекарств.
-	 Если мне лучше только когда я на
-	лекарствах, то кто я вообще такой?
-
-<CENTER-PARAGRAPH><COLOR-BLUE>12 мая
-	 Как обычно дождь.
-	 Не хочу никому доставлять лишние
-	хлопоты, но так или иначе я обуза.
-	 Разве так грешно - бежать, а не
-	сражаться?
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Кто-то может сказать, что грешно, но
-	им не нужно жить в моей шкуре.
-	 Возможно, это эгоистично, но это то,
-	чего я хочу.
-	 Очень тяжело.
-	 Просто очень тяжело....
-
-<CENTER-PARAGRAPH><COLOR-BLUE>13 мая
-	 На улице ясно.
-	 Доктора сообщили о мей выписке - я
-	могу идти домой.
-	 Я<LONG-LINE-PATIENTS-DIARY><SEPARATORB>
----------------
-<CENTER-PER-LINE><COLOR-BLUE><GLOBALYOFFSET-TERNNUMBERS>Крути крути крути цыфры
-	 лучше их не забыть
-	Значет я напишу их прямо тут
-	Другой, мое секретное имя<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Луиза
-	Я буду заботиться о тебе вечьна.
-	Это моя судьба!<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Она ангел никто не знает только
-	я вижу Владычицу Дверей они не
-	смогут пройти по ее Мосту из
-	нитей они падают под тяжестью
-	своих преступлений.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Их грехи как распухшие и
-	страшные трупы она пожирает и
-	грехи и грешников она спасает
-	меня она ангел.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Я взял ключ директара - он от
-	музея. Я спрятал ево за
-	малящейся женщиной, когда ходил
-	на дневную прогулку. Я забрал
-	ево, но я не крал ево. Я не
-	приступник.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Пейзаж "Набережная"
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Аллен Смит (дата рождения и смерти
-	неизвестна)
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Пейзаж этой местности в далеком прошлом. 
-	Судя по стилю может относиться к 1820 годам.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Людей тогда было мало,
-	а зданий - и того меньше.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Я даю тебе кровь во искупление 
-	трех грехов.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Озеро Толука - главная городская
-	достопримечательность.
-	 Однако это чистое и красивое озеро
-	скрывает в своей глубине одну тайну.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Эта легенда может показаться
-	банальной историей о призраках,
-	которую можно услышать в любом старом
-	городе страны.
-	 Тем не менее она имеет под собой
-	реальную основу.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> В туманный ноябрьский день 1918 года
-	прогулочный катер "Маленькая
-	баронесса", перевозивший туристов, не
-	вернулся в порт.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> В статье газеты того времени
-	упоминалось лишь, что "Судно,
-	предположительно, затонуло". Несмотря
-	на тщательные поиски, ни фрагментов
-	судна, ни 14 тел пассажиров или
-	членов экипажа не нашли.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Еще более странный случай произошел
-	в 1939 году.
-
-Много вырванных страниц.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Множество погибших покоится на дне
-	озера. Их костлявые руки воздеты к
-	проплывающим мимо судам. Возможно,
-	они тянутся к своим товарищам.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Тело мужчины, позднее опознанного как Томас Ороско (лесоруб, 39 лет), было обнаружено в комнате в положении лежа на спине.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Предполагаемой причиной сме<HIDDEN-TEXT>рти ст<HIDDEN-TEXT>али
-	множественные колото-резаные раны
-	передней поверхности шеи и левой
-	стороны туловища, нанесенные острым
-	предметом. Примерное <HIDDEN-TEXT>вре<HIDDEN-TEXT>мя смерти -
-	между 23:00 и 00:30 ночи.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> В связи с обнаружением следов борьбы
-	и отсутствием орудия убийства полиция
-	квал<HIDDEN-TEXT>ифиц<HIDDEN-TEXT>ировала произошедшее как
-	убийство и инициировала расследование.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Кроме того, учитывая тот факт, что
-	наличные деньги в комнате остались
-	нетронутыми, а г-н <HIDDEN-TEXT>Ороско<HIDDEN-TEXT>
-	злоупотреблял алкоголем и проявлял
-	агрессию, полиц<HIDDEN-TEXT>ия подозр<HIDDEN-TEXT>евает, что
-	убийство было <HIDDEN-TEXT>сове<HIDDEN-TEXT>ршено не с целью
-	ограблени<HIDDEN-TEXT>я, а в<HIDDEN-TEXT> состоянии <HIDDEN-TEXT>аффе<HIDDEN-TEXT>кта. <SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Он совершил ужасное преступление.
-	Он превратил счастливый дом в
-	кучу пепла.
-	За это он должен умереть. 
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Они тоже совершали преступления.
-	Они старались обмануть и
-	обхитрить других.
-	Поэтому их награда тоже
-	закономерна.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Даже он не сможет получить
-	прощение,
-	Мой друг без левой руки.
-	Поэтому его смерть меня не
-	волнует.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>А что же он?
-	Он тоже не безгрешен.
-	Здесь есть только один
-	невиновный.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Пропавшего ребенка не нашли,
-	Поэтому не было доказательств его
-	вины.
-	Его смерть стала трагедией.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Это все, что я хочу сказать.
-	Это не было ни правосудием, ни
-	возмездием.<SEPARATORB>
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Мертвецы, мертвецы
-	на дереве висят
-	Сколько мертвецов
-	твой замечает взгляд?
-	Посинели языки
-	и лица посерели
-	Смотри же, как они
-	качаются на древе
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Первый из них убил мясника
-	И на сковородке зажарил слегка
-	Его подал в блюде голодным гостям
-	Добавки подложил по просьбе им сам
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Второй с улыбкой и мешочком сластей
-	С улицы крал очень бедных детей
-	И людям, что были одеты ужасно,
-	Он их продавал в ужасное рабство
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Вломившись как-то ночью в дом
-	Был жутким страхом скован вор
-	Хлебнувши для храбрости эля стакан
-	Утро в тюрьме повстречал тот болван
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Художник умелой своею рукой
-	Рисовать стал банкноты одну за другой
-	Преступник был найден во время дождя
-	Когда все чернила размыла вода
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Огромные прибыли всем обещая
-	И деньги чужие легко получая
-	Он тут же куда-то с глаз пропадал
-	И больше никто его не видал
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Три дома однажды сгорели дотла
-	Шериф долго думал, чья это вина
-	За странником в городе он проследил
-	Во всем обвинил и в тюрьму посадил
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Мертвецы, мертвецы
-	На дереве висят
-	Сколько мертвецов
-	твой замечает взгляд?
-	Шесть футов в длину,
-	шесть людей в ширину
-	Шесть петель
-	вокруг их шей<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Я не хочу умирать, но завтра
-	мне предстоит преодолеть
-	тринадцать ступеней.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Пожалуйста, объясните, почему я
-	должен умереть утром?
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Человек, заключенный вместе со
-	мной, согласился: "Потому что
-	они все психи, вот почему", -
-	сказал он. Я знаю, что его
-	мнение ничего не изменит.
-	"Теперь ты знаешь, почему я на
-	них напал", - пробормотал он.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Человек, которого казнили
-	вчера, утверждавший, что продает
-	мечты, говорил, что это неправда.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Но человек, которого казнят
-	послезавтра за кражу детей,
-	прокричал, что это правда.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Человек, которого повесили
-	сегодня, не отвечал. "Меня все
-	равно убьют, - сказал он. Его
-	поймали на хищении
-	государственных средств, поэтому
-	шансов на помилование не было. 
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Человек, который всегда тихо
-	улыбался, сказал: "Я счастлив,
-	ведь скоро буду с ней".
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Я не хочу умирать, я просто
-	хочу вернуться домой. Но знаю,
-	что этому не бывать. Я не сделал
-	ничего плохого, но это
-	преступление повесили на меня.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Пожалуйста, помогите мне. Это
-	не правосудие, они жаждут крови,
-	а я - их жертвенный агнец!<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Мы можем обрушить смерть на
-	голову грешника, но в чем
-	польза?
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Во имя возмездия мы участвовали
-	сегодня в трагикомедии.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Ты, подвешенный за шею,
-	Непрощенный и проклятый всеми.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Пятеро из них совершили
-	преступления, шестой пошел
-	выпить и был пойман.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Лишь один из них был невиновен,
-	но они этого не знали.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Пятна крови - доказательство их
-	вины.
-	Тропинки, проторенные таким
-	образом - пути в Ад или Пустоту.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Белые повязки, окрашенные в
-	багровый,
-	Пепелище на выжженной черной
-	земле,
-	Глухие вопли девушки.
-	Они - всего лишь бессмысленный
-	контракт.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Они - тоже признаки вины.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Но одного казнили без причины.
-	Он погиб только по вине страха и
-	разыгравшегося воображения.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Одиноко покачиваясь на конце
-	веревки, он не что иное, как
-	позор для всех нас.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Г-н Сандерленд,
-	 Видеокассета, которую вы
-	оставили здесь, хранится в офисе
-	на 1-м этаже.<SEPARATORB>
----------------
-<COLOR-BLUE>"Туманный день,
-	 апофеоз Суда"<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Коридор крыла пациентов 3-го этажа - 7335<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Я напишу все, что мне удалось
-	 узнать. Возможно, это как-то
-	 поможет.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Если вы читаете это, то скорее
-	 всего меня уже нет в живых.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Я видел тех демонов. Они там
-	 были, я уверен. Но мой друг
-	 говорит, что ничего не видел.
-	 Если это так, то значит все
-	 это было иллюзией?
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Был ли тот демон, пожиравший
-	 людей, реальным, или это была
-	 всего лишь галлюцинация,
-	 нарисованная моим
-	 воображением... Одно я знаю
-	 точно: надежды у меня больше
-	 нет.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Похоже, их привлекает свет.
-	 Поэтому люди, нуждающиеся в
-	 освещении - их естественная
-	 добыча.
-	  Кроме того, у них очень острый
-	 слух.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Если вы хотите жить, то лучше
-	 просто сидеть в темноте и
-	 молчать.
-	  Но даже это, скорее всего, вас
-	 не спасет.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Если вы собираетесь сражаться с
-	 ними, самое главное -
-	 расслабиться. Опасно в приступе
-	 паники стрелять из пистолета.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Хорошенько прицельтесь, а затем
-	 спустите курок. И не забывайте
-	 добивать их. Думаю, большинство
-	 этих существ можно убить, даже
-	 тех, что крепче людей.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Беги.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Беги! Беги! Беги!
-	 Беги! Беги! Беги!
-	 Беги! Беги! Беги!<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Если ты искренне хочешь увидеть Мэри, 
-	тебе просто нужно умереть.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Но, возможно, ты попадешь не к
-	Мэри, а в другое место, Джеймс.<SEPARATORB>
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Здесь была ДЫРА.
-	Теперь ее нет.<SEPARATORB>
----------------
-<CENTER-PER-LINE>"Там письмо и гаечный ключ."
----------------
-<CENTER-PER-LINE>"Ключ в парке".
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Тот, кто боится взгляда из бездны,
-	сам боится заглянуть в нее. 
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Истина открывается в тиши тем, кто
-	ее разыскивает.
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Следуй по карте.
-	Там письмо и гаечный ключ.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Или, возможно, ты глупец.
-	Правда обычно предает людей.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Часть этой бездны находится в
-	историческом сообществе.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Ключ к этому сообществу находится
-	в парке.
-	У подножия молящейся женщины, под
-	землей, в ящичке.
-	Чтобы открыть его, мне нужен ключ.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Мой пациент закопал его там.
-	Я знал, но ничего не сделал.
-	Мне было не по себе от того, что
-	такая вещь находится рядом.
-	Я не искал правды, я искал
-	спокойствия.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Я тоже видел его.
-	Я сбежал, но музей тоже был
-	запечатан.
-	Теперь никто не осмеливается
-	приближаться к этому месту.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Если вы и сейчас не намерены останавливаться,
-	Джеймс,
-	я молю Господа смилостивиться над
-	твоей вечной душой.<SEPARATORB>
----------------
-<CENTER-PER-LINE>"Подвал под подвалом."
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Меня заперли в подвале под
-	подвалом.
-	Там было так тесно и темно, и я
-	ужасно испугалась.
-	Я выронила свое прелестное кольцо.
-	Но я никогда, никогда не вернусь
-	туда.
-<SEPARATORB>
----------------
-<CENTER-PER-LINE>Картина 1, из камеры.
----------------
-<CENTER-PER-LINE>Картина 2, из камеры.
----------------
-<CENTER-PER-LINE>Картина 3, из камеры.
----------------
-<COLOR-BLUE>Горящий человек<SEPARATORB>
----------------
-<COLOR-BLUE>Летящая женщина<SEPARATORB>
----------------
-<COLOR-BLUE>436 человек на концерте<SEPARATORB>
----------------
-<CENTER-PER-LINE>Карта, найденная на барной стойке
----------------
-<CENTER-PER-LINE>Карта, найденная у моста
----------------
-<CENTER-PER-LINE>Дневник тюремного надзирателя
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Заключенные не раскаиваются.
-	Более того, они вообще не считают
-	себя преступниками. Даже самый
-	неученый мерзавец попытается
-	оправдаться теми немногими
-	словами, которые знает.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> А их ничтожные мечты расцветают
-	даже во тьме. Заключенные - тоже
-	не исключение.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Какой бы мерзкой и отвратительной
-	ни была собственная жизнь и
-	существование, человеческая
-	природа неизменна.<SEPARATORB>
----------------
-<CENTER-PER-LINE>Надгробный камень внутреннего сада
----------------
-<CENTER-PER-LINE>Энциклопедия растений: Акация
----------------
-<CENTER-PER-LINE>"Утраченные воспоминания"
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Вместе с тобой умерла радость.
-	Остались лишь отчаяние и
-	бессмыслие грядущих дней.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Но я никогда не сдамся.
-	Чтобы вновь увидеть твою
-	прекрасную улыбку,
-	чтобы вымолить благословение у
-	Богов.
-	Я жду этого дня.
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 115
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+
+
+Swamp Monument
+
+
+"The Road to Tomorrow"
+
+
+"How to be a Happy Couple"
+
+
+"Choosing Death"
+
+
+Wall scratches
+
+
+Three needles stand of three different heights.
+
+
+"Three different sizes, time on the run."
+
+
+Article about murder incident
+
+
+Sightseeing brochure
+
+
+Wallet in toilet bowl
+
+
+Torn photograph
+
+
+"Dear Tim"
+
+
+"Three bright coins in five holes be"
+
+
+"First lies the seat of He"
+
+
+"Like coins in the hazy aether tossed"
+
+
+"To the right is the lady."
+
+
+Patient record
+
+
+Doctor's journal
+
+
+Whiteboard graffiti
+
+
+Imprint on carbon paper
+
+
+Diary from roof
+
+
+"Tern tern tern the numbers"
+
+
+"Louise"
+
+
+"She is an angel"
+
+
+"I took the direckters's key"
+
+
+"Trick or Treat"
+
+
+"Waterfront landscape"
+
+
+Pyramid Head painting
+
+
+Inscription on gallows
+
+
+Legend of the Lake
+
+
+Blood-soaked newspaper
+
+
+"Please someone save me"
+
+
+"Dead men, dead men"
+
+
+Condemned man's diary
+
+
+"Death upon the head of the sinner"
+
+
+Receptionist memo
+
+
+Photos of trunk
+
+
+"i know it i know the number of the box"
+
+
+Memo next to corpse #1
+
+
+Memo next to corpse #2
+
+
+Memo next to corpse #3
+
+
+Memo next to corpse #4
+
+
+Memo next to corpse #5
+
+
+Memo next to corpse #6
+
+
+Newspaper from shop window
+
+
+"The missing child was nowhere"
+
+
+"Death upon the head of the sinner"
+
+
+Words written on the wall.
+
+
+Number written on the whiteboard
+
+
+Remains of XXXX Swamp
+The x meters of land surrounding this monument was originally swamp, but was later filled in. From long ago, the swamp was nicknamed Blood Swamp because the executioners poured the water used to wash the execution tools in here. Perhaps it's for that reason that many people claim to have seen ghosts in the area.
+
+
+"The Road to Tomorrow"
+ The first step to a healthy life is to avoid illness. That may sound obvious, but it's also very important.
+ Instead of working to heal yourself after you're sick, it's better to avoid getting sick in the first place.
+ Also you have to maintain a positive, optimistic outlook on life. It's no use worrying over things that have happened in the past. 
+ You've got to get outside and play in the fresh air once in a while, instead of just sitting inside reading difficult books.
+
+
+"How to be a Happy Couple"
+ Do you really love her?
+ In sickness and in health?
+ If you truly love her, then you must act. It all depends on how hard you fight for her.
+ Whatever happens, don't give up. Always try just one more time. Even though there may be hard times, never turn to another woman.
+ And if it comes to it, you must be willing to protect her with your very life. After all, true love means a willingness to sacrifice.
+ Be true to your heart and with luck, things will work out in the end.
+
+
+"Choosing Death"
+ When life is filled with nothing but despair, some people choose to end it all. 
+ I once chose that path for myself as well.
+ At the time I felt that I had no other choices.
+ After I made my decision, it became the only thing binding me into this world.
+ Sometimes I would cry to myself while thinking of the past, but mostly all I did was plan over and over again how and when I was going to kill myself.
+ I did stupid, dangerous things. I figured it didn't matter since I was going to die anyway, so I went out of my way to invite disaster.
+ I stopped talking to people and it didn't bother me even when friendships grew distant.
+
+
+Henry
+Mildred
+Scott
+
+
+Three needles stand of three different heights.
+The fat, the tall and the thin.
+From slow to fast they move to the right.
+Scott rests not on three, but fifteen.
+
+
+Three different sizes, time on the run.
+Three young men circlin' round the sun.
+Henry is short and very, very slow,
+Scott can't stop, he's always on the go.
+
+
+ The police announced today that Walter Sullivan, who was arrested on the 18th of this month for the brutal murder of Billy Locane and his sister Miriam, committed suicide in his jail cell early on the morning of the 22nd.
+ According to the police statement, Sullivan used a soup spoon to stab himself in the neck,
+severing his carotid artery.
+ By the time the guard discovered him, Sullivan was dead from blood loss, the spoon buried two inches in his neck.
+ An old schoolmate of Walter Sullivan's from his hometown of Pleasant River said "He didn't look like the type of guy who would kill kids.
+ But I do remember that just before they arrested him he was blurting out all sorts of strange stuff like 'He's trying to kill me. He's trying to punish me. The monster... the red devil. Forgive me. I did it, but it wasn't me!'."
+ The schoolmate then added "I guess now that I think of it, he was kinda crazy."
+
+
+Welcome to Silent Hill!
+ Silent Hill, a quiet little lakeside resort town. We're happy to have you. Take some time out of your busy schedules and enjoy a nice restful vacation here.
+ Row after row of quaint old houses, a gorgeous mountain landscape, and a lake which shows different sides of its beauty with the passing of the day, from sunrise to late afternoons to sunset.
+ Silent Hill will move you and fill you with a feeling of deep peace. I hope your time here will be pleasant and your memories will last forever.
+Editor: Roger Widmark
+
+
+ >> << >>
+
+
+Dear Tim,
+ I have to run an errand so I'm going out.
+ I left the house key with Uncle David (You know where he lives, don't you? The key is in the room near the first floor staircase.).
+ I'll be back as soon as I can, so please watch the place while I'm gone.
+
+
+Three bright coins in five holes be
+At one end sits the Seducer of she
+The wind from behind the woman doth play
+The Formless One, Null, lies furthest from they
+The Old One beside the Serpent sits not.
+Tis to the Prisoner's left that he doth rot
+
+
+First lies the seat of
+He who is Peerless
+Silent and empty, heartless and fearless
+Beside him sits one who knows
+The place of the servant is next to the throne
+
+Dozens of feet, yet not a single toe
+The One that is Hidden beside him doth go
+Seducer of dreams, creature of Hades
+Lying further from Man and closer to Lady
+
+Man and Woman seeing all
+Heedless to the Raven's call
+
+Silent and Hidden the two may be
+They be not there for you to see
+
+Return them to whence they would be
+And blessing shall descend on thee
+
+I speak thus with the North Star behind me
+The birth of the sun is the start of the story
+
+
+Like coins in the hazy aether tossed
+Our souls must by their sinful weight
+Descend to earth with lightness lost
+
+To "right" the sins that they hath laid
+When thrice in falling they intone
+Then Happiness shall be thy own
+
+The first note be not by the Horned One rung
+Though it be there that all sins be sprung
+
+The Bringer of Life and the Bringer of Shame 
+The sins of the latter be ever more tame
+
+Though coming in the Aged One's wake
+The Formless One's soul in fear doth quake
+
+The Needless One, silent, with hungers all sated 
+Is least then in sin with his lusts all abated
+
+For the gravest of sinners
+His place be appointed
+And if he be lucky
+May his soul be anointed
+
+
+To the right is the lady.
+To the left is the old one.
+In the center crawls the other.
+Now just two spaces remain,
+But fear not for now,
+The puzzle is done.
+The puzzle is done.
+
+
+[Jack Davis]
+He has attempted suicide three times in the past for reasons unknown. Although he is normally a model patient who follows doctor's and nurse's orders, he must be watched closely due to his past pattern of sudden and violent suicide attempts.
+[Joseph Barkin]
+His illness seems to be rooted in the fact that he believes he is guilty of causing his daughter's death. His symptoms suggest a psychotic break and paranoid delusions. Normally calm, but has a tendency towards violence when excited.
+[Joshua Lewis]
+History of hospitalization as well as numerous assault, battery and other violent offenses. He has a strong persecution complex and a tendency to solve things through violence. Extreme caution necessary.
+
+
+ The potential for this illness exists in all people and, under the right circumstances, any man or woman would be driven, like him, to "the other side."
+ The "other side" perhaps may not be the best way to phrase it.
+ After all, there is no wall between here and there. It lies on the borders where reality and unreality intersect. It is a place both close and distant.
+ Some say it isn't even an illness. I cannot agree with them. I'm a doctor, not a philosopher or even a psychiatrist.
+ But sometimes I have to ask myself this question. It's true that to us his imaginings are nothing but the inventions of a busy mind. But to him, there simply is no other reality.
+ Furthermore he is happy there.
+ So why, I ask myself, why in the name of healing him must we drag him painfully into the world of our own reality?
+Something else is written by hand.
+I got the key from Joseph. It's probably the key to that box.
+
+
+ The pin number this month is "T". Last month it was "X" and before that it was "Z."
+ But what are they going to do next month? That's all they can express with 4 numbers.
+ Anyway does the door to the Patient Wing really need to have its combination changed this often?
+
+
+i know it the secret i'll give them something to deal with this demon shelter is of no use any more he is my instrument he must follow my orders yes, the box will be useless now i must not forget it that's good he is the lowest now i too will be free and he will serve me i am a genius no one can stop me one can stop me no one can stop me can stop can stop no no
+
+
+i know it i know the number of the box it cant help him anymore the button key doesnt scare me so nobody can stop who i am i dont know who i am is who i am is who i am is
+
+
+May 9
+ Rain.
+ Stared out the window all day.
+ Peaceful here - nothing to do.
+ Still not allowed to go outside.
+May 10
+ Still raining.
+ Talked with the doctor a little.
+ Would they have saved me if I didn't have a family to feed?
+ I know I'm pathetic, weak.
+ Not everyone can be strong.
+May 11
+ Rain again.
+ The meds made me feel sick today.
+ If I'm only better when I'm drugged, then who am I anyway?
+May 12
+ Rain as usual.
+ I don't want to cause any more trouble for anyone, but I'm a bother either way.
+ Can it really be a such a sin to run instead of fight?
+ Some people may say so, but they don't have to live in my shoes.
+ It may be selfish, but it's what I want.
+ It's too hard like this.
+ It's just too hard....
+May 13
+ It's clear outside.
+ The doctors told me I've been released - that I've got to go home.
+ I
+
+
+Tern tern tern the numbers better not forget them
+So I'll right them down here
+The other one, my secret name
+
+
+Louise
+I'll take care of you four ever.
+It's my destiny!
+
+
+She is an angel no one knows only I can see the Lady of the Door they cannot walk along her Bridge of Thread they fall from the weight of their crimes.
+Like bloated and ugly corpses their sins she devours them sin and sinner alike she saves
+me she is an angel.
+
+
+I took the direckters's key - the one to the mooseum. I hid it behind the preying woman when
+I went out for the day trip. I picked it up but I did not steal it. I'm not a krimminal.
+
+
+"Waterfront landscape"
+Allen Smith (Date of birth and death unknown)
+A scene of this area from long ago. 
+From the style, it looks like it was done sometime around 1820.
+There were a lot fewer people then, and only a handful of buildings.
+
+
+I give you blood to atone for the Three Sins.
+
+
+Toluca Lake, the town's main tourist attraction.
+ This clear, beautiful lake has another side as well.
+ It may seem like just a typical ghost story that you might find in any number of old towns
+across the country.
+ But in this case, the legend is true.
+ On a fog-bound November day in 1918, the Little Baroness, a ship filled with tourists, failed to return to port.
+ A newspaper article from back then simply says "It most likely sunk for some reason". Despite
+an extensive police search, not a single fragment of the ship nor any of the 14 bodies of passengers or crew has ever been recovered to this day.
+ In 1939, an even stranger incident occurred.
+There are many pages torn out.
+ Many corpses rest at the bottom of this lake. Their bony hands reach up towards the boats that pass overhead. Perhaps they reach for their comrades.
+
+
+The body of a man later identified as Thomas Orosco (Lumberjack, age 39) was discovered in the middle of his room lying face up.
+ The probable cause of death was multiple stab wounds to the front of the neck and the left side of the torso by a sharp edged weapon. The estimated time of death was somewhere between 11:00 p.m. and 12:30 midnight.
+ Due to signs of struggle in the room and the lack of a murder weapon, police are considering
+this a homicide and have opened a murder investigation.
+ Furthermore, given the fact that the cash in the room was untouched and Mr. Orosco had a history of drunkenness and violence, the police suspect that the motive was not robbery but some sort of crime of passion. 
+
+
+He committed an evil crime. He turned a happy home into a pile of ash. For that, he should die. They also committed crimes. They tried to fraud and trick others. So their reward too is natural. Even he cannot be forgiven, My friend without his left hand. And so his death bothers me not. And what of him? He also is not sinless. There is only one here who is innocent. The missing child was nowhere to be found, And so there was no proof of his guilt. His death was a tragedy. That is all I wish to say. It was neither justice nor retribution.
+
+
+Dead men, dead men swinging in a tree
+How many dead men do you see?
+Tongue turned blue and face gone grey
+Watch them as they twist and sway
+
+The first one killed the butcher man
+Then cooked him in the frying pan
+Served him to his hungry guests
+And gave them seconds on request
+
+The next one with his smile and sweets
+Stole poor children off the streets
+To men who dressed unsavory
+He sold them into slavery
+
+Breaking into a home at night
+The thief he had a nasty fright
+Filled his foolish head with ale
+Woke in the morn in the county jail
+
+The artist with his daunting skill
+Tried his hand at painting bills
+But caught in rain he was undone
+When the ink he'd use did start to run
+
+With promises of great return
+Taking gold he did not earn
+Bundled it up out of sight
+Quietly slipped off into night
+
+Three houses into ashes burned
+The sheriff with no place to turn
+Did spy a stranger to his town
+Locked him up and beat him down
+
+Dead men, dead men swinging in a tree
+How many dead men do you see?
+Six feet long and six men wide
+Round their necks the noose be tied
+
+
+ I do not wish to die.
+ But tomorrow I will climb the thirteen steps.
+ Please someone - answer me, Why must I die come the morning?
+ The man imprisoned beside me believed me. "Because they're all insane, that's why," he said.
+ Of course I know his opinion will change nothing. "Now you know why I struck out at them," he muttered.
+ The man who was executed yesterday, the one who had said his job was to sell dreams, said that was not true.
+ But the man who is to be executed the day after tomorrow for stealing children shouted back that it was true.
+ The man who was hung today did not answer. "They'll kill me either way," he said. He was caught embezzling public money, so he hasn't any hope for mercy. 
+ The man who is always quietly smiling to himself said "I am happy for I will soon be with her."
+ I do not wish to die.
+ I long only to return home.
+ But I know it is not to be.
+ Though I have done nothing, this crime has been thrust upon me.
+ Someone save me. This is not judgement. They are bloodthirsty and I am their sacrificial lamb!
+
+
+We may visit death upon the head  of the sinner but to what avail? In the name of retribution, we took part in a bitter comedy this day. You, hanging as you do, by your neck, Unforgiven and cursed by all. Five of them committed crimes, six went out for a drink and were captured there. Only one of them was innocent, but they knew not that. The bloodstains remaining are proof of their guilt. Trodden upon and thus created, they are the paths to Hell or the Void. The white bandages stained with crimson, The remains upon the scorched black earth, The whispered cries of
+the maiden. They are but a meaningless contract. They are also signs of guilt. But one of them was done without reason. It was done out of fear and a ripe imagination. Spinning alone at the
+end of a rope, it is nothing less than a disgrace to us all.
+
+
+Mr. James Sunderland,
+ The videotape you forgot here is being kept in the office on the 1st floor.
+
+
+"Misty day, remains of the Judgment"
+
+
+3rd floor patient wing hall - 7335
+
+
+I'm going to write everything that I've learned so far. Maybe that will help you out somehow. If you're reading this, it probably means I'm already dead.
+
+
+I saw those demons. They were there, I'm certain. But my friend says he didn't see anything.
+If that's true, does that mean that what I saw was an illusion? But whether that demon that
+ate human beings was real, or whether it was just some kind of hallucination that my mind dreamed up... one thing I know for sure is that I'm beyond all hope.
+
+
+ It seems that they're attracted to light. That's why people who need light to see are their natural prey.
+ They also react strongly to sound.
+ If you want to go on living, you'd be better off just sitting in the dark and staying quiet.
+ But even that probably won't save you.
+
+
+If you're going to try to fight them, the most important thing is to relax. It's dangerous to fire a gun while you're all crazy with fear. Take good aim, and then squeeze the trigger. And don't forget to finish them off. I think most of those creatures can be killed, even if they are tougher than people.
+
+
+Run away.
+
+
+Run away! Run away! Run away!
+Run away! Run away! Run away!
+Run away! Run away! Run away!
+
+
+If you really want to see Mary, you should just die. But you might be heading to a different place than Mary, James.
+
+
+There was a HOLE here. It's gone now.
+
+
+"There's a letter and a wrench."
+
+
+"The key is in the park."
+
+
+He who is not bold enough to be stared at from across the abyss is not bold enough to stare into it himself. The truth can only be learned by marching forward. Follow the map. There's a letter and a wrench.
+
+
+Or perhaps you are a fool. The truth usually betrays people.
+A part of that abyss is in the old society.
+The key to the society is in the park. At the foot of the praying woman, inside of the ground, inside of a box. To open it, I need a wrench.
+My patient buried it there. I knew, but did nothing. It made me uneasy to have such a thing near. I wasn't looking for the truth, I was looking for tranquility.
+I also saw that thing. I fled, but the museum was sealed as well. Now no one dares to approach that place.
+If you still do not wish to stop, James, I pray to the Lord to have mercy on your eternal soul.
+
+
+"The basement's basement."
+
+
+I was locked up inside the basement's basement.
+It was so small and dark and I was so afraid.
+I dropped my precious ring.
+But I will never, ever go back there.
+
+
+Painting 1, from cell.
+
+
+Painting 2, from cell.
+
+
+Painting 3, from cell.
+
+
+Burning Man
+
+
+Woman in Flight
+
+
+436 People at a Recital
+
+
+Map found on bar
+
+
+Map found near bridge
+
+
+Prison guard's diary
+
+
+ Prisoners do not feel remorse. In fact, they do not feel themselves to be villains at all. Even the most uneducated brute will use what little words he knows to justify himself.
+ And such trifling dreams they have, flourishing even in the darkness. Prisoners, too, are no exception.
+ No matter how foul nor loathsome one's own life and existence may be, human nature is abiding. 
+
+
+Inner Garden Tombstone
+Надгробный камень внутреннего сада
+
+
+Plant Encyclopedia: Acacia
+Энциклопедия растений: Акация
+
+
+"Lost Memories"
+"Утраченные воспоминания"
+
+
+Along with you died joy.
+All that remains is despair and a future of meaningless tomorrows.
+But I will never give up.
+One, to see your beautiful smile again.
+One, to beg the blessings of the Gods.
+I wait for that day.
+When the boards cover all
+All sadness too will be covered
+But until my dreams return to reality
+I will have to swallow all the pain.
+Вместе с тобой умерла радость.
+Остались лишь отчаяние и бессмыслие грядущих дней.
+
+Но я никогда не сдамся.
+Чтобы вновь увидеть твою прекрасную улыбку,
+чтобы вымолить благословение у богов.
+Я жду этого дня.
  
-<CENTER-PARAGRAPH><COLOR-BLUE>Когда пластины все покроют
-	Вся печаль тоже будет покрыта
-	Но пока мои мечты не вернутся
-	в реальность
-	Мне придется смириться с болью.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Акация
+Когда пластины все покроют
+Вся печаль тоже будет покрыта
+Но пока мои мечты не вернутся в реальность
+Мне придется смириться с болью.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Род вечнозеленых деревьев трибы
-	мимозовых семейства бобовых.
-	 Маленькие желтые или белые
-	цветы образуют соцветия. Среди
-	распространенных разновидностей
-	- "эвкалиптовое дерево".
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Дерево акации является важным
-	символом во многих религиях мира.
-	В христианстве оно олицетворяет
-	вечную жизнь и нравственность. 
+Acacia
+ A genus of evergreen trees of the mimosa tribe of the pea family.
+ Its tiny flowers are yellow or white and grow in clusters. Common varieties include the "gum tree."
+ The Acacia Tree is a potent symbol in many religions across the world.
+In Christianity it represents eternal life and morality. 
+ In ancient Egypt it represented purity and rebirth, while in ancient Babylonia it was thought of as the tree of the Goddess Ishtar and was a symbol of Life.
+ It was also a holy tree to the ancient Jews, who built the sacred Ark of the Covenant from it and for whom it signified a peaceful death and a release from grief.
+Акация
 
-<CENTER-PARAGRAPH><COLOR-BLUE> В Древнем Египте оно олицетворяло
-	непорочность и перерождение, а в
-	Древней Вавилонии считалось
-	деревом богини Иштар и
-	символизировало Жизнь.
+Род вечнозеленых деревьев трибы мимозовых семейства бобовых.
+ Маленькие желтые или белые цветы образуют соцветия. Среди распространенных разновидностей - "эвкалиптовое дерево".
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Это дерево было священным для
-	древних иудеев, построивших из
-	него священный Ковчег Завета, и
-	для которых оно означало мирную
-	смерть и избавление от скорби.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>"Утраченные воспоминания"
+ Дерево акации является важным символом во многих религиях мира.
+В христианстве оно олицетворяет вечную жизнь и нравственность.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Я твердо верю - можно даже сказать,
-	фанатично верю - в чудо под
-	названием "Воскресение из мертвых".
+ В Древнем Египте оно олицетворяло непорочность и перерождение, а в Древней Вавилонии считалось деревом богини Иштар и символизировало Жизнь.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>На холме,
-	куда спустился свет,
-	Зверь запел свою песню.
-	Слова крови,
-	капли тумана и
-	сосуд ночи
-	превратили могилу в открытое поле. 
+ Это дерево было священным для древних иудеев, построивших из него священный Ковчег Завета, и для которых оно означало мирную смерть и избавление от скорби.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Люди рыдали в страхе и радости от 
-	воссоединения, но моя вера в
-	спасение Ксучильпабы не
-	поколебалась.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Об этом также гласят древние
-	легенды. Первопоклонники верили в
-	то, что смерть - это не конец, а
-	просто путь, по которому усопший
-	возвращается к природе. Они также
-	считали, что этот процесс обратим.
+"Lost Memories"
+I have the strongest trust -- you may even call it faith -- in the miracle called "Resurrection of the Dead."
+Upon the hill where the light descended, the Beast intoned his song. With words of blood,
+drops of mist and the vessel of night, the grave become an open field. 
+The people wept in fear and joy at the reunion, but my faith in the salvation of Xuchilpaba did not waver.
+It is also spoken of in the ancient legends. The original worshippers did not believe that death was the end but that it was simply the path by which the deceased returned to nature. They also believed the process was reversible.
+There's something imprinted towards the bottom of the page.
+Blood = Red,
+Mist = White,
+Night = Black
+"Утраченные воспоминания"
+
+Я твердо верю - можно даже сказать, фанатично верю - в чудо под названием "Воскресение из мертвых".
+
+На холме,
+куда спустился свет,
+Зверь запел свою песню.
+Слова крови,
+капли тумана и
+сосуд ночи
+превратили могилу в открытое поле.
+
+Люди рыдали в страхе и радости от воссоединения, но моя вера в спасение Ксучильпабы не поколебалась.
+
+Об этом также гласят древние легенды. Первопоклонники верили в то, что смерть - это не конец, а просто путь, по которому усопший возвращается к природе. Они также считали, что этот процесс обратим.
 
 Внизу страницы что-то приписано.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Кровь = Красная,
-	Мгла = Белая,
-	Ночь = Черная<SEPARATORB>
+Кровь = Красная,
+Мгла = Белая,
+Ночь = Черная

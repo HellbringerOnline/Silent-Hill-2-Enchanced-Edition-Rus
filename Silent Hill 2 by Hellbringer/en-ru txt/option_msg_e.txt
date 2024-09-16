@@ -195,11 +195,11 @@ Set weapon stance type
 
 
 Press
-Удержание
+Удержание кнопки
 
 
 Switch
-Переключение
+Нажатие кнопки
 
 
 Blood Color
@@ -290,7 +290,7 @@ Off
 
 
 Normal
-Нормальный (Стандарт)-
+Нормальный
 
 
 Reverse
@@ -352,11 +352,11 @@ Control Type
 
 
 Rotational Style
-Поворотный стиль (Вращение)
+Поворот
 
 
 Directional Style
-Направленный стиль (Направление)
+Направление
 
 
 Select control type
@@ -400,11 +400,11 @@ Zoom Out
 
 
 Noise Effect
-Эффект шума
+Шум
 
 
 Set screen noise effect
-Установка эффекта шума на экране
+Включение эффекта шума на экране
 
 
 Sets default size for map display
@@ -734,11 +734,11 @@ Simple
 
 
 Complex
-Комплексный
+Сложный
 
 
 Advanced Filters
-Расширенные фильтры (Доп. фильтры)
+Расширенные фильтры
 
 
 Software 3D Sound
@@ -845,7 +845,7 @@ Enable Dolby Digital 5.1 sound
 
 
 Enable lens flare effects
-Включение эффектов бликов на линзах
+Включение эффектов бликов
 
 
 Enable high resolution textures

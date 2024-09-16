@@ -27,11 +27,11 @@ Adjust screen brightness
 
 
 Adjust until vertical lines appear faint.
-Настраивайте, пока вертикальные линии не станут едва заметными.
+Вертикальные линии должны быть едва заметными.
 
 
  §!" є!$ Л!$ є!& Б!$
-
+Уровень
 
 
 Control Options
@@ -107,7 +107,7 @@ Option
 
 
 RESET
-СБРОС (ПО УМОЛЧАНИЮ)
+ПО УМОЛЧАНИЮ
 
 
 Screen Position
@@ -243,7 +243,7 @@ Walk/Run Control
 
 
 Set movement to walk/run
-Установка Переключение движения на ходьбу/бег (Выбор основного типа передвижения)
+Установка основного типа передвижения
 
 
 Auto Aiming
@@ -319,8 +319,8 @@ Language
 Язык
 
 
-Select game language (Смена языка субтитров в игре)
-Выберите язык игры
+Select game language
+Выбор языка игры
 
 
 Japanese
@@ -408,7 +408,7 @@ Set screen noise effect
 
 
 Sets default size for map display
-Установка размера отображения карты по умолчанию
+Установка отображаемого масштаба карты
 
 
 Aim right
@@ -484,7 +484,7 @@ Run / Guard:
 
 
 Search Mode:
-Режим поиска: (Осмотреться:)
+Режим обзора:
 
 
 Inventory:
@@ -492,7 +492,7 @@ Inventory:
 
 
 Light On / Off:
-Включить / Выключить свет: (Фонарь вкл/выкл:)
+Включить фонарь:
 
 
 Map:
@@ -500,7 +500,7 @@ Map:
 
 
 Use Health:
-Восстановить здоровье: (Исп. лекарство:)
+Восстановить здоровье:
 
 
 Aim Lock:
@@ -520,7 +520,7 @@ Reload:
 
 
 Un-Equip Weapon:
-Снять оружие: (Убрать оружие:)
+Убрать оружие:
 
 
 Quick Save:
@@ -564,15 +564,15 @@ Cancel:
 
 
 Skip / Pause:
-Пропуск / Пауза: (Пропустить/Пауза:)
+Пропуск / Пауза:
 
 
 Run / Guard:
-Бег / Охрана: (Бег/Блок:)
+Бег / Блок:
 
 
 Search Mode:
-Режим поиска: (Осмотреться:)
+Режим обзора:
 
 
 Inventory:
@@ -580,7 +580,7 @@ Inventory:
 
 
 Light On / Off:
-Включить / Выключить свет: (Фонарь вкл/выкл:)
+Включить фонарь:
 
 
 Map:
@@ -588,7 +588,7 @@ Map:
 
 
 Use Health:
-Восстановить здоровье: (Исп. лекарство:)
+Восстановить здоровье:
 
 
 Aim Lock:
@@ -608,7 +608,7 @@ Reload:
 
 
 Un-Equip Weapon:
-Снять оружие: (Убрать оружие:)
+Убрать оружие:
 
 
 Quick Save:
@@ -620,7 +620,7 @@ Quick Load:
 
 
 Reset
-Сброс (По умолчанию)
+По умолчанию
 
 
 ???
@@ -773,11 +773,11 @@ Game Options
 
 
 View extra gameplay options
-Просмотр дополнительных параметров игры
+Просмотр дополнительных параметров
 
 
 View graphic and sound options
-Просмотр графических и параметров опций
+Просмотр графических параметров
 
 
 Lens Flare
@@ -845,7 +845,7 @@ Enable Dolby Digital 5.1 sound
 
 
 Enable lens flare effects
-Включение эффектов бликов
+Включение эффекта бликов
 
 
 Enable high resolution textures

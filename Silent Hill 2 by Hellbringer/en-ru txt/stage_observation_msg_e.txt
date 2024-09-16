@@ -19,7 +19,7 @@ I can't go any further by car. Guess I'll have to walk...
 
 
 There's a map in the car. It might be a good idea to take it.
-Карта. Было бы неплохо взять ее.
+В машине лежит карта. Было бы неплохо взять ее.
 
 
 There's nothing else worth taking.

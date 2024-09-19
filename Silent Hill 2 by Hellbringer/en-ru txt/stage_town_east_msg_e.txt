@@ -11,21 +11,19 @@ BEGIN_SOURCE:
 
 
 There's no reason to go back. I'm going to look for Mary....
-Нет смысла возвращаться. Я собираюсь искать Мэри....
+Незачем возвращаться. Я хочу найти Мэри.....
 
 
 The road is blocked. I can't go any further this way. I can't make it to the park this way. I'll have to find another way.
-Дорога заблокирована. Дальше по ней не проехать(пройти?).
-Я не смогу добраться до парка этим путем. Придется искать другой.
+Дорога заблокирована. Так до парка не добраться. Придется искать обходной путь.
 
 
 There's been a cave-in on the road. I can't go any further this way. I can't make it to the park this way. I'll have to find another way.
-Дорога обвалилась. Дальше по ней не проехать(пройти?).
-Я не смогу добраться до парка этим путем. Придется искать другой.
+Дорога обвалилась. Так до парка не добраться. Придется искать обходной путь.
 
 
 Dead.... Could it have been that creature...? What's going on in this town...?
-Мертв.... Это и есть то существо...?
+Мертв.... Убит этим существом...?
 Что творится в этом городе...?
 
 
@@ -35,7 +33,7 @@ Remains of XXXX Swamp
 The x meters of land surrounding this monument was originally swamp, but was later filled in.
 From long ago, the swamp was nicknamed Blood Swamp because the executioners poured the water used to wash the execution tools in here.
 Perhaps it's for that reason that many people claim to have seen ghosts in the area.
-На нем что-то написано.
+Тут что-то написано.
 Жаль, не могу прочитать, поверхность стерлась.
 meme_msg_e 213
 
@@ -49,8 +47,8 @@ meme_msg_e 213
 
 I can't escape right now.
 It's dangerous to turn my back on this monster.
-Я не могу сбежать прямо сейчас.
-Опасно поворачиваться спиной к этому монстру.
+Сбежать не получится.
+Опасно поворачиваться спиной к монстру.
 
 
 
@@ -67,7 +65,7 @@ It's not human...
 
 
 Oh yeah.
-Ах да.
+Ах да!
 
 
 ...This thing broken?
@@ -95,7 +93,7 @@ What the ...?
 
 
 I'd better take it anyway. I might need it.
-Лучше его взять. Оно мне может понадобиться.
+Лучше его забрать. Вдруг пригодится.
 
 
 I got the apartment gate key.

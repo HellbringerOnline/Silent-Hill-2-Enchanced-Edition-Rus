@@ -271,7 +271,7 @@ Apartment gate key
 
 
 Old-looking key that I found in town.
-Старый на вид ключ, найденный в городе.
+Старый на вид ключ, найден в городе.
 
 
 Key to room 202

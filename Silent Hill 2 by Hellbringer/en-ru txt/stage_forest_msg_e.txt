@@ -89,7 +89,7 @@ Okay I got it. I'll be careful.
 
 
 I'm not lying.
-Я не вру.
+Я не вру!
 
 
 No, I believe you.
@@ -122,7 +122,7 @@ Someone... very important to me. I'd do anything if I could be with her again.
 Me too. I'm looking for my mama... I mean my mother. It's been so long since I've seen her. I thought my father and brother were here, but I can't find them either... I'm sorry... It's not your problem.
 Я тоже. Я ищу свою маму... То есть свою мать.
 Мы так давно с ней не виделись.
-Я думала, что мой отец и брат здесь, но я тоже не могу их найти...
+Я думала, что мой отец и брат здесь, но их я тоже не могу найти...
 Простите... Это не ваша забота.
 
 

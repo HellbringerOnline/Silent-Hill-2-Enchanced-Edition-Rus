@@ -20,7 +20,7 @@ memo_msg_e 300
 
 
 A sightseeing brochure for the town is lying here.
-Здесь лежит брошюра с достопримечательностями города.
+Брошюра с достопримечательностями города.
 
 
 It wasn't me!
@@ -118,7 +118,7 @@ I think you better get out of here soon.
 
 
 Yeah yer right. What about you?
-Да, ты прав. А что будешь делать ты?
+Да, ты прав. А ты?
 
 
 I'll leave as soon as I'm done here.
@@ -142,7 +142,7 @@ Eddie, are you okay?
 
 
 Yeah I guess...
-Да, наверное...
+Да, кажется...
 
 
 Are you still here?
@@ -166,7 +166,7 @@ Yeah, I know but...
 What the...?
 Who could have done this...
 Что за...?
-Кто способен на такое...
+Кто мог сотворить такое...
 
 
 The wall is covered with football posters and meaningless graffiti. I could care less about either of them.

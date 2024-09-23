@@ -35,7 +35,7 @@ Apt. bldg. SW staircase
 
 
 Apt. bldg. 2nd floor room
-Здание апартаментов. Номер на 2-м этаже.
+Здание апартаментов. Номер на 2-м этаже.//
 
 
 West Apt. bldg. 1st floor room

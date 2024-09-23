@@ -205,14 +205,14 @@ No... I'm not like you.
 
 Are you afraid?
 I, I'm sorry.
-Ты что, боишься?
+Ты боишься?
 П-прости.
 
 
 It's okay...
 Did you find your mother?
-Все нормально...
-Ты нашла свою маму?
+Все хорошо...
+Ты нашла свою мать?
 
 
 Not yet... She's not anywhere.
@@ -366,23 +366,21 @@ The door won't open. Some power is holding the door closed from the other side.
 
 
 There's nothing in the bookshelf that looks like it would be of any use.
-На книжной полке(в книжном шкафу? металл) ничего, что могло бы хоть как-то пригодиться.
+В книжном шкафу ничего, что могло бы хоть как-то пригодиться.
 
 
 A stuffed animal.
 It probably belonged to the kid that used to live here.
 Мягкая игрушка.
-Наверное, она принадлежало ребенку, жившему здесь раньше.
+Наверное, она принадлежала ребенку, жившему здесь раньше.
 
 
 A painting is displayed here. There's nothing of particular interest.
-Картина.
-Ничего особо интересного.
+Картина. Ничего особо интересного.
 
 
 There are magazines on the floor. There's nothing unusual here.
-На полу лежат журналы.
-Ничего необычного.
+Журналы. Ничего необычного.
 
 
 Doesn't look like there's anything useful here.

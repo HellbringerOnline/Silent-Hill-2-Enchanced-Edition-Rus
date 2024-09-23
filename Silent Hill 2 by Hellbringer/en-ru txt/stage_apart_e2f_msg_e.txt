@@ -70,14 +70,12 @@ memo_msg_e 278
 
 The clock is stopped at :
 and 15 seconds.
-Часы остановились на :
-и 15 секундах.
+Часы остановились на : и 15 секундах.
 
 
 
 The clock is stopped at : and 15 seconds. The face plate is closed. It is locked. I can't touch the needles of the clock like this.
-Часы остановились на :
-и 15 секундах.
+Часы остановились на : и 15 секундах.
 Лицевая панель закрыта.
 До стрелок не достать.
 
@@ -223,11 +221,11 @@ There's nothing that looks to be of use.
 
 
 The body of a dead butterfly is on the ground. There's nothing else of interest here.
-На полу(кровати? металл) лежит мертвая бабочка. Больше ничего интересного.
+Мертвые бабочки на кровати. Больше ничего интересного.
 
 
 There's nothing inside the cage.
-В клетке пусто. (пустые клетки металл.)
+Пустые клетки.
 
 
 Just a normal washing machine.

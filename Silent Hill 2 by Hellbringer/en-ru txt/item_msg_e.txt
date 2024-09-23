@@ -95,7 +95,7 @@ Health drink(s)
 
 
 Restores energy by providing nourishment. Effects are fairly mild.
-Восстанавливает силы, питая организм. Довольно слабый эффект.
+Восстанавливает силы, питая организм. Слабый эффект.
 
 
 First-aid kit(s)
@@ -287,7 +287,7 @@ Clock key
 
 
 There's a small clock at the end of the key. It was in a hole in the wall in room 202.
-На конце ключа есть маленькие часы. Был в дыре в стене номера 202.
+На конце ключа маленькие часы. Был в дыре в стене номера 202.
 
 
 Courtyard key
@@ -295,7 +295,7 @@ Courtyard key
 
 
 Key to door which leads from the westside stairway hall to the courtyard.
-Ключ к двери, ведущей c западной лестничной клетки во внутренний двор.
+Ключ к двери во внутренний двор.
 
 
 Fire escape key
@@ -303,7 +303,7 @@ Fire escape key
 
 
 Key to door leading from hallway to fire escape. Found in 3rd floor hall.
-Ключ от двери, ведущей из коридора на пожарную лестницу. Найден в коридоре 3-го этажа.
+Ключ от двери пожарную лестницу. Найден в коридоре 3-го этажа.
 
 
 Lyne house key
@@ -311,7 +311,7 @@ Lyne house key
 
 
 It was in the coin puzzle desk. The tag on it says "Lyne".
-Лежал в столе с загадкой с монетами. На бирке написано "Лайн".
+Лежал в столе с загадкой с монетами. Надпись на бирке: "Лайн".
 
 
 Apartment stairway key
@@ -691,7 +691,7 @@ The blade is stained with something red.
 
 
 Now that I think of it, there was a big clock in room 208...
-Теперь я думаю о том, что в номере 208 были большие часы...
+Кажется, в номере 208 были большие часы...
 
 
 The reverse side of the coin is a crescent moon.
@@ -707,7 +707,7 @@ This prisoner looks like a woman.
 
 
 It says "courtyard".
-Здесь написано "внутренний двор".
+Надпись: "внутренний двор".
 
 
 I got my hand stepped on the first time I tried to get this. I wonder what happened to that kid...?
@@ -723,7 +723,7 @@ There was a fire escape at the far west end of the 2nd floor hallway. Maybe I ca
 
 
 This must be the key mentioned in that note. The one that says it was "left with Uncle David".
-Наверное, это ключ, упомянутый в записке. В ней было написано, что ключ "оставили у дяди Дэвида".
+Наверное, это ключ, упоминавшийся в записке. Там говорилось, что ключ "оставили у дяди Дэвида".
 
 
 It says "North stairway".

@@ -11,7 +11,7 @@ BEGIN_SOURCE:
 
 
 There's a note stuck on the door.
-К двери приклеена записка.
+На двери записка.
 
 
 Dear Tim, I have to run an errand so I'm going out.
@@ -26,11 +26,11 @@ It looks like there's something stuck inside the toilet. Will you take it out?
 
 It looks like a wallet. There's some kind of memo in it.  >> << >>
 Похоже на бумажник.
-Внутри какая-то записка(памятка металл).
+Внутри какая-то записка.
 
 
 There's some kind of memo inside the wallet.  >> << >>
-В бумажнике какая-то записка(памятка металл).
+В бумажнике какая-то записка.
 
 
 There's nothing else interesting. There's no point in looking anymore.
@@ -39,7 +39,7 @@ There's nothing else interesting. There's no point in looking anymore.
 
 It's a small safe. It's closed tightly.
 Небольшой сейф.
-Двеца надежно заперта.
+Дверца надежно заперта.
 
 
 There's nothing inside the vault.

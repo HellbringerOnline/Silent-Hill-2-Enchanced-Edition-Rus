@@ -36,8 +36,8 @@ There's nothing interesting in the newspaper or magazine.
 
 
 There's a painting hanging on the wall. It looks like a landscape of this area.
-На стене висит картина. Похоже на пейзаж этой местности.
+Картина. Похоже на пейзаж этой местности.
 
 
 There's a painting hanging on the wall. It's some kind of strange landscape.
-На стене висит картина. На ней какой-то странный пейзаж.
+Картина. Какой-то странный пейзаж.

@@ -632,7 +632,7 @@ Apt W Side 2nd Fl
 
 
 Apt Stairway
-Апартаменты. Лестничная клетка.
+Апартаменты. Лестница.
 
 
 Outside Apt
@@ -672,11 +672,11 @@ Hospital Roof/Elevator
 
 
 Hospital Reverse Side 1st Fl W
-Госпиталь. 1-й этаж. Запад. Обратная сторона.
+Госп. 1-й этаж. Запад. Обратная сторона.
 
 
 Hospital Reverse Side 1st Fl E
-Госпиталь. 2-й этаж. Восток. Обратная сторона.
+Госп. 2-й этаж. Восток. Обратная сторона.
 
 
 Hospital Reverse Side 2nd Fl
@@ -688,7 +688,7 @@ Hospital Reverse Side 3rd Fl
 
 
 Hospital Basement/Stair/Elev
-Госпиталь. Подвал/Лестничная клетка/Лифт.
+Госпиталь. Подвал/Лестница/Лифт.
 
 
 Hospital Reverse Side Corridor

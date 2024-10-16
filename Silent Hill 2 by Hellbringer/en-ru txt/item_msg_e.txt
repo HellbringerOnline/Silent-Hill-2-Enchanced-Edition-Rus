@@ -295,7 +295,7 @@ Courtyard key
 
 
 Key to door which leads from the westside stairway hall to the courtyard.
-Ключ к двери во внутренний двор.
+Ключ от двери во внутренний двор.
 
 
 Fire escape key
@@ -471,7 +471,7 @@ Coin [Old Man]
 
 
 Large coin imprinted with the face of an old person. Took it out of the trash chute exit.
-Большая монета оттиском лица пожилого человека. Взял в мусорном контейнере(ли? выход мусоропр).
+Большая монета с оттиском лица пожилого человека. Взял в мусорном контейнере(ли? выход мусоропр).
 
 
 Coin [Prisoner]

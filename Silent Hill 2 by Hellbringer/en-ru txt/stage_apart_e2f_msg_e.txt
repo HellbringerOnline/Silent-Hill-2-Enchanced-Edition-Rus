@@ -19,7 +19,7 @@ Some kind of noise north of here...
 He's dead.
 Who could have done this...
 Он мертв.
-Кто мог это сделать...
+Кто мог сотворить с ним такое...
 
 
 It's too dark to tell for sure, but I think there's something on the other side of the hole.
@@ -184,8 +184,7 @@ There's nothing that looks useful.
 
 There's a newspaper on the ground.
 But there's nothing interesting written in it.
-На полу лежит газета.
-Но в ней не написано ничего интересного.
+Газета. В ней не написано ничего интересного.
 
 
 A large clock.

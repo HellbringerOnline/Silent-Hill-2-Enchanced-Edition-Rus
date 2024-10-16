@@ -133,12 +133,12 @@ May his soul be anointed
 Будет душа его прощена
 
 
-There's something written on the desk.
-На столе что-то написано.
+There's something written on the desk. (Такой вид письменного стола называется бюро)
+На передней панели бюро пластина с надписью. 
 
 
 There is a line of five 1-inch round depressions set into the table.
-В столе ряд из пяти круглых углублений диаметром чуть более 2 сантиметров.
+На крышке пять круглых углублений диаметром чуть более 2 сантиметров.
 
 
 Which hole will you put the coin into?
@@ -162,7 +162,7 @@ I got white chrism.
 
 
 There's nothing interesting on the desk.
-На столе ничего интересного.
+Внутри ничего интересного.
 
 ////
 Oh... it's you.

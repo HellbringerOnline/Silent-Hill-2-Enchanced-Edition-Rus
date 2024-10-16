@@ -140,7 +140,7 @@ There's nothing interesting written in the memo book.
 
 
 There's a painting hanging on the wall. It looks like a landscape of this area.
-На стене висит картина. Похоже на пейзаж этой местности.
+stage_apart_e3fe_msg_e
 
 ////
 Sorry... Ah...

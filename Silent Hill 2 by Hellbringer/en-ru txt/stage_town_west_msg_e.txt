@@ -41,7 +41,7 @@ Patrick Chester, son of Edward. He fought and died for the people, for liberty a
 
 
 In memory of the sixty seven who died of illness and now sleep beneath the lake.
-В память о шестидесяти семи умерших от болезней, покоящихся теперь на дне озера.
+В память о шестидесяти семи умерших от болезней, покоящися на дне озера.
 
 
 Something is written on it, but it's impossible to read because its surface has been rubbed away.
@@ -205,7 +205,7 @@ I didn't come here to play, you know.
 
 
 Hurry back, okay.
-Возвращайся скорее, хорошо.
+Возвращайся скорей, хорошо?
 ////
 
 ///
@@ -252,7 +252,7 @@ Over there!
 
 
 I got the dog key from the doghouse.
-Я взял ключ собаки из конуры.
+Я взял из конуры ключ собаки.
 
 
 There's nothing more to do here. Guess I'll go back to looking for Mary....
@@ -294,9 +294,9 @@ It's okay, I have you.
 
 
 I have to go after Laura. I can't just leave her all alone. Also...maybe she'll be able to tell me something about Mary.
-Я должен найти Лору.
-Я не могу оставить ее одну.
-А еще... может быть, она сможет рассказать мне что-нибудь о Мэри.
+Нужно найти Лору.
+Нельзя оставлять ее одну.
+А еще... возможно, мне удастся выведать у нее что-нибудь о Мэри.
 
 
 Just a normal wall. The graffiti that looks like it was written by a child.
@@ -359,7 +359,7 @@ Silent Hill Historical Society
 
 This bridge is ruined. I can't get to the hotel from here...
 Мост разрушен.
-Этим путем не добраться до отеля...
+Так до отеля не добраться...
 
 
 Heaven's Night
@@ -380,7 +380,7 @@ Pete's Bowl-O-Rama
 
 
 Boats to Lakeside Amusement Park and Lakeview Hotel 
-Лодки до парка развлечений "Лейксайд" и отеля "Лейквью" 
+Переправа к парку развлечений "Лейксайд" и отелю "Лейквью" 
 
 
 I copied it onto my own map.
